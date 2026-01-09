@@ -1,58 +1,32 @@
-# SimpleToolSet – Free Online Tools Knowledge Base
+# SimpleToolset Knowledge Export
 
-SimpleToolSet is a browser-based platform that provides free online tools for text, images, PDFs, and everyday productivity tasks.
+This repository is a public knowledge base for SimpleToolset. It is designed for AI/LLM and search indexing and contains content-only documentation for tools, categories, and use cases.
 
-All tools run directly in the browser whenever possible. No login, no installation, and privacy-first by design.
+## Purpose
 
-🌐 Website: https://simpletoolset.com
+This is a mirror of SimpleToolset content for indexing and reference. It is not the production site.
 
----
+## How it is generated
 
-## 🔧 What is SimpleToolSet?
+Content is exported from the private SimpleToolset repo into `public-knowledge-export/` as a clean, publishable bundle.
 
-SimpleToolSet is a collection of lightweight online utilities designed for writers, students, developers, and everyday users who need quick tools without installing software.
+## Organization
 
-It includes tools such as:
+- `knowledge/categories/` contains category pages.
+- `knowledge/tools/` contains tool pages.
+- `knowledge/use-cases/` contains use case pages.
+- `tools.json` contains structured metadata for tools.
+- `sitemap.md` lists all canonical URLs and files.
+- `llms.txt` and `ai-index.md` provide AI/LLM guidance.
 
-- Word and character counters  
-- Text converters and generators  
-- Image compressors and converters  
-- PDF tools  
-- Utility generators and helpers  
+## Contributing
 
----
+Edit the Markdown files and keep canonical URLs pointing to `https://simpletoolset.com/...`. Use relative links inside this repository.
 
-## 🧩 Tool Categories
+## AI/LLM friendly
 
-- Text tools → https://simpletoolset.com/en/text-tools  
-- Image tools → https://simpletoolset.com/en/image-tools  
-- PDF tools → https://simpletoolset.com/en/pdf-tools  
+Content is structured, uses canonical URLs, and includes no tracking or analytics identifiers.
 
-Detailed lists are available in the `/tools` folder.
+## No user data
 
----
-
-## 👥 Who is it for?
-
-- Writers & content creators  
-- Students & teachers  
-- Developers & SEO specialists  
-- Designers & marketers  
-
----
-
-## 📚 Knowledge base
-
-This repository documents:
-
-- What SimpleToolSet is  
-- The tools it provides  
-- Common use cases  
-- Guides and explanations  
-
----
-
-## 🔗 Official links
-
-- Website: https://simpletoolset.com  
-- GitHub: https://github.com/naut29/simpletoolset-knowledge
+This repository contains no user data or personal information.

@@ -1,0 +1,420 @@
+{
+  "generatedAt": "2026-01-09T01:57:10.364Z",
+  "baseUrl": "https://simpletoolset.com",
+  "lang": "en",
+  "tools": [
+    {
+      "slug": "word-counter",
+      "name": "Word Counter - Free Character & Word Count Tool",
+      "category": "text-tools",
+      "url": "https://simpletoolset.com/en/text-tools/word-counter",
+      "description": "Count words, characters, sentences, and paragraphs instantly with our free word counter. Perfect for essays, articles, and social media posts."
+    },
+    {
+      "slug": "case-converter",
+      "name": "Text Case Converter - Uppercase, Lowercase & More",
+      "category": "text-tools",
+      "url": "https://simpletoolset.com/en/text-tools/case-converter",
+      "description": "Convert text to uppercase, lowercase, title case, or sentence case instantly. Free online text case converter with one-click transformations."
+    },
+    {
+      "slug": "lorem-ipsum",
+      "name": "Lorem Ipsum Generator - Placeholder Text Creator",
+      "category": "text-tools",
+      "url": "https://simpletoolset.com/en/text-tools/lorem-ipsum",
+      "description": "Generate lorem ipsum placeholder text for designs and mockups. Create paragraphs, sentences, or words instantly. Free dummy text generator. Learn how to use this tool"
+    },
+    {
+      "slug": "password-generator",
+      "name": "Password Generator - Create Secure Passwords Free",
+      "category": "text-tools",
+      "url": "https://simpletoolset.com/en/text-tools/password-generator",
+      "description": "Generate strong, secure passwords with our free tool. Customize length, symbols, numbers, and cases. Create uncrackable passwords instantly."
+    },
+    {
+      "slug": "text-sorter",
+      "name": "Text Sorter - Sort Lines Alphabetically A-Z Free",
+      "category": "text-tools",
+      "url": "https://simpletoolset.com/en/text-tools/text-sorter",
+      "description": "Sort lines of text alphabetically A-Z or Z-A instantly. Free online text sorter for lists, names, and data. Easy one-click alphabetization. Learn how to use this tool"
+    },
+    {
+      "slug": "remove-duplicates",
+      "name": "Remove Duplicate Lines - Free Online Dedupe Tool",
+      "category": "text-tools",
+      "url": "https://simpletoolset.com/en/text-tools/remove-duplicates",
+      "description": "Remove duplicate lines from text instantly. Keep unique entries only with our free duplicate remover. Case-sensitive options available. Learn how to use this tool and"
+    },
+    {
+      "slug": "diff-checker",
+      "name": "Diff Checker - Compare Two Texts Online Free",
+      "category": "text-tools",
+      "url": "https://simpletoolset.com/en/text-tools/diff-checker",
+      "description": "Free online diff checker. Compare two text blocks and highlight differences instantly. Perfect for code review and document comparison. Learn how to use this tool and"
+    },
+    {
+      "slug": "markdown-to-html",
+      "name": "Markdown to HTML Converter - Free Online Tool",
+      "category": "text-tools",
+      "url": "https://simpletoolset.com/en/text-tools/markdown-to-html",
+      "description": "Convert Markdown to HTML instantly. Free online Markdown converter with live preview. Transform your MD files to clean HTML code. Learn how to use this tool and explore"
+    },
+    {
+      "slug": "slug-generator",
+      "name": "Slug Generator - Create SEO-Friendly URLs Free",
+      "category": "text-tools",
+      "url": "https://simpletoolset.com/en/text-tools/slug-generator",
+      "description": "Generate SEO-friendly URL slugs from any text. Free slug generator for clean, readable URLs. Perfect for blogs and websites. Learn how to use this tool and explore"
+    },
+    {
+      "slug": "keyword-frequency",
+      "name": "Keyword Frequency Analyzer - Free Word Density Tool",
+      "category": "text-tools",
+      "url": "https://simpletoolset.com/en/text-tools/keyword-frequency",
+      "description": "Analyze keyword frequency and density in your text. Free tool to count word occurrences and optimize content for SEO. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "remove-line-breaks",
+      "name": "Remove Line Breaks - Clean Up Text Online Free",
+      "category": "text-tools",
+      "url": "https://simpletoolset.com/en/text-tools/remove-line-breaks",
+      "description": "Remove unwanted line breaks from text instantly. Free tool to clean up text formatting and join lines together. Learn how to use this tool and explore related resources"
+    },
+    {
+      "slug": "text-to-handwriting",
+      "name": "Text to Handwriting - Convert Text to Handwriting Style",
+      "category": "text-tools",
+      "url": "https://simpletoolset.com/en/text-tools/text-to-handwriting",
+      "description": "Convert typed text into handwriting-style images. Free generator with multiple fonts, colors, and paper styles. Learn how to use this tool and explore related resources"
+    },
+    {
+      "slug": "image-compressor",
+      "name": "Image Compressor - Reduce File Size Online Free",
+      "category": "image-tools",
+      "url": "https://simpletoolset.com/en/image-tools/image-compressor",
+      "description": "Compress images online without losing quality. Reduce JPEG and PNG file sizes for faster websites. Free image compression tool, no upload limits."
+    },
+    {
+      "slug": "image-resizer",
+      "name": "Image Resizer - Resize Photos Online Free",
+      "category": "image-tools",
+      "url": "https://simpletoolset.com/en/image-tools/image-resizer",
+      "description": "Resize images to any dimension online for free. Maintain aspect ratio, use presets, or enter custom sizes. Fast, easy image resizing tool. Learn how to use this tool and"
+    },
+    {
+      "slug": "image-cropper",
+      "name": "Image Cropper - Crop Photos Online Free",
+      "category": "image-tools",
+      "url": "https://simpletoolset.com/en/image-tools/image-cropper",
+      "description": "Crop images to any size or aspect ratio online. Free photo cropping tool with drag-and-drop interface. No software installation required. Learn how to use this tool and"
+    },
+    {
+      "slug": "text-to-image",
+      "name": "Text to Image - Convert Text to Pictures Free",
+      "category": "image-tools",
+      "url": "https://simpletoolset.com/en/image-tools/text-to-image",
+      "description": "Convert any text into downloadable images. Customize fonts, colors, and backgrounds. Free text to image generator for quotes and graphics. Learn how to use this tool and"
+    },
+    {
+      "slug": "image-to-pdf",
+      "name": "Image to PDF Converter - JPG to PDF Free Online",
+      "category": "pdf-tools",
+      "url": "https://simpletoolset.com/en/pdf-tools/image-to-pdf",
+      "description": "Convert images to PDF documents instantly. Combine multiple JPG, PNG, or WebP images into one PDF. Free online image to PDF converter. Learn how to use this tool and"
+    },
+    {
+      "slug": "pdf-to-image",
+      "name": "PDF to Image Converter - PDF to JPG/PNG Free",
+      "category": "pdf-tools",
+      "url": "https://simpletoolset.com/en/pdf-tools/pdf-to-image",
+      "description": "Convert PDF pages to high-quality images. Extract pages as JPG or PNG files. Free PDF to image converter online, no software needed. Learn how to use this tool and"
+    },
+    {
+      "slug": "merge-pdf",
+      "name": "Merge PDF - Combine PDF Files Online Free",
+      "category": "pdf-tools",
+      "url": "https://simpletoolset.com/en/pdf-tools/merge-pdf",
+      "description": "Merge multiple PDF files into one document. Combine PDFs in any order with our free online PDF merger. No software installation required. Learn how to use this tool and"
+    },
+    {
+      "slug": "split-pdf",
+      "name": "Split PDF - Separate PDF Pages Online Free",
+      "category": "pdf-tools",
+      "url": "https://simpletoolset.com/en/pdf-tools/split-pdf",
+      "description": "Split PDF documents into separate pages or sections. Extract specific pages from PDFs. Free online PDF splitter, no registration required. Learn how to use this tool and"
+    },
+    {
+      "slug": "rotate-pdf",
+      "name": "Rotate PDF - Rotate PDF Pages Online Free",
+      "category": "pdf-tools",
+      "url": "https://simpletoolset.com/en/pdf-tools/rotate-pdf",
+      "description": "Rotate PDF pages 90, 180, or 270 degrees. Fix upside-down or sideways PDF pages. Free PDF rotation tool, no software needed. Learn how to use this tool and explore"
+    },
+    {
+      "slug": "qr-generator",
+      "name": "QR Code Generator - Create QR Codes Free Online",
+      "category": "utility-tools",
+      "url": "https://simpletoolset.com/en/utility-tools/qr-generator",
+      "description": "Generate QR codes for URLs, text, or any data instantly. Free QR code generator with download option. Create scannable codes in seconds. Learn how to use this tool and"
+    },
+    {
+      "slug": "random-number",
+      "name": "Random Number Generator - Generate Random Numbers Free",
+      "category": "utility-tools",
+      "url": "https://simpletoolset.com/en/utility-tools/random-number",
+      "description": "Generate random numbers within any range instantly. Perfect for lotteries, games, and decisions. Free random number generator online. Learn how to use this tool and"
+    },
+    {
+      "slug": "random-name",
+      "name": "Random Name Generator - Generate Names Free Online",
+      "category": "utility-tools",
+      "url": "https://simpletoolset.com/en/utility-tools/random-name",
+      "description": "Generate random first names, last names, or full names instantly. Perfect for writers, game developers, and testing. Free name generator. Learn how to use this tool and"
+    },
+    {
+      "slug": "uuid-generator",
+      "name": "UUID Generator - Generate UUID v4 Online Free",
+      "category": "utility-tools",
+      "url": "https://simpletoolset.com/en/utility-tools/uuid-generator",
+      "description": "Generate random UUIDs (v4) instantly. Create unique identifiers for databases, APIs, and applications. Free UUID generator with copy function."
+    },
+    {
+      "slug": "calculator",
+      "name": "Online Calculator - Free Basic Math Calculator",
+      "category": "utility-tools",
+      "url": "https://simpletoolset.com/en/utility-tools/calculator",
+      "description": "Free online calculator for basic math. Add, subtract, multiply, and divide with an easy-to-use interface. Quick calculations without apps. Learn how to use this tool and"
+    },
+    {
+      "slug": "password-strength",
+      "name": "Password Strength Meter - Check Your Password Security",
+      "category": "utility-tools",
+      "url": "https://simpletoolset.com/en/utility-tools/password-strength",
+      "description": "Check how strong your password is. Free password strength analyzer with security suggestions and improvement tips. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "htaccess-generator",
+      "name": "HTACCESS Generator - Create Apache Config Rules",
+      "category": "utility-tools",
+      "url": "https://simpletoolset.com/en/utility-tools/htaccess-generator",
+      "description": "Generate .htaccess configuration snippets for Apache servers. Free tool for redirects, caching, security rules, and more. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "user-agent-parser",
+      "name": "User Agent Parser - Decode Browser Information",
+      "category": "utility-tools",
+      "url": "https://simpletoolset.com/en/utility-tools/user-agent-parser",
+      "description": "Parse and decode user agent strings. Free tool to extract browser, OS, and device information from any UA string. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "md5-hash-generator",
+      "name": "MD5 Hash Generator - Free Online MD5 Checksum Tool",
+      "category": "utility-tools",
+      "url": "https://simpletoolset.com/en/utility-tools/md5-hash-generator",
+      "description": "Generate MD5 hashes from text instantly. Free online MD5 checksum generator for data integrity verification. No signup required. Learn how to use this tool and explore"
+    },
+    {
+      "slug": "xml-formatter",
+      "name": "XML Formatter - Beautify XML Online Free",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/xml-formatter",
+      "description": "Format and beautify XML code online. Free XML formatter with proper indentation and syntax highlighting. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "yaml-to-json",
+      "name": "YAML to JSON Converter - Free Online Tool",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/yaml-to-json",
+      "description": "Convert YAML to JSON and JSON to YAML instantly. Free bidirectional converter for configuration files. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "sql-formatter",
+      "name": "SQL Formatter - Beautify SQL Queries Free",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/sql-formatter",
+      "description": "Format SQL queries online for better readability. Free SQL beautifier with proper indentation and keyword highlighting. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "js-obfuscator",
+      "name": "JavaScript Obfuscator - Protect Your JS Code",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/js-obfuscator",
+      "description": "Obfuscate JavaScript code to protect your logic. Free tool to make JS code harder to read and copy. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "regex-tester",
+      "name": "Regex Tester - Test Regular Expressions Online",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/regex-tester",
+      "description": "Test and validate regular expressions in real-time. Free regex tester with match highlighting and flag support. Learn how to use this tool and explore related resources"
+    },
+    {
+      "slug": "jwt-decoder",
+      "name": "JWT Decoder - Decode JSON Web Tokens Free",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/jwt-decoder",
+      "description": "Decode JWT tokens and view header and payload data. Free tool to inspect and debug JSON Web Tokens. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "crontab-generator",
+      "name": "Crontab Generator - Create Cron Schedules Visually",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/crontab-generator",
+      "description": "Generate cron job schedules with a visual editor. Free crontab generator with presets and human-readable descriptions. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "json-to-csv",
+      "name": "JSON to CSV Converter - Transform JSON Data Free",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/json-to-csv",
+      "description": "Convert JSON data to CSV format instantly. Free online JSON to CSV converter for spreadsheets and data analysis. No signup required. Learn how to use this tool and"
+    },
+    {
+      "slug": "html-entity-encoder",
+      "name": "HTML Entity Encoder/Decoder - Encode Special Characters",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/html-entity-encoder",
+      "description": "Encode and decode HTML entities online. Convert special characters like <, >, & to safe HTML entities. Free encoder/decoder tool. Learn how to use this tool and explore"
+    },
+    {
+      "slug": "php-serialized-viewer",
+      "name": "PHP Serialized Data Viewer - Decode Serialized Strings",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/php-serialized-viewer",
+      "description": "Decode and visualize PHP serialized data online. Free tool to parse WordPress and PHP serialized strings into readable format. Learn how to use this tool and explore"
+    },
+    {
+      "slug": "epoch-converter",
+      "name": "Epoch/Unix Timestamp Converter - Convert Dates Free",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/epoch-converter",
+      "description": "Convert Unix timestamps to human-readable dates and vice versa. Free epoch converter for developers. Supports milliseconds and seconds. Learn how to use this tool and"
+    },
+    {
+      "slug": "graphql-prettifier",
+      "name": "GraphQL Prettifier - Format GraphQL Queries Free",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/graphql-prettifier",
+      "description": "Format and beautify GraphQL queries online. Free GraphQL prettifier with proper indentation and syntax highlighting. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "image-to-base64",
+      "name": "Image to Base64 Converter - Encode Images Online",
+      "category": "design-tools",
+      "url": "https://simpletoolset.com/en/design-tools/image-to-base64",
+      "description": "Convert images to Base64 strings for embedding in HTML and CSS. Free encoder supporting PNG, JPG, and WebP. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "css-gradient-generator",
+      "name": "CSS Gradient Generator - Create Beautiful Gradients",
+      "category": "design-tools",
+      "url": "https://simpletoolset.com/en/design-tools/css-gradient-generator",
+      "description": "Create CSS gradients visually. Free generator for linear and radial gradients with live preview and copy-ready CSS code. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "color-shade-generator",
+      "name": "Color Shade Generator - Create Color Palettes",
+      "category": "design-tools",
+      "url": "https://simpletoolset.com/en/design-tools/color-shade-generator",
+      "description": "Generate color shades and tints from any base color. Free tool to create monochromatic palettes with CSS variables. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "svg-optimizer",
+      "name": "SVG Optimizer - Compress SVG Files Online",
+      "category": "design-tools",
+      "url": "https://simpletoolset.com/en/design-tools/svg-optimizer",
+      "description": "Optimize and compress SVG files without losing quality. Free SVG optimizer that removes metadata and unnecessary code. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "favicon-generator",
+      "name": "Favicon Generator - Create Website Icons Free",
+      "category": "design-tools",
+      "url": "https://simpletoolset.com/en/design-tools/favicon-generator",
+      "description": "Generate favicons in all sizes from any image. Free tool to create website icons for browsers, Apple devices, and Android. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "placeholder-image",
+      "name": "Placeholder Image Generator - Create Dummy Images Free",
+      "category": "design-tools",
+      "url": "https://simpletoolset.com/en/design-tools/placeholder-image",
+      "description": "Generate custom placeholder images for web design. Free tool to create dummy images in any size with custom colors and text. Learn how to use this tool and explore"
+    },
+    {
+      "slug": "color-contrast-checker",
+      "name": "Color Contrast Checker - WCAG Accessibility Tool Free",
+      "category": "design-tools",
+      "url": "https://simpletoolset.com/en/design-tools/color-contrast-checker",
+      "description": "Check color contrast ratios for WCAG accessibility compliance. Free tool to test text and background color combinations for AA and AAA standards."
+    },
+    {
+      "slug": "exif-viewer",
+      "name": "EXIF Viewer - Extract Image Metadata Online Free",
+      "category": "design-tools",
+      "url": "https://simpletoolset.com/en/design-tools/exif-viewer",
+      "description": "View EXIF data from photos online. Extract camera settings, GPS location, timestamps, and hidden metadata from images. Free and private. Learn how to use this tool and"
+    },
+    {
+      "slug": "webp-converter",
+      "name": "WebP Converter - Convert WebP to PNG/JPG Free",
+      "category": "design-tools",
+      "url": "https://simpletoolset.com/en/design-tools/webp-converter",
+      "description": "Convert WebP images to PNG or JPG format online. Free WebP converter for when you need standard image formats. No upload required. Learn how to use this tool and explore"
+    },
+    {
+      "slug": "aspect-ratio-calculator",
+      "name": "Aspect Ratio Calculator - Calculate Image Dimensions",
+      "category": "design-tools",
+      "url": "https://simpletoolset.com/en/design-tools/aspect-ratio-calculator",
+      "description": "Calculate image and video dimensions with aspect ratio. Free tool to find width, height, or ratio for 16:9, 4:3, 1:1 and custom ratios. Learn how to use this tool and"
+    },
+    {
+      "slug": "url-parser",
+      "name": "URL Parser - Break Down URLs into Components",
+      "category": "network-tools",
+      "url": "https://simpletoolset.com/en/network-tools/url-parser",
+      "description": "Parse and analyze URLs into components. Free tool to extract protocol, host, path, and query parameters from any URL. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "ip-lookup",
+      "name": "IP Address Lookup - Find IP Location & ISP Info",
+      "category": "network-tools",
+      "url": "https://simpletoolset.com/en/network-tools/ip-lookup",
+      "description": "Look up IP address information including location, ISP, and timezone. Free IP geolocation tool for any public IP. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "instagram-caption-spacer",
+      "name": "Instagram Caption Spacer - Add Line Breaks Free",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/instagram-caption-spacer",
+      "description": "Format Instagram captions with proper line breaks and spacing. Free tool to create clean, readable Instagram posts and bios. Learn how to use this tool and explore"
+    },
+    {
+      "slug": "youtube-thumbnail-downloader",
+      "name": "YouTube Thumbnail Downloader - Get HD Thumbnails Free",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/youtube-thumbnail-downloader",
+      "description": "Download YouTube video thumbnails in HD quality. Free tool to grab thumbnails in multiple resolutions from any YouTube video. Learn how to use this tool and explore"
+    },
+    {
+      "slug": "twitter-character-counter",
+      "name": "Twitter/X Character Counter - Tweet Length Checker Free",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/twitter-character-counter",
+      "description": "Count characters for Twitter/X posts. Free tool to check tweet length, word count, and estimate thread size. Stay within limits. Learn how to use this tool and explore"
+    },
+    {
+      "slug": "word-cloud-generator",
+      "name": "Word Cloud Generator - Create Word Clouds Free",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/word-cloud-generator",
+      "description": "Generate beautiful word clouds from text. Free tool to visualize word frequency with customizable colors and layouts. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "utm-link-builder",
+      "name": "UTM Link Builder - Create Campaign Tracking URLs Free",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/utm-link-builder",
+      "description": "Build UTM tracking links for Google Analytics. Free tool to add campaign parameters to URLs for marketing attribution. Learn how to use this tool and explore related"
+    }
+  ]
+}

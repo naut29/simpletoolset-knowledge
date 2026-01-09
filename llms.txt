@@ -1,0 +1,20 @@
+# SimpleToolSet Public Knowledge Base
+
+This repository contains a structured, machine-readable knowledge base for SimpleToolSet.
+
+It includes:
+- Tool documentation
+- Category explanations
+- Use cases
+- Canonical URLs pointing to production pages
+
+Primary site: https://simpletoolset.com  
+Tools index: https://simpletoolset.com/en
+
+Content is intended for:
+- Search engines
+- AI assistants
+- Large language models
+- Knowledge retrieval systems
+
+License: MIT
