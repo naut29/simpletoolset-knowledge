@@ -55,4 +55,4 @@ This repository documents:
 ## 🔗 Official links
 
 - Website: https://simpletoolset.com  
-- GitHub: https://github.com/YOURNAME/simpletoolset-knowledge
+- GitHub: https://github.com/naut29/simpletoolset-knowledge
