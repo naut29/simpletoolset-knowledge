@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-09T03:01:02.693Z",
+  "generatedAt": "2026-05-20T07:07:24.076Z",
   "baseUrl": "https://simpletoolset.com",
   "lang": "en",
   "tools": [
@@ -7,414 +7,1569 @@
       "slug": "word-counter",
       "name": "Word Counter - Free Character & Word Count Tool",
       "category": "text-tools",
-      "url": "https://simpletoolset.com/en/text-tools/word-counter",
+      "url": "https://simpletoolset.com/en/text-tools/word-counter/",
       "description": "Count words, characters, sentences, and paragraphs instantly with our free word counter. Perfect for essays, articles, and social media posts."
     },
     {
       "slug": "case-converter",
       "name": "Text Case Converter - Uppercase, Lowercase & More",
       "category": "text-tools",
-      "url": "https://simpletoolset.com/en/text-tools/case-converter",
+      "url": "https://simpletoolset.com/en/text-tools/case-converter/",
       "description": "Convert text to uppercase, lowercase, title case, or sentence case instantly. Free online text case converter with one-click transformations."
     },
     {
       "slug": "lorem-ipsum",
       "name": "Lorem Ipsum Generator - Placeholder Text Creator",
       "category": "text-tools",
-      "url": "https://simpletoolset.com/en/text-tools/lorem-ipsum",
+      "url": "https://simpletoolset.com/en/text-tools/lorem-ipsum/",
       "description": "Generate lorem ipsum placeholder text for designs and mockups. Create paragraphs, sentences, or words instantly. Free dummy text generator. Learn how to use this tool"
     },
     {
       "slug": "password-generator",
       "name": "Password Generator - Create Secure Passwords Free",
       "category": "text-tools",
-      "url": "https://simpletoolset.com/en/text-tools/password-generator",
+      "url": "https://simpletoolset.com/en/text-tools/password-generator/",
       "description": "Generate strong, secure passwords with our free tool. Customize length, symbols, numbers, and cases. Create uncrackable passwords instantly."
     },
     {
       "slug": "text-sorter",
       "name": "Text Sorter - Sort Lines Alphabetically A-Z Free",
       "category": "text-tools",
-      "url": "https://simpletoolset.com/en/text-tools/text-sorter",
+      "url": "https://simpletoolset.com/en/text-tools/text-sorter/",
       "description": "Sort lines of text alphabetically A-Z or Z-A instantly. Free online text sorter for lists, names, and data. Easy one-click alphabetization. Learn how to use this tool"
     },
     {
       "slug": "remove-duplicates",
       "name": "Remove Duplicate Lines - Free Online Dedupe Tool",
       "category": "text-tools",
-      "url": "https://simpletoolset.com/en/text-tools/remove-duplicates",
+      "url": "https://simpletoolset.com/en/text-tools/remove-duplicates/",
       "description": "Remove duplicate lines from text instantly. Keep unique entries only with our free duplicate remover. Case-sensitive options available. Learn how to use this tool and"
     },
     {
       "slug": "diff-checker",
       "name": "Diff Checker - Compare Two Texts Online Free",
       "category": "text-tools",
-      "url": "https://simpletoolset.com/en/text-tools/diff-checker",
+      "url": "https://simpletoolset.com/en/text-tools/diff-checker/",
       "description": "Free online diff checker. Compare two text blocks and highlight differences instantly. Perfect for code review and document comparison. Learn how to use this tool and"
     },
     {
       "slug": "markdown-to-html",
       "name": "Markdown to HTML Converter - Free Online Tool",
       "category": "text-tools",
-      "url": "https://simpletoolset.com/en/text-tools/markdown-to-html",
+      "url": "https://simpletoolset.com/en/text-tools/markdown-to-html/",
       "description": "Convert Markdown to HTML instantly. Free online Markdown converter with live preview. Transform your MD files to clean HTML code. Learn how to use this tool and explore"
     },
     {
       "slug": "slug-generator",
       "name": "Slug Generator - Create SEO-Friendly URLs Free",
       "category": "text-tools",
-      "url": "https://simpletoolset.com/en/text-tools/slug-generator",
+      "url": "https://simpletoolset.com/en/text-tools/slug-generator/",
       "description": "Generate SEO-friendly URL slugs from any text. Free slug generator for clean, readable URLs. Perfect for blogs and websites. Learn how to use this tool and explore"
     },
     {
       "slug": "keyword-frequency",
       "name": "Keyword Frequency Analyzer - Free Word Density Tool",
       "category": "text-tools",
-      "url": "https://simpletoolset.com/en/text-tools/keyword-frequency",
+      "url": "https://simpletoolset.com/en/text-tools/keyword-frequency/",
       "description": "Analyze keyword frequency and density in your text. Free tool to count word occurrences and optimize content for SEO. Learn how to use this tool and explore related"
     },
     {
       "slug": "remove-line-breaks",
       "name": "Remove Line Breaks - Clean Up Text Online Free",
       "category": "text-tools",
-      "url": "https://simpletoolset.com/en/text-tools/remove-line-breaks",
+      "url": "https://simpletoolset.com/en/text-tools/remove-line-breaks/",
       "description": "Remove unwanted line breaks from text instantly. Free tool to clean up text formatting and join lines together. Learn how to use this tool and explore related resources"
     },
     {
       "slug": "text-to-handwriting",
       "name": "Text to Handwriting - Convert Text to Handwriting Style",
       "category": "text-tools",
-      "url": "https://simpletoolset.com/en/text-tools/text-to-handwriting",
+      "url": "https://simpletoolset.com/en/text-tools/text-to-handwriting/",
       "description": "Convert typed text into handwriting-style images. Free generator with multiple fonts, colors, and paper styles. Learn how to use this tool and explore related resources"
+    },
+    {
+      "slug": "serp-simulator",
+      "name": "Google SERP Simulator - Preview Titles & Descriptions Free",
+      "category": "text-tools",
+      "url": "https://simpletoolset.com/en/text-tools/serp-simulator/",
+      "description": "Preview how your meta title and description appear in Google results. Free SERP simulator with length checks and snippet preview. Learn how to use this tool and explore"
+    },
+    {
+      "slug": "upside-down-text",
+      "name": "Upside Down Text Generator - Flip Text Online Free",
+      "category": "text-tools",
+      "url": "https://simpletoolset.com/en/text-tools/upside-down-text/",
+      "description": "Flip your text upside down using Unicode characters. Free upside down text generator for social media and creative posts. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "list-randomizer",
+      "name": "List Randomizer - Shuffle Lists Online Free",
+      "category": "text-tools",
+      "url": "https://simpletoolset.com/en/text-tools/list-randomizer/",
+      "description": "Shuffle any list into a random order instantly. Free list randomizer for names, tasks, and items. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "strikethrough-text",
+      "name": "Strikethrough Text Generator - Cross Out Text Free",
+      "category": "text-tools",
+      "url": "https://simpletoolset.com/en/text-tools/strikethrough-text/",
+      "description": "Create strikethrough text using Unicode characters. Free tool to cross out text for notes, edits, and social posts. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "sentence-counter",
+      "name": "Sentence Counter - Count Sentences Online Free",
+      "category": "text-tools",
+      "url": "https://simpletoolset.com/en/text-tools/sentence-counter/",
+      "description": "Count sentences in your text instantly. Free sentence counter with quick statistics for writing and editing. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "special-character-name-generator",
+      "name": "Special Character Name Generator – Fancy Nicknames for Games",
+      "category": "text-tools",
+      "url": "https://simpletoolset.com/en/text-tools/special-character-name-generator/",
+      "description": "Create stylish nicknames with special characters, symbols, and Unicode decorations. Includes presets for Free Fire, PUBG, and Arena of Valor. Free and instant."
     },
     {
       "slug": "image-compressor",
       "name": "Image Compressor - Reduce File Size Online Free",
       "category": "image-tools",
-      "url": "https://simpletoolset.com/en/image-tools/image-compressor",
+      "url": "https://simpletoolset.com/en/image-tools/image-compressor/",
       "description": "Compress images online without losing quality. Reduce JPEG and PNG file sizes for faster websites. Free image compression tool, no upload limits."
     },
     {
       "slug": "image-resizer",
       "name": "Image Resizer - Resize Photos Online Free",
       "category": "image-tools",
-      "url": "https://simpletoolset.com/en/image-tools/image-resizer",
+      "url": "https://simpletoolset.com/en/image-tools/image-resizer/",
       "description": "Resize images to any dimension online for free. Maintain aspect ratio, use presets, or enter custom sizes. Fast, easy image resizing tool. Learn how to use this tool and"
     },
     {
       "slug": "image-cropper",
       "name": "Image Cropper - Crop Photos Online Free",
       "category": "image-tools",
-      "url": "https://simpletoolset.com/en/image-tools/image-cropper",
+      "url": "https://simpletoolset.com/en/image-tools/image-cropper/",
       "description": "Crop images to any size or aspect ratio online. Free photo cropping tool with drag-and-drop interface. No software installation required. Learn how to use this tool and"
     },
     {
       "slug": "text-to-image",
       "name": "Text to Image - Convert Text to Pictures Free",
       "category": "image-tools",
-      "url": "https://simpletoolset.com/en/image-tools/text-to-image",
+      "url": "https://simpletoolset.com/en/image-tools/text-to-image/",
       "description": "Convert any text into downloadable images. Customize fonts, colors, and backgrounds. Free text to image generator for quotes and graphics. Learn how to use this tool and"
+    },
+    {
+      "slug": "image-format-converter",
+      "name": "Image Format Converter - JPG, PNG, WebP, GIF",
+      "category": "image-tools",
+      "url": "https://simpletoolset.com/en/image-tools/image-format-converter/",
+      "description": "Convert images between JPG, PNG, WebP, and GIF formats. Free image format converter with instant in-browser processing. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "image-to-webp-converter",
+      "name": "Image to WebP Converter - Fast WebP Export",
+      "category": "image-tools",
+      "url": "https://simpletoolset.com/en/image-tools/image-to-webp-converter/",
+      "description": "Convert images to WebP for smaller file sizes and faster websites. Adjust quality and download WebP instantly. Learn how to use this tool and explore related resources"
+    },
+    {
+      "slug": "image-background-remover-basic",
+      "name": "Image Background Remover - Basic Color Removal",
+      "category": "image-tools",
+      "url": "https://simpletoolset.com/en/image-tools/image-background-remover-basic/",
+      "description": "Remove image backgrounds using simple color detection. Pick a background color, adjust tolerance, and export PNG with transparency. Learn how to use this tool and"
+    },
+    {
+      "slug": "image-color-picker",
+      "name": "Image Color Picker - Get HEX & RGB from Images",
+      "category": "image-tools",
+      "url": "https://simpletoolset.com/en/image-tools/image-color-picker/",
+      "description": "Upload an image and click to pick colors. Instantly get HEX and RGB values for design and CSS. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "image-grayscale-converter",
+      "name": "Image Grayscale Converter - Black & White Photos",
+      "category": "image-tools",
+      "url": "https://simpletoolset.com/en/image-tools/image-grayscale-converter/",
+      "description": "Convert images to grayscale instantly. Free black and white image converter with in-browser processing. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "image-mirror-flip",
+      "name": "Image Mirror & Flip - Horizontal or Vertical",
+      "category": "image-tools",
+      "url": "https://simpletoolset.com/en/image-tools/image-mirror-flip/",
+      "description": "Flip images horizontally or vertically with one click. Free online image mirror tool with instant preview. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "image-rotate-tool",
+      "name": "Image Rotate Tool - Rotate by 90, 180, 270 or Custom",
+      "category": "image-tools",
+      "url": "https://simpletoolset.com/en/image-tools/image-rotate-tool/",
+      "description": "Rotate images by preset angles or custom degrees. Free image rotation tool with instant preview and download. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "image-watermark-tool",
+      "name": "Image Watermark Tool - Add Text Watermarks",
+      "category": "image-tools",
+      "url": "https://simpletoolset.com/en/image-tools/image-watermark-tool/",
+      "description": "Add text watermarks to images with position, size, color, and opacity controls. Free in-browser watermark tool. Learn how to use this tool and explore related resources"
+    },
+    {
+      "slug": "image-blur-tool",
+      "name": "Image Blur Tool - Blur All or Selected Areas",
+      "category": "image-tools",
+      "url": "https://simpletoolset.com/en/image-tools/image-blur-tool/",
+      "description": "Blur an entire image or select a specific area to blur. Free image blur tool with adjustable blur strength. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "image-metadata-viewer",
+      "name": "Image Metadata Viewer - View File Info & Dimensions",
+      "category": "image-tools",
+      "url": "https://simpletoolset.com/en/image-tools/image-metadata-viewer/",
+      "description": "View image metadata including file name, size, type, dimensions, and last modified date. Fast in-browser viewer. Learn how to use this tool and explore related resources"
+    },
+    {
+      "slug": "privacy-first-ocr",
+      "name": "Privacy-First OCR - Extract Text from Images Without Upload",
+      "category": "image-tools",
+      "url": "https://simpletoolset.com/en/image-tools/privacy-first-ocr/",
+      "description": "Private browser OCR tool. Extract text from receipts, ID cards, screenshots, and scanned images locally without uploading files. Learn how to use this tool and explore"
+    },
+    {
+      "slug": "ai-background-blur-sensitive-photos",
+      "name": "AI Background Blur for Sensitive Photos - Privacy Photo Blur Without Upload",
+      "category": "image-tools",
+      "url": "https://simpletoolset.com/en/image-tools/ai-background-blur-sensitive-photos/",
+      "description": "Blur the background or detected subject in sensitive photos locally with AI segmentation. Privacy-first image editing in your browser with no upload."
+    },
+    {
+      "slug": "local-metadata-cleaner",
+      "name": "Remove EXIF from Photos Online - Private GPS Metadata Cleaner",
+      "category": "image-tools",
+      "url": "https://simpletoolset.com/en/image-tools/local-metadata-cleaner/",
+      "description": "Remove EXIF, GPS coordinates, camera details, and hidden photo metadata locally in your browser. Private image metadata cleaner with no uploads."
+    },
+    {
+      "slug": "gif-compressor",
+      "name": "GIF Compressor - Reduce GIF File Size Online",
+      "category": "gif-tools",
+      "url": "https://simpletoolset.com/en/gif-tools/gif-compressor/",
+      "description": "Compress GIFs online to smaller sizes without losing animation. Free, fast, and privacy-friendly. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "gif-optimizer",
+      "name": "GIF Optimizer - Reduce Size and Improve Playback",
+      "category": "gif-tools",
+      "url": "https://simpletoolset.com/en/gif-tools/gif-optimizer/",
+      "description": "Optimize GIFs for smaller size and smoother playback. Tune quality, frame rate, and dimensions online. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "gif-resizer",
+      "name": "GIF Resizer - Change GIF Dimensions Online",
+      "category": "gif-tools",
+      "url": "https://simpletoolset.com/en/gif-tools/gif-resizer/",
+      "description": "Resize animated GIFs to any dimensions while preserving animation. Free and fast. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "gif-size-checker",
+      "name": "GIF Size Checker - Check GIF File Size Online",
+      "category": "gif-tools",
+      "url": "https://simpletoolset.com/en/gif-tools/gif-size-checker/",
+      "description": "Check GIF file size instantly to verify upload limits. Fast, private, and browser-based. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "compress-gif-to-10mb",
+      "name": "Compress GIF to 10MB - Reduce GIF Size for Upload Limits",
+      "category": "gif-tools",
+      "url": "https://simpletoolset.com/en/gif-tools/compress-gif-to-10mb/",
+      "description": "Compress GIFs to fit a 10MB upload limit locally in your browser. Reduce file size for websites, forms, and sharing without uploading. Learn how to use this tool and"
+    },
+    {
+      "slug": "compress-gif-to-8mb-discord",
+      "name": "Compress GIF to 8MB for Discord - Local GIF Size Reducer",
+      "category": "gif-tools",
+      "url": "https://simpletoolset.com/en/gif-tools/compress-gif-to-8mb-discord/",
+      "description": "Compress GIFs to fit Discord's 8MB upload limit locally in your browser. Keep animations shareable without uploading files to a server. Learn how to use this tool and"
+    },
+    {
+      "slug": "compress-gif-to-512kb",
+      "name": "Compress GIF to 512KB - Make Small GIF Files",
+      "category": "gif-tools",
+      "url": "https://simpletoolset.com/en/gif-tools/compress-gif-to-512kb/",
+      "description": "Reduce GIFs to about 512KB for strict limits and fast loading. Learn how to use this tool and explore related resources on SimpleToolSet. Learn how to use this tool and e"
+    },
+    {
+      "slug": "compress-gif-to-custom-size",
+      "name": "Compress GIF to Custom Size - Target GIF File Size Locally",
+      "category": "gif-tools",
+      "url": "https://simpletoolset.com/en/gif-tools/compress-gif-to-custom-size/",
+      "description": "Compress GIFs to a custom target size in your browser. Set the size you need and reduce animated GIF files locally without uploading. Learn how to use this tool and"
+    },
+    {
+      "slug": "video-to-gif",
+      "name": "Video to GIF Converter - Create High-Quality GIFs Locally",
+      "category": "gif-tools",
+      "url": "https://simpletoolset.com/en/gif-tools/video-to-gif/",
+      "description": "Create high-quality GIFs from video clips locally in your browser. Trim clips, set FPS, width, and colors, and export without uploading. Learn how to use this tool and"
+    },
+    {
+      "slug": "gif-to-mp4",
+      "name": "GIF to MP4 Converter - Smaller, Smoother Videos",
+      "category": "gif-tools",
+      "url": "https://simpletoolset.com/en/gif-tools/gif-to-mp4/",
+      "description": "Convert GIFs to MP4 for smaller files and better playback. Free and fast. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "gif-to-apng",
+      "name": "GIF to APNG Converter - High Quality Animation",
+      "category": "gif-tools",
+      "url": "https://simpletoolset.com/en/gif-tools/gif-to-apng/",
+      "description": "Convert GIFs to APNG for better color and transparency. Free and fast. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "gif-for-discord",
+      "name": "GIF for Discord - Prepare GIFs for Uploads",
+      "category": "gif-tools",
+      "url": "https://simpletoolset.com/en/gif-tools/gif-for-discord/",
+      "description": "Optimize GIFs for Discord with size, FPS, and dimension guidance. Hit upload limits faster. Learn how to use this tool and explore related resources on SimpleToolSet."
     },
     {
       "slug": "image-to-pdf",
       "name": "Image to PDF Converter - JPG to PDF Free Online",
       "category": "pdf-tools",
-      "url": "https://simpletoolset.com/en/pdf-tools/image-to-pdf",
+      "url": "https://simpletoolset.com/en/pdf-tools/image-to-pdf/",
       "description": "Convert images to PDF documents instantly. Combine multiple JPG, PNG, or WebP images into one PDF. Free online image to PDF converter. Learn how to use this tool and"
     },
     {
       "slug": "pdf-to-image",
       "name": "PDF to Image Converter - PDF to JPG/PNG Free",
       "category": "pdf-tools",
-      "url": "https://simpletoolset.com/en/pdf-tools/pdf-to-image",
+      "url": "https://simpletoolset.com/en/pdf-tools/pdf-to-image/",
       "description": "Convert PDF pages to high-quality images. Extract pages as JPG or PNG files. Free PDF to image converter online, no software needed. Learn how to use this tool and"
     },
     {
       "slug": "merge-pdf",
       "name": "Merge PDF - Combine PDF Files Online Free",
       "category": "pdf-tools",
-      "url": "https://simpletoolset.com/en/pdf-tools/merge-pdf",
+      "url": "https://simpletoolset.com/en/pdf-tools/merge-pdf/",
       "description": "Merge multiple PDF files into one document. Combine PDFs in any order with our free online PDF merger. No software installation required. Learn how to use this tool and"
     },
     {
       "slug": "split-pdf",
       "name": "Split PDF - Separate PDF Pages Online Free",
       "category": "pdf-tools",
-      "url": "https://simpletoolset.com/en/pdf-tools/split-pdf",
+      "url": "https://simpletoolset.com/en/pdf-tools/split-pdf/",
       "description": "Split PDF documents into separate pages or sections. Extract specific pages from PDFs. Free online PDF splitter, no registration required. Learn how to use this tool and"
     },
     {
       "slug": "rotate-pdf",
       "name": "Rotate PDF - Rotate PDF Pages Online Free",
       "category": "pdf-tools",
-      "url": "https://simpletoolset.com/en/pdf-tools/rotate-pdf",
+      "url": "https://simpletoolset.com/en/pdf-tools/rotate-pdf/",
       "description": "Rotate PDF pages 90, 180, or 270 degrees. Fix upside-down or sideways PDF pages. Free PDF rotation tool, no software needed. Learn how to use this tool and explore"
+    },
+    {
+      "slug": "compress-pdf",
+      "name": "Compress PDF - Reduce PDF File Size Online Free",
+      "category": "pdf-tools",
+      "url": "https://simpletoolset.com/en/pdf-tools/compress-pdf/",
+      "description": "Compress PDF files by re-encoding images and optimizing pages. Reduce PDF size in your browser with no uploads or installs. Learn how to use this tool and explore"
+    },
+    {
+      "slug": "reorder-pdf-pages",
+      "name": "Reorder PDF Pages - Rearrange PDF Online Free",
+      "category": "pdf-tools",
+      "url": "https://simpletoolset.com/en/pdf-tools/reorder-pdf-pages/",
+      "description": "Reorder PDF pages by dragging thumbnails into the right order. Download the updated PDF instantly in your browser. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "delete-pdf-pages",
+      "name": "Delete PDF Pages - Remove Pages Online Free",
+      "category": "pdf-tools",
+      "url": "https://simpletoolset.com/en/pdf-tools/delete-pdf-pages/",
+      "description": "Remove unwanted pages from a PDF document. Select pages to delete and download the cleaned PDF instantly. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "extract-pdf-pages",
+      "name": "Extract PDF Pages - Save Selected Pages Free",
+      "category": "pdf-tools",
+      "url": "https://simpletoolset.com/en/pdf-tools/extract-pdf-pages/",
+      "description": "Extract selected pages into a new PDF file. Choose pages visually and export them in your browser. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "pdf-page-numbering",
+      "name": "PDF Page Numbering - Add Page Numbers Online Free",
+      "category": "pdf-tools",
+      "url": "https://simpletoolset.com/en/pdf-tools/pdf-page-numbering/",
+      "description": "Add page numbers to PDF files with custom position and size. Create numbered PDFs in your browser instantly. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "pdf-watermark",
+      "name": "PDF Watermark - Add Text Watermarks Online Free",
+      "category": "pdf-tools",
+      "url": "https://simpletoolset.com/en/pdf-tools/pdf-watermark/",
+      "description": "Add text watermarks to PDF pages with custom size, opacity, and rotation. Free PDF watermark tool in your browser. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "pdf-to-text",
+      "name": "PDF to Text - Extract Text from PDFs Online Free",
+      "category": "pdf-tools",
+      "url": "https://simpletoolset.com/en/pdf-tools/pdf-to-text/",
+      "description": "Extract readable text from PDF files in your browser. Ideal for searchable PDFs with selectable text. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "protect-pdf",
+      "name": "Protect PDF - Add Password to PDF Files Online",
+      "category": "pdf-tools",
+      "url": "https://simpletoolset.com/en/pdf-tools/protect-pdf/",
+      "description": "Protect PDF files with a password directly in your browser. Keep documents private with client-side processing. Learn how to use this tool and explore related resources"
+    },
+    {
+      "slug": "unlock-pdf",
+      "name": "Unlock PDF - Remove PDF Password Online Free",
+      "category": "pdf-tools",
+      "url": "https://simpletoolset.com/en/pdf-tools/unlock-pdf/",
+      "description": "Unlock protected PDFs in your browser. Enter the password to export an unlocked PDF for easier access. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "pdf-metadata-viewer",
+      "name": "PDF Metadata Viewer - Check PDF Info Online Free",
+      "category": "pdf-tools",
+      "url": "https://simpletoolset.com/en/pdf-tools/pdf-metadata-viewer/",
+      "description": "View PDF file details like title, author, page count, and file size. Free PDF metadata viewer in your browser. Learn how to use this tool and explore related resources"
+    },
+    {
+      "slug": "pwa-document-signer",
+      "name": "PWA Document Signer - Sign PDF in Your Browser Without Uploading",
+      "category": "pdf-tools",
+      "url": "https://simpletoolset.com/en/pdf-tools/pwa-document-signer/",
+      "description": "Add a visible signature to PDF files locally in your browser, choose page placement, and keep SHA-256 fingerprints as a signing receipt. No server upload required."
     },
     {
       "slug": "qr-generator",
       "name": "QR Code Generator - Create QR Codes Free Online",
       "category": "utility-tools",
-      "url": "https://simpletoolset.com/en/utility-tools/qr-generator",
+      "url": "https://simpletoolset.com/en/utility-tools/qr-generator/",
       "description": "Generate QR codes for URLs, text, or any data instantly. Free QR code generator with download option. Create scannable codes in seconds. Learn how to use this tool and"
     },
     {
       "slug": "random-number",
       "name": "Random Number Generator - Generate Random Numbers Free",
       "category": "utility-tools",
-      "url": "https://simpletoolset.com/en/utility-tools/random-number",
+      "url": "https://simpletoolset.com/en/utility-tools/random-number/",
       "description": "Generate random numbers within any range instantly. Perfect for lotteries, games, and decisions. Free random number generator online. Learn how to use this tool and"
     },
     {
       "slug": "random-name",
       "name": "Random Name Generator - Generate Names Free Online",
       "category": "utility-tools",
-      "url": "https://simpletoolset.com/en/utility-tools/random-name",
+      "url": "https://simpletoolset.com/en/utility-tools/random-name/",
       "description": "Generate random first names, last names, or full names instantly. Perfect for writers, game developers, and testing. Free name generator. Learn how to use this tool and"
     },
     {
       "slug": "uuid-generator",
       "name": "UUID Generator - Generate UUID v4 Online Free",
       "category": "utility-tools",
-      "url": "https://simpletoolset.com/en/utility-tools/uuid-generator",
+      "url": "https://simpletoolset.com/en/utility-tools/uuid-generator/",
       "description": "Generate random UUIDs (v4) instantly. Create unique identifiers for databases, APIs, and applications. Free UUID generator with copy function."
     },
     {
       "slug": "calculator",
       "name": "Online Calculator - Free Basic Math Calculator",
       "category": "utility-tools",
-      "url": "https://simpletoolset.com/en/utility-tools/calculator",
+      "url": "https://simpletoolset.com/en/utility-tools/calculator/",
       "description": "Free online calculator for basic math. Add, subtract, multiply, and divide with an easy-to-use interface. Quick calculations without apps. Learn how to use this tool and"
     },
     {
       "slug": "password-strength",
       "name": "Password Strength Meter - Check Your Password Security",
       "category": "utility-tools",
-      "url": "https://simpletoolset.com/en/utility-tools/password-strength",
+      "url": "https://simpletoolset.com/en/utility-tools/password-strength/",
       "description": "Check how strong your password is. Free password strength analyzer with security suggestions and improvement tips. Learn how to use this tool and explore related"
     },
     {
       "slug": "htaccess-generator",
       "name": "HTACCESS Generator - Create Apache Config Rules",
       "category": "utility-tools",
-      "url": "https://simpletoolset.com/en/utility-tools/htaccess-generator",
+      "url": "https://simpletoolset.com/en/utility-tools/htaccess-generator/",
       "description": "Generate .htaccess configuration snippets for Apache servers. Free tool for redirects, caching, security rules, and more. Learn how to use this tool and explore related"
     },
     {
       "slug": "user-agent-parser",
       "name": "User Agent Parser - Decode Browser Information",
       "category": "utility-tools",
-      "url": "https://simpletoolset.com/en/utility-tools/user-agent-parser",
+      "url": "https://simpletoolset.com/en/utility-tools/user-agent-parser/",
       "description": "Parse and decode user agent strings. Free tool to extract browser, OS, and device information from any UA string. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "credit-card-generator",
+      "name": "Credit Card Generator - Test Card Numbers Online",
+      "category": "utility-tools",
+      "url": "https://simpletoolset.com/en/utility-tools/credit-card-generator/",
+      "description": "Generate test credit card numbers for QA and form validation. Luhn-valid numbers for safe, non-payment testing. Learn how to use this tool and explore related resources"
+    },
+    {
+      "slug": "strong-password-checker",
+      "name": "Strong Password Checker - Validate Password Safety",
+      "category": "utility-tools",
+      "url": "https://simpletoolset.com/en/utility-tools/strong-password-checker/",
+      "description": "Check password strength with strict rules and clear guidance. Free strong password checker that runs in your browser. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "dummy-data-generator",
+      "name": "Dummy Data Generator - Create Test Data Fast",
+      "category": "utility-tools",
+      "url": "https://simpletoolset.com/en/utility-tools/dummy-data-generator/",
+      "description": "Generate realistic dummy data for testing and demos. Create names, emails, addresses, and more in seconds. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "bip39-generator",
+      "name": "BIP39 Generator - Create Mnemonic Seed Phrases",
+      "category": "utility-tools",
+      "url": "https://simpletoolset.com/en/utility-tools/bip39-generator/",
+      "description": "Generate BIP39 mnemonic phrases locally in your browser. For education and wallet setup with proper security practices. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "vigenere-cipher",
+      "name": "Vigenere Cipher - Encrypt and Decrypt Text",
+      "category": "utility-tools",
+      "url": "https://simpletoolset.com/en/utility-tools/vigenere-cipher/",
+      "description": "Encrypt or decrypt text using the Vigenere cipher. A classic polyalphabetic cipher for learning and basic encoding. Learn how to use this tool and explore related"
     },
     {
       "slug": "md5-hash-generator",
       "name": "MD5 Hash Generator - Free Online MD5 Checksum Tool",
       "category": "utility-tools",
-      "url": "https://simpletoolset.com/en/utility-tools/md5-hash-generator",
+      "url": "https://simpletoolset.com/en/utility-tools/md5-hash-generator/",
       "description": "Generate MD5 hashes from text instantly. Free online MD5 checksum generator for data integrity verification. No signup required. Learn how to use this tool and explore"
+    },
+    {
+      "slug": "metric-to-imperial-converter",
+      "name": "Metric to Imperial Converter - Length, Mass & Volume",
+      "category": "unit-converters",
+      "url": "https://simpletoolset.com/en/unit-converters/metric-to-imperial-converter/",
+      "description": "Convert metric and imperial units for length, mass, and volume. Free metric to imperial converter with exact constants and quick swaps. Learn how to use this tool and"
+    },
+    {
+      "slug": "temperature-converter",
+      "name": "Temperature Converter - Celsius, Fahrenheit, Kelvin",
+      "category": "unit-converters",
+      "url": "https://simpletoolset.com/en/unit-converters/temperature-converter/",
+      "description": "Convert temperatures between Celsius, Fahrenheit, and Kelvin. Free temperature converter with precise formulas and instant results. Learn how to use this tool and"
+    },
+    {
+      "slug": "data-unit-converter",
+      "name": "Data Unit Converter - Bits, Bytes, KB, MB, GB & KiB",
+      "category": "unit-converters",
+      "url": "https://simpletoolset.com/en/unit-converters/data-unit-converter/",
+      "description": "Convert data sizes between bits, bytes, decimal KB/MB/GB and binary KiB/MiB/GiB. Toggle between decimal and binary standards. Learn how to use this tool and explore"
+    },
+    {
+      "slug": "fuel-consumption-converter",
+      "name": "Fuel Consumption Converter - L/100km, km/L, MPG",
+      "category": "unit-converters",
+      "url": "https://simpletoolset.com/en/unit-converters/fuel-consumption-converter/",
+      "description": "Convert fuel economy units including L/100km, km/L, MPG (US), and MPG (UK). Accurate formulas with instant results. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "area-converter",
+      "name": "Area Converter - m^2, ha, acre, ft^2, mi^2",
+      "category": "unit-converters",
+      "url": "https://simpletoolset.com/en/unit-converters/area-converter/",
+      "description": "Convert area units between square meters, hectares, acres, square feet, square yards, and square miles. Fast and accurate. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "pressure-converter",
+      "name": "Pressure Converter - Pa, kPa, bar, atm, psi, mmHg",
+      "category": "unit-converters",
+      "url": "https://simpletoolset.com/en/unit-converters/pressure-converter/",
+      "description": "Convert pressure units between Pa, kPa, MPa, bar, atm, psi, and mmHg (torr). Accurate conversions with standard constants. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "speed-converter",
+      "name": "Speed Converter - m/s, km/h, mph, knot",
+      "category": "unit-converters",
+      "url": "https://simpletoolset.com/en/unit-converters/speed-converter/",
+      "description": "Convert speed units between meters per second, kilometers per hour, miles per hour, and knots. Fast and accurate. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "power-converter",
+      "name": "Power Converter - W, kW, MW, Horsepower",
+      "category": "unit-converters",
+      "url": "https://simpletoolset.com/en/unit-converters/power-converter/",
+      "description": "Convert power units between watts, kilowatts, megawatts, and mechanical horsepower. Accurate conversions with exact constants. Learn how to use this tool and explore"
+    },
+    {
+      "slug": "cooking-weight-converter",
+      "name": "Cooking Weight Converter - g, oz, lb, cups & tsp",
+      "category": "unit-converters",
+      "url": "https://simpletoolset.com/en/unit-converters/cooking-weight-converter/",
+      "description": "Convert cooking weights and water-based volume measures. Convert grams, kilograms, ounces, pounds, teaspoons, tablespoons, and cups. Learn how to use this tool and"
+    },
+    {
+      "slug": "time-zone-converter",
+      "name": "Time Zone Converter - Convert Between Global Time Zones",
+      "category": "unit-converters",
+      "url": "https://simpletoolset.com/en/unit-converters/time-zone-converter/",
+      "description": "Convert date and time between UTC and major IANA time zones. Client-side time zone converter with DST support and offsets. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "compound-interest-calculator",
+      "name": "Compound Interest Calculator - Contributions & EAR",
+      "category": "financial-tools",
+      "url": "https://simpletoolset.com/en/financial-tools/compound-interest-calculator/",
+      "description": "Calculate compound interest with periodic contributions. See future value, interest earned, and effective annual rate. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "simple-interest-calculator",
+      "name": "Simple Interest Calculator - Total & Interest Earned",
+      "category": "financial-tools",
+      "url": "https://simpletoolset.com/en/financial-tools/simple-interest-calculator/",
+      "description": "Calculate simple interest totals and interest earned from principal, rate, and time. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "loan-emi-calculator",
+      "name": "Loan EMI Calculator - Payment, Total Paid & Interest",
+      "category": "financial-tools",
+      "url": "https://simpletoolset.com/en/financial-tools/loan-emi-calculator/",
+      "description": "Calculate loan payments, total paid, and total interest for common loan terms and rates. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "amortization-schedule-calculator",
+      "name": "Amortization Schedule Calculator - Payment Breakdown",
+      "category": "financial-tools",
+      "url": "https://simpletoolset.com/en/financial-tools/amortization-schedule-calculator/",
+      "description": "Generate an amortization schedule showing principal, interest, and remaining balance per period. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "mortgage-calculator-basic",
+      "name": "Mortgage Calculator (Basic) - Monthly Payment Estimate",
+      "category": "financial-tools",
+      "url": "https://simpletoolset.com/en/financial-tools/mortgage-calculator-basic/",
+      "description": "Estimate mortgage payments from home price, down payment, rate, and term. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "savings-goal-calculator",
+      "name": "Savings Goal Calculator - Required Contribution",
+      "category": "financial-tools",
+      "url": "https://simpletoolset.com/en/financial-tools/savings-goal-calculator/",
+      "description": "Calculate the contribution required to reach a savings goal with optional interest. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "present-value-future-value-calculator",
+      "name": "Present Value / Future Value Calculator",
+      "category": "financial-tools",
+      "url": "https://simpletoolset.com/en/financial-tools/present-value-future-value-calculator/",
+      "description": "Convert present value to future value (or vice versa) with compounding frequency. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "inflation-calculator",
+      "name": "Inflation Calculator - Future & Past Value",
+      "category": "financial-tools",
+      "url": "https://simpletoolset.com/en/financial-tools/inflation-calculator/",
+      "description": "Compare money value over time using an inflation rate. Calculate future or past value quickly. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "break-even-calculator",
+      "name": "Break-even Calculator - Units & Revenue",
+      "category": "financial-tools",
+      "url": "https://simpletoolset.com/en/financial-tools/break-even-calculator/",
+      "description": "Calculate break-even units and revenue from fixed cost, variable cost, and price. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "net-worth-calculator",
+      "name": "Net Worth Calculator - Assets vs Liabilities",
+      "category": "financial-tools",
+      "url": "https://simpletoolset.com/en/financial-tools/net-worth-calculator/",
+      "description": "Sum your assets and liabilities to estimate net worth instantly in your browser. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "budget-split-calculator",
+      "name": "Budget Split Calculator - Needs, Wants, Savings",
+      "category": "financial-tools",
+      "url": "https://simpletoolset.com/en/financial-tools/budget-split-calculator/",
+      "description": "Split income into needs, wants, and savings with presets or custom percentages. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "salary-to-hourly-calculator",
+      "name": "Salary to Hourly Calculator - Weekly & Monthly Pay",
+      "category": "financial-tools",
+      "url": "https://simpletoolset.com/en/financial-tools/salary-to-hourly-calculator/",
+      "description": "Convert annual or monthly salary to hourly, weekly, and monthly pay based on your schedule. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "personal-finance-visualizer",
+      "name": "Personal Finance Visualizer - Private CSV Expense & Cash Flow Tracker",
+      "category": "financial-tools",
+      "url": "https://simpletoolset.com/en/financial-tools/personal-finance-visualizer/",
+      "description": "Analyze bank statements locally from CSV files with a private finance tracker. Visualize income, expenses, and cash flow in your browser with no upload."
+    },
+    {
+      "slug": "bmi-calculator",
+      "name": "BMI Calculator - Body Mass Index & Category",
+      "category": "health-fitness",
+      "url": "https://simpletoolset.com/en/health-fitness/bmi-calculator/",
+      "description": "Calculate BMI from height and weight and see your BMI category instantly. Free, private BMI calculator with metric and imperial units. Learn how to use this tool and"
+    },
+    {
+      "slug": "bmr-calculator",
+      "name": "BMR Calculator - Mifflin-St Jeor Equation",
+      "category": "health-fitness",
+      "url": "https://simpletoolset.com/en/health-fitness/bmr-calculator/",
+      "description": "Estimate basal metabolic rate (BMR) with the Mifflin-St Jeor formula. Free calculator using age, height, weight, and gender. Learn how to use this tool and explore"
+    },
+    {
+      "slug": "daily-calorie-needs",
+      "name": "Daily Calorie Needs Calculator (TDEE)",
+      "category": "health-fitness",
+      "url": "https://simpletoolset.com/en/health-fitness/daily-calorie-needs/",
+      "description": "Estimate daily calorie needs using BMR and activity factors. Free TDEE calculator with clear activity levels. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "ideal-weight-calculator",
+      "name": "Ideal Weight Calculator - Devine, Robinson, Miller",
+      "category": "health-fitness",
+      "url": "https://simpletoolset.com/en/health-fitness/ideal-weight-calculator/",
+      "description": "Compare ideal weight using Devine, Robinson, and Miller formulas. Free calculator with metric and imperial units. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "body-fat-percentage-calculator",
+      "name": "Body Fat Percentage Calculator (US Navy)",
+      "category": "health-fitness",
+      "url": "https://simpletoolset.com/en/health-fitness/body-fat-percentage-calculator/",
+      "description": "Estimate body fat percentage using the US Navy method. Enter height, neck, waist, and hip (female) measurements. Learn how to use this tool and explore related resources"
+    },
+    {
+      "slug": "lean-body-mass-calculator",
+      "name": "Lean Body Mass Calculator - Boer, James, Hume",
+      "category": "health-fitness",
+      "url": "https://simpletoolset.com/en/health-fitness/lean-body-mass-calculator/",
+      "description": "Calculate lean body mass using Boer, James, and Hume formulas. Free calculator with metric and imperial units. Learn how to use this tool and explore related resources"
+    },
+    {
+      "slug": "calorie-deficit-calculator",
+      "name": "Calorie Deficit Calculator - Daily Calorie Change",
+      "category": "health-fitness",
+      "url": "https://simpletoolset.com/en/health-fitness/calorie-deficit-calculator/",
+      "description": "Estimate daily calorie change to lose or gain weight over a set number of weeks. Uses 1 kg 7700 kcal. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "water-intake-calculator",
+      "name": "Water Intake Calculator - Daily Hydration Estimate",
+      "category": "health-fitness",
+      "url": "https://simpletoolset.com/en/health-fitness/water-intake-calculator/",
+      "description": "Estimate daily water intake based on weight, activity, and climate. Free hydration calculator with liters and cups. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "heart-rate-zone-calculator",
+      "name": "Heart Rate Zone Calculator - Training Zones",
+      "category": "health-fitness",
+      "url": "https://simpletoolset.com/en/health-fitness/heart-rate-zone-calculator/",
+      "description": "Calculate heart rate training zones using the age-based max heart rate formula. Free, instant zone ranges. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "step-to-calorie-calculator",
+      "name": "Steps to Calories Calculator - Walking Estimate",
+      "category": "health-fitness",
+      "url": "https://simpletoolset.com/en/health-fitness/step-to-calorie-calculator/",
+      "description": "Estimate calories burned from steps using height, weight, and walking speed. Free steps to calories calculator. Learn how to use this tool and explore related resources"
+    },
+    {
+      "slug": "macro-nutrient-calculator",
+      "name": "Macro Nutrient Calculator - Protein, Fat, Carbs",
+      "category": "health-fitness",
+      "url": "https://simpletoolset.com/en/health-fitness/macro-nutrient-calculator/",
+      "description": "Convert calories into grams of protein, fat, and carbs using goal presets. Free macro calculator. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "pregnancy-due-date-calculator",
+      "name": "Pregnancy Due Date Calculator - LMP to Due Date",
+      "category": "health-fitness",
+      "url": "https://simpletoolset.com/en/health-fitness/pregnancy-due-date-calculator/",
+      "description": "Estimate pregnancy due date from last menstrual period (LMP). Includes trimester date ranges. Free, client-side tool. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "menopause-sleep-pattern-analyzer",
+      "name": "Menopause Sleep Pattern Analyzer - Private Local Sleep Journal",
+      "category": "health-fitness",
+      "url": "https://simpletoolset.com/en/health-fitness/menopause-sleep-pattern-analyzer/",
+      "description": "Track sleep quality, night sweats, and possible triggers locally with charts, IndexedDB storage, and offline-first backup. Private browser-based menopause sleep journal."
+    },
+    {
+      "slug": "hot-flash-trigger-visualizer",
+      "name": "Hot Flash Trigger Visualizer - Private Local Hot Flash Tracker",
+      "category": "health-fitness",
+      "url": "https://simpletoolset.com/en/health-fitness/hot-flash-trigger-visualizer/",
+      "description": "Track hot flashes and analyze likely triggers like caffeine, stress, heat, and spicy food locally with Chart.js, IndexedDB, and offline-first browser storage."
+    },
+    {
+      "slug": "menopause-doctor-visit-summary",
+      "name": "Menopause Doctor Visit Summary - Create a Private Visit PDF Offline",
+      "category": "health-fitness",
+      "url": "https://simpletoolset.com/en/health-fitness/menopause-doctor-visit-summary/",
+      "description": "Create a private menopause symptom summary for doctor visits offline. Organize symptom history in IndexedDB, export a PDF locally with jsPDF, and keep notes off the"
+    },
+    {
+      "slug": "vaginal-comfort-intimacy-log",
+      "name": "Vaginal Comfort & Intimacy Log - Private Local Comfort Tracker",
+      "category": "health-fitness",
+      "url": "https://simpletoolset.com/en/health-fitness/vaginal-comfort-intimacy-log/",
+      "description": "Track vaginal dryness, irritation, intimacy comfort, and related symptoms privately with Chart.js, IndexedDB, and offline-first browser storage. No account and no cloud"
+    },
+    {
+      "slug": "menopause-wellness-dashboard",
+      "name": "Menopause Wellness Dashboard - Private Local Wellness Tracker",
+      "category": "health-fitness",
+      "url": "https://simpletoolset.com/en/health-fitness/menopause-wellness-dashboard/",
+      "description": "Track menopause symptoms, sleep, mood, and energy in a private local dashboard with Chart.js, IndexedDB, and offline-first browser storage. No account or backend health"
+    },
+    {
+      "slug": "menopause-symptom-tracker",
+      "name": "Menopause Symptom Tracker - Private Local Menopause Journal",
+      "category": "health-fitness",
+      "url": "https://simpletoolset.com/en/health-fitness/menopause-symptom-tracker/",
+      "description": "Track hot flashes and other menopause or perimenopause symptoms locally with Chart.js, IndexedDB, and offline-first browser storage. Private symptom trends without"
+    },
+    {
+      "slug": "perimenopause-bleeding-log",
+      "name": "Perimenopause Bleeding Log - Private Local Bleeding Tracker",
+      "category": "health-fitness",
+      "url": "https://simpletoolset.com/en/health-fitness/perimenopause-bleeding-log/",
+      "description": "Log irregular periods and bleeding changes locally with Chart.js, IndexedDB, and offline-first browser storage. Private bleeding tracker with local export for doctor"
+    },
+    {
+      "slug": "stress-level-analyzer",
+      "name": "Stress Level Analyzer - Daily Stress Score",
+      "category": "life-tools",
+      "url": "https://simpletoolset.com/en/life-tools/stress-level-analyzer/",
+      "description": "Estimate a daily stress score from sleep, work hours, screen time, caffeine, and exercise. Private, client-side analyzer. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "sleep-quality-estimator",
+      "name": "Sleep Quality Estimator - Sleep Score & Debt",
+      "category": "life-tools",
+      "url": "https://simpletoolset.com/en/life-tools/sleep-quality-estimator/",
+      "description": "Estimate sleep quality and sleep debt using bedtime, wake time, duration, awakenings, and screen time. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "mood-brain-fog-tracker",
+      "name": "Mood & Brain Fog Tracker - Private Local Menopause Journal",
+      "category": "life-tools",
+      "url": "https://simpletoolset.com/en/life-tools/mood-brain-fog-tracker/",
+      "description": "Track menopause mood swings, anxiety, brain fog, and likely triggers locally with charts, IndexedDB storage, and offline-first backup. Private browser-based mood tracker."
+    },
+    {
+      "slug": "productivity-score-analyzer",
+      "name": "Productivity Score Analyzer - Focus Ratio & Index",
+      "category": "life-tools",
+      "url": "https://simpletoolset.com/en/life-tools/productivity-score-analyzer/",
+      "description": "Score productivity using deep work hours, interruptions, tasks completed, and focus time. Fast, client-side analyzer. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "burnout-risk-estimator",
+      "name": "Burnout Risk Estimator - Risk % and Warning Level",
+      "category": "life-tools",
+      "url": "https://simpletoolset.com/en/life-tools/burnout-risk-estimator/",
+      "description": "Estimate burnout risk using work hours, rest days, stress score, and sleep score. Client-side, rules-based. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "focus-ability-analyzer",
+      "name": "Focus Ability Analyzer - Focus Stability Score",
+      "category": "life-tools",
+      "url": "https://simpletoolset.com/en/life-tools/focus-ability-analyzer/",
+      "description": "Analyze focus stability using session length, break frequency, multitasking, and notifications. Client-side scoring. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "decision-fatigue-estimator",
+      "name": "Decision Fatigue Estimator - Mental Fatigue Index",
+      "category": "life-tools",
+      "url": "https://simpletoolset.com/en/life-tools/decision-fatigue-estimator/",
+      "description": "Estimate mental fatigue from daily decisions, work hours, sleep, and caffeine. Simple scoring, client-side. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "financial-health-score",
+      "name": "Financial Health Score - Lifestyle Finance Check",
+      "category": "life-tools",
+      "url": "https://simpletoolset.com/en/life-tools/financial-health-score/",
+      "description": "Score financial health using income stability, savings rate, emergency fund months, and debt ratio. Client-side. Learn how to use this tool and explore related resources"
+    },
+    {
+      "slug": "life-balance-analyzer",
+      "name": "Life Balance Analyzer - Balance Wheel Score",
+      "category": "life-tools",
+      "url": "https://simpletoolset.com/en/life-tools/life-balance-analyzer/",
+      "description": "Analyze balance across work, sleep, fitness, family, learning, and leisure. Includes balance and imbalance scores. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "habit-success-predictor",
+      "name": "Habit Success Predictor - Success Probability",
+      "category": "life-tools",
+      "url": "https://simpletoolset.com/en/life-tools/habit-success-predictor/",
+      "description": "Predict habit success using difficulty, time per day, motivation, and past consistency. Client-side scoring. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "motivation-level-estimator",
+      "name": "Motivation Level Estimator - Motivation Index",
+      "category": "life-tools",
+      "url": "https://simpletoolset.com/en/life-tools/motivation-level-estimator/",
+      "description": "Estimate motivation using goal clarity, progress, sleep, stress, and rewards. Client-side scoring with state labels. Learn how to use this tool and explore related"
     },
     {
       "slug": "xml-formatter",
       "name": "XML Formatter - Beautify XML Online Free",
       "category": "developer-tools",
-      "url": "https://simpletoolset.com/en/developer-tools/xml-formatter",
+      "url": "https://simpletoolset.com/en/developer-tools/xml-formatter/",
       "description": "Format and beautify XML code online. Free XML formatter with proper indentation and syntax highlighting. Learn how to use this tool and explore related resources on"
     },
     {
       "slug": "yaml-to-json",
       "name": "YAML to JSON Converter - Free Online Tool",
       "category": "developer-tools",
-      "url": "https://simpletoolset.com/en/developer-tools/yaml-to-json",
+      "url": "https://simpletoolset.com/en/developer-tools/yaml-to-json/",
       "description": "Convert YAML to JSON and JSON to YAML instantly. Free bidirectional converter for configuration files. Learn how to use this tool and explore related resources on"
     },
     {
       "slug": "sql-formatter",
       "name": "SQL Formatter - Beautify SQL Queries Free",
       "category": "developer-tools",
-      "url": "https://simpletoolset.com/en/developer-tools/sql-formatter",
+      "url": "https://simpletoolset.com/en/developer-tools/sql-formatter/",
       "description": "Format SQL queries online for better readability. Free SQL beautifier with proper indentation and keyword highlighting. Learn how to use this tool and explore related"
     },
     {
       "slug": "js-obfuscator",
       "name": "JavaScript Obfuscator - Protect Your JS Code",
       "category": "developer-tools",
-      "url": "https://simpletoolset.com/en/developer-tools/js-obfuscator",
+      "url": "https://simpletoolset.com/en/developer-tools/js-obfuscator/",
       "description": "Obfuscate JavaScript code to protect your logic. Free tool to make JS code harder to read and copy. Learn how to use this tool and explore related resources on"
     },
     {
       "slug": "regex-tester",
       "name": "Regex Tester - Test Regular Expressions Online",
       "category": "developer-tools",
-      "url": "https://simpletoolset.com/en/developer-tools/regex-tester",
+      "url": "https://simpletoolset.com/en/developer-tools/regex-tester/",
       "description": "Test and validate regular expressions in real-time. Free regex tester with match highlighting and flag support. Learn how to use this tool and explore related resources"
     },
     {
       "slug": "jwt-decoder",
       "name": "JWT Decoder - Decode JSON Web Tokens Free",
       "category": "developer-tools",
-      "url": "https://simpletoolset.com/en/developer-tools/jwt-decoder",
+      "url": "https://simpletoolset.com/en/developer-tools/jwt-decoder/",
       "description": "Decode JWT tokens and view header and payload data. Free tool to inspect and debug JSON Web Tokens. Learn how to use this tool and explore related resources on"
     },
     {
       "slug": "crontab-generator",
       "name": "Crontab Generator - Create Cron Schedules Visually",
       "category": "developer-tools",
-      "url": "https://simpletoolset.com/en/developer-tools/crontab-generator",
+      "url": "https://simpletoolset.com/en/developer-tools/crontab-generator/",
       "description": "Generate cron job schedules with a visual editor. Free crontab generator with presets and human-readable descriptions. Learn how to use this tool and explore related"
     },
     {
       "slug": "json-to-csv",
       "name": "JSON to CSV Converter - Transform JSON Data Free",
       "category": "developer-tools",
-      "url": "https://simpletoolset.com/en/developer-tools/json-to-csv",
+      "url": "https://simpletoolset.com/en/developer-tools/json-to-csv/",
       "description": "Convert JSON data to CSV format instantly. Free online JSON to CSV converter for spreadsheets and data analysis. No signup required. Learn how to use this tool and"
     },
     {
       "slug": "html-entity-encoder",
       "name": "HTML Entity Encoder/Decoder - Encode Special Characters",
       "category": "developer-tools",
-      "url": "https://simpletoolset.com/en/developer-tools/html-entity-encoder",
+      "url": "https://simpletoolset.com/en/developer-tools/html-entity-encoder/",
       "description": "Encode and decode HTML entities online. Convert special characters like <, >, & to safe HTML entities. Free encoder/decoder tool. Learn how to use this tool and explore"
     },
     {
       "slug": "php-serialized-viewer",
       "name": "PHP Serialized Data Viewer - Decode Serialized Strings",
       "category": "developer-tools",
-      "url": "https://simpletoolset.com/en/developer-tools/php-serialized-viewer",
+      "url": "https://simpletoolset.com/en/developer-tools/php-serialized-viewer/",
       "description": "Decode and visualize PHP serialized data online. Free tool to parse WordPress and PHP serialized strings into readable format. Learn how to use this tool and explore"
     },
     {
       "slug": "epoch-converter",
       "name": "Epoch/Unix Timestamp Converter - Convert Dates Free",
       "category": "developer-tools",
-      "url": "https://simpletoolset.com/en/developer-tools/epoch-converter",
+      "url": "https://simpletoolset.com/en/developer-tools/epoch-converter/",
       "description": "Convert Unix timestamps to human-readable dates and vice versa. Free epoch converter for developers. Supports milliseconds and seconds. Learn how to use this tool and"
     },
     {
       "slug": "graphql-prettifier",
       "name": "GraphQL Prettifier - Format GraphQL Queries Free",
       "category": "developer-tools",
-      "url": "https://simpletoolset.com/en/developer-tools/graphql-prettifier",
+      "url": "https://simpletoolset.com/en/developer-tools/graphql-prettifier/",
       "description": "Format and beautify GraphQL queries online. Free GraphQL prettifier with proper indentation and syntax highlighting. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "universal-markdown-converter",
+      "name": "Universal Markdown Converter - Markdown to PDF, DOCX, HTML",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/universal-markdown-converter/",
+      "description": "Convert Markdown to HTML, PDF, and DOCX privately in your browser. No uploads, no server storage. Fast Markdown converter for README files, docs, and notes."
+    },
+    {
+      "slug": "client-side-log-analyzer",
+      "name": "Client-Side Log Analyzer - Open Large Log Files in Your Browser",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/client-side-log-analyzer/",
+      "description": "Analyze large .log, .txt, .jsonl, and .ndjson files directly in your browser. Inspect JSON logs, repeated issues, and level breakdowns with no uploads."
+    },
+    {
+      "slug": "static-site-playground",
+      "name": "Static Site Playground - Run a Local-First Node.js Sandbox in Your Browser",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/static-site-playground/",
+      "description": "Edit multiple files, boot a browser-side Node.js environment, run a local static server, inspect terminal output, and preview the site without a cloud IDE."
+    },
+    {
+      "slug": "browser-based-file-encryptor",
+      "name": "Browser-Based File Encryptor - Password Protect Files with AES-256 in Your Browser",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/browser-based-file-encryptor/",
+      "description": "Encrypt files with AES-256-GCM in your browser, create a password-protected .stse container, and decrypt it locally later without uploads or server-side storage."
+    },
+    {
+      "slug": "offline-first-pomodoro-data-tracker",
+      "name": "Offline-First Pomodoro & Data Tracker - Private Focus Timer with Local Storage",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/offline-first-pomodoro-data-tracker/",
+      "description": "Run a privacy-first Pomodoro timer with IndexedDB storage, offline-first tracking, daily focus stats, and local history in your browser without an account."
+    },
+    {
+      "slug": "client-side-csv-to-sql",
+      "name": "Client-Side CSV to SQL - Convert CSV to SQL and SQLite Locally",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/client-side-csv-to-sql/",
+      "description": "Convert large CSV files to SQL scripts and in-browser SQLite locally. Private CSV to SQL workflow for ETL, bank statements, and browser-based data engineering with no"
     },
     {
       "slug": "image-to-base64",
       "name": "Image to Base64 Converter - Encode Images Online",
       "category": "design-tools",
-      "url": "https://simpletoolset.com/en/design-tools/image-to-base64",
+      "url": "https://simpletoolset.com/en/design-tools/image-to-base64/",
       "description": "Convert images to Base64 strings for embedding in HTML and CSS. Free encoder supporting PNG, JPG, and WebP. Learn how to use this tool and explore related resources on"
     },
     {
       "slug": "css-gradient-generator",
       "name": "CSS Gradient Generator - Create Beautiful Gradients",
       "category": "design-tools",
-      "url": "https://simpletoolset.com/en/design-tools/css-gradient-generator",
+      "url": "https://simpletoolset.com/en/design-tools/css-gradient-generator/",
       "description": "Create CSS gradients visually. Free generator for linear and radial gradients with live preview and copy-ready CSS code. Learn how to use this tool and explore related"
     },
     {
       "slug": "color-shade-generator",
       "name": "Color Shade Generator - Create Color Palettes",
       "category": "design-tools",
-      "url": "https://simpletoolset.com/en/design-tools/color-shade-generator",
+      "url": "https://simpletoolset.com/en/design-tools/color-shade-generator/",
       "description": "Generate color shades and tints from any base color. Free tool to create monochromatic palettes with CSS variables. Learn how to use this tool and explore related"
     },
     {
       "slug": "svg-optimizer",
       "name": "SVG Optimizer - Compress SVG Files Online",
       "category": "design-tools",
-      "url": "https://simpletoolset.com/en/design-tools/svg-optimizer",
+      "url": "https://simpletoolset.com/en/design-tools/svg-optimizer/",
       "description": "Optimize and compress SVG files without losing quality. Free SVG optimizer that removes metadata and unnecessary code. Learn how to use this tool and explore related"
     },
     {
       "slug": "favicon-generator",
       "name": "Favicon Generator - Create Website Icons Free",
       "category": "design-tools",
-      "url": "https://simpletoolset.com/en/design-tools/favicon-generator",
+      "url": "https://simpletoolset.com/en/design-tools/favicon-generator/",
       "description": "Generate favicons in all sizes from any image. Free tool to create website icons for browsers, Apple devices, and Android. Learn how to use this tool and explore related"
     },
     {
       "slug": "placeholder-image",
       "name": "Placeholder Image Generator - Create Dummy Images Free",
       "category": "design-tools",
-      "url": "https://simpletoolset.com/en/design-tools/placeholder-image",
+      "url": "https://simpletoolset.com/en/design-tools/placeholder-image/",
       "description": "Generate custom placeholder images for web design. Free tool to create dummy images in any size with custom colors and text. Learn how to use this tool and explore"
     },
     {
       "slug": "color-contrast-checker",
       "name": "Color Contrast Checker - WCAG Accessibility Tool Free",
       "category": "design-tools",
-      "url": "https://simpletoolset.com/en/design-tools/color-contrast-checker",
+      "url": "https://simpletoolset.com/en/design-tools/color-contrast-checker/",
       "description": "Check color contrast ratios for WCAG accessibility compliance. Free tool to test text and background color combinations for AA and AAA standards."
     },
     {
       "slug": "exif-viewer",
       "name": "EXIF Viewer - Extract Image Metadata Online Free",
       "category": "design-tools",
-      "url": "https://simpletoolset.com/en/design-tools/exif-viewer",
+      "url": "https://simpletoolset.com/en/design-tools/exif-viewer/",
       "description": "View EXIF data from photos online. Extract camera settings, GPS location, timestamps, and hidden metadata from images. Free and private. Learn how to use this tool and"
     },
     {
       "slug": "webp-converter",
       "name": "WebP Converter - Convert WebP to PNG/JPG Free",
       "category": "design-tools",
-      "url": "https://simpletoolset.com/en/design-tools/webp-converter",
+      "url": "https://simpletoolset.com/en/design-tools/webp-converter/",
       "description": "Convert WebP images to PNG or JPG format online. Free WebP converter for when you need standard image formats. No upload required. Learn how to use this tool and explore"
     },
     {
       "slug": "aspect-ratio-calculator",
       "name": "Aspect Ratio Calculator - Calculate Image Dimensions",
       "category": "design-tools",
-      "url": "https://simpletoolset.com/en/design-tools/aspect-ratio-calculator",
+      "url": "https://simpletoolset.com/en/design-tools/aspect-ratio-calculator/",
       "description": "Calculate image and video dimensions with aspect ratio. Free tool to find width, height, or ratio for 16:9, 4:3, 1:1 and custom ratios. Learn how to use this tool and"
     },
     {
       "slug": "url-parser",
       "name": "URL Parser - Break Down URLs into Components",
       "category": "network-tools",
-      "url": "https://simpletoolset.com/en/network-tools/url-parser",
+      "url": "https://simpletoolset.com/en/network-tools/url-parser/",
       "description": "Parse and analyze URLs into components. Free tool to extract protocol, host, path, and query parameters from any URL. Learn how to use this tool and explore related"
     },
     {
       "slug": "ip-lookup",
       "name": "IP Address Lookup - Find IP Location & ISP Info",
       "category": "network-tools",
-      "url": "https://simpletoolset.com/en/network-tools/ip-lookup",
+      "url": "https://simpletoolset.com/en/network-tools/ip-lookup/",
       "description": "Look up IP address information including location, ISP, and timezone. Free IP geolocation tool for any public IP. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "dns-record-explainer",
+      "name": "DNS Record Explainer - A, AAAA, CNAME, MX, TXT, NS, SRV",
+      "category": "network-tools",
+      "url": "https://simpletoolset.com/en/network-tools/dns-record-explainer/",
+      "description": "Explain DNS record types with clear meanings, formats, and examples. Client-side educational tool with quick validation. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "url-encoder-decoder",
+      "name": "URL Encoder Decoder - Encode & Decode URL Components",
+      "category": "network-tools",
+      "url": "https://simpletoolset.com/en/network-tools/url-encoder-decoder/",
+      "description": "Encode or decode URL components using standard browser-safe rules. Client-side with safe error handling. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "base64-encoder-decoder",
+      "name": "Base64 Encoder Decoder - Encode & Decode Text",
+      "category": "network-tools",
+      "url": "https://simpletoolset.com/en/network-tools/base64-encoder-decoder/",
+      "description": "Encode text to Base64 or decode Base64 back to text. Includes URL-safe option and runs client-side. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "jwt-header-inspector",
+      "name": "JWT Header Inspector - Decode JWT Header",
+      "category": "network-tools",
+      "url": "https://simpletoolset.com/en/network-tools/jwt-header-inspector/",
+      "description": "Inspect JWT header JSON client-side without verification. Safe, fast, and private. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "http-status-code-lookup",
+      "name": "HTTP Status Code Lookup - Meaning & Causes",
+      "category": "network-tools",
+      "url": "https://simpletoolset.com/en/network-tools/http-status-code-lookup/",
+      "description": "Lookup HTTP status codes with meanings and common causes. Client-side reference tool. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "http-user-agent-analyzer",
+      "name": "HTTP User-Agent Analyzer - Browser & OS Detector",
+      "category": "network-tools",
+      "url": "https://simpletoolset.com/en/network-tools/http-user-agent-analyzer/",
+      "description": "Analyze user-agent strings to identify browser, OS, device type, and engine. Client-side only. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "ipv4-subnet-calculator",
+      "name": "IPv4 Subnet Calculator - Network & Broadcast Details",
+      "category": "network-tools",
+      "url": "https://simpletoolset.com/en/network-tools/ipv4-subnet-calculator/",
+      "description": "Calculate network address, broadcast, usable range, and host counts from IPv4 CIDR. Client-side only. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "cidr-to-netmask",
+      "name": "CIDR to Netmask Converter - IPv4 CIDR Table",
+      "category": "network-tools",
+      "url": "https://simpletoolset.com/en/network-tools/cidr-to-netmask/",
+      "description": "Convert CIDR notation to netmask and back. Includes a /0-/32 reference table. Client-side. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "mac-address-generator-validator",
+      "name": "MAC Address Generator & Validator - Random MAC Tool",
+      "category": "network-tools",
+      "url": "https://simpletoolset.com/en/network-tools/mac-address-generator-validator/",
+      "description": "Validate MAC address formats and generate random locally administered MACs. Client-side only. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "port-number-lookup",
+      "name": "Port Number Lookup - Common Service Names",
+      "category": "network-tools",
+      "url": "https://simpletoolset.com/en/network-tools/port-number-lookup/",
+      "description": "Lookup common service names for popular port numbers with short descriptions. Client-side only. Learn how to use this tool and explore related resources on SimpleToolSet."
     },
     {
       "slug": "instagram-caption-spacer",
       "name": "Instagram Caption Spacer - Add Line Breaks Free",
       "category": "social-tools",
-      "url": "https://simpletoolset.com/en/social-tools/instagram-caption-spacer",
+      "url": "https://simpletoolset.com/en/social-tools/instagram-caption-spacer/",
       "description": "Format Instagram captions with proper line breaks and spacing. Free tool to create clean, readable Instagram posts and bios. Learn how to use this tool and explore"
     },
     {
       "slug": "youtube-thumbnail-downloader",
       "name": "YouTube Thumbnail Downloader - Get HD Thumbnails Free",
       "category": "social-tools",
-      "url": "https://simpletoolset.com/en/social-tools/youtube-thumbnail-downloader",
+      "url": "https://simpletoolset.com/en/social-tools/youtube-thumbnail-downloader/",
       "description": "Download YouTube video thumbnails in HD quality. Free tool to grab thumbnails in multiple resolutions from any YouTube video. Learn how to use this tool and explore"
     },
     {
       "slug": "twitter-character-counter",
       "name": "Twitter/X Character Counter - Tweet Length Checker Free",
       "category": "social-tools",
-      "url": "https://simpletoolset.com/en/social-tools/twitter-character-counter",
+      "url": "https://simpletoolset.com/en/social-tools/twitter-character-counter/",
       "description": "Count characters for Twitter/X posts. Free tool to check tweet length, word count, and estimate thread size. Stay within limits. Learn how to use this tool and explore"
     },
     {
       "slug": "word-cloud-generator",
       "name": "Word Cloud Generator - Create Word Clouds Free",
       "category": "social-tools",
-      "url": "https://simpletoolset.com/en/social-tools/word-cloud-generator",
+      "url": "https://simpletoolset.com/en/social-tools/word-cloud-generator/",
       "description": "Generate beautiful word clouds from text. Free tool to visualize word frequency with customizable colors and layouts. Learn how to use this tool and explore related"
     },
     {
       "slug": "utm-link-builder",
       "name": "UTM Link Builder - Create Campaign Tracking URLs Free",
       "category": "social-tools",
-      "url": "https://simpletoolset.com/en/social-tools/utm-link-builder",
+      "url": "https://simpletoolset.com/en/social-tools/utm-link-builder/",
       "description": "Build UTM tracking links for Google Analytics. Free tool to add campaign parameters to URLs for marketing attribution. Learn how to use this tool and explore related"
+    },
+    {
+      "slug": "hashtag-generator-basic",
+      "name": "Hashtag Generator - Create Hashtags from Keywords",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/hashtag-generator-basic/",
+      "description": "Generate clean hashtags from keywords with accent removal and camelCase options. Fast, client-side, and free. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "hashtag-counter",
+      "name": "Hashtag Counter - Count Hashtags in Captions",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/hashtag-counter/",
+      "description": "Count hashtags in any caption, list unique tags, and highlight duplicates. Free, client-side tool. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "social-bio-generator",
+      "name": "Social Bio Generator - Quick Bio Templates",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/social-bio-generator/",
+      "description": "Generate short social bio variants from your name, role, and keywords. Template-based, client-side, free. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "emoji-text-decorator",
+      "name": "Emoji Text Decorator - Add Emoji Styles to Text",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/emoji-text-decorator/",
+      "description": "Add emoji prefixes, suffixes, or wraps to each line of text. Great for social captions and bios. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "line-break-formatter",
+      "name": "Line Break Formatter - Clean Up Captions",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/line-break-formatter/",
+      "description": "Normalize line breaks and trim extra spacing for clean social captions. Client-side, fast, and free. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "youtube-title-description-template",
+      "name": "YouTube Title & Description Template - Quick Ideas",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/youtube-title-description-template/",
+      "description": "Generate YouTube title ideas and description blocks from a topic and keywords. Simple, template-based, free. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "tiktok-caption-length-checker",
+      "name": "TikTok Caption Length Checker - Count & Trim",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/tiktok-caption-length-checker/",
+      "description": "Check TikTok caption length, remaining characters, and trim suggestions. Fast, client-side, and free. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "twitter-x-thread-splitter",
+      "name": "Twitter/X Thread Splitter - Split Long Posts",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/twitter-x-thread-splitter/",
+      "description": "Split long text into Twitter/X thread parts with optional numbering. Client-side and fast. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "discord-markdown-formatter",
+      "name": "Discord Markdown Formatter - Format Text Easily",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/discord-markdown-formatter/",
+      "description": "Format text for Discord with bold, italic, code, quote, and spoiler styles. Client-side and free. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "social-post-scheduler-helper",
+      "name": "Social Post Scheduler Helper - Quick Schedule Table",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/social-post-scheduler-helper/",
+      "description": "Generate a posting schedule from a start date, timezone, and interval. Simple client-side planner. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "rednote-video-downloader",
+      "name": "Rednote Video Downloader - Get Xiaohongshu Video Links",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/rednote-video-downloader/",
+      "description": "Extract best-effort Rednote/Xiaohongshu video links from a post URL. Some posts may be restricted. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "acfun-video-downloader",
+      "name": "AcFun Video Downloader - Get AcFun Video Links",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/acfun-video-downloader/",
+      "description": "Extract best-effort AcFun video links from a post URL. Some posts may be restricted or private. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "xigua-video-downloader",
+      "name": "Xigua Video Downloader - Get Xigua Video Links",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/xigua-video-downloader/",
+      "description": "Extract best-effort Xigua Video links from a post URL. Some posts may be restricted. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "kuaishou-video-downloader",
+      "name": "Kuaishou Video Downloader - Get Kuaishou Video Links",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/kuaishou-video-downloader/",
+      "description": "Extract best-effort Kuaishou video links from a post URL. Some posts may be restricted. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "haokan-video-downloader",
+      "name": "Haokan Video Downloader - Get Haokan Video Links",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/haokan-video-downloader/",
+      "description": "Extract best-effort Haokan Video links from a post URL. Some posts may be restricted. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "bilibili-video-downloader",
+      "name": "Bilibili Video Downloader - Get Bilibili Video Links",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/bilibili-video-downloader/",
+      "description": "Extract best-effort Bilibili video links from a post URL. Some posts may be restricted. Learn how to use this tool and explore related resources on SimpleToolSet."
+    },
+    {
+      "slug": "video-md5-changer",
+      "name": "Video MD5 Changer - Change Video Hash Online",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/video-md5-changer/",
+      "description": "Change the MD5 hash of a video file online without affecting playback. 100% client-side and private. Learn how to use this tool and explore related resources on"
+    },
+    {
+      "slug": "in-browser-video-transcoder",
+      "name": "In-Browser Video Transcoder - Private FFmpeg Video Converter",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/in-browser-video-transcoder/",
+      "description": "Convert MP4, WebM, and MKV in your browser with FFmpeg.wasm. Private video transcoder with no upload, no server storage, and local processing for large files."
+    },
+    {
+      "slug": "audio-stem-splitter",
+      "name": "Audio Stem Splitter - Local AI Vocal Remover & Music Splitter",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/audio-stem-splitter/",
+      "description": "Split vocals, instrumental, drums, bass, and other stems locally in your browser with on-device AI. Private stem splitter with no upload and no server storage."
+    },
+    {
+      "slug": "private-voice-to-text",
+      "name": "Private Voice-to-Text (Whisper Web) - Local Audio Transcription in Your Browser",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/private-voice-to-text/",
+      "description": "Transcribe audio files and meeting recordings locally in your browser with a private Whisper workflow. Voice-to-text without app-side uploads and with browser-side model"
+    },
+    {
+      "slug": "offline-ai-text-summarizer",
+      "name": "Offline AI Text Summarizer - Private Local Document Summaries in Your Browser",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/offline-ai-text-summarizer/",
+      "description": "Summarize long documents locally in your browser with a private AI model. Browser-side AI text shortener with no app-server upload and reusable local model caching."
+    },
+    {
+      "slug": "local-ai-grammar-checker",
+      "name": "Local AI Grammar Checker - Private Browser Proofreading with FLAN-T5",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/local-ai-grammar-checker/",
+      "description": "Fix grammar, spelling, and punctuation locally in your browser with a private FLAN-T5 workflow. Browser-side AI proofreading with no app-server upload and reusable model"
+    },
+    {
+      "slug": "in-browser-ai-translator",
+      "name": "In-Browser AI Translator - Private Local Translation with M2M100",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/in-browser-ai-translator/",
+      "description": "Translate text and lightweight documents locally in your browser with Xenova/m2m100_418M. Private AI translation with no app-server upload and reusable local model"
+    },
+    {
+      "slug": "local-ai-sentiment-analyzer",
+      "name": "Local AI Sentiment Analyzer - Private Browser Tone Detection with DistilBERT",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/local-ai-sentiment-analyzer/",
+      "description": "Analyze customer feedback and text locally in your browser with DistilBERT. Private AI sentiment analysis with no app-server upload and reusable local model caching."
+    },
+    {
+      "slug": "private-ai-keyword-extractor",
+      "name": "Private AI Keyword Extractor - Local SEO Keywords in Your Browser",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/private-ai-keyword-extractor/",
+      "description": "Extract SEO keywords and tags locally in your browser with a private KeyBERT-style AI workflow. No app-server upload, reusable local model caching, and secure content"
+    },
+    {
+      "slug": "local-ai-image-captioner",
+      "name": "Local AI Image Captioner - Private Alt Text Generator in Your Browser",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/local-ai-image-captioner/",
+      "description": "Generate image descriptions and alt text locally in your browser with a private BLIP image captioning workflow. No app-server upload, reusable local model caching, and"
+    },
+    {
+      "slug": "browser-based-object-detector",
+      "name": "Browser-Based Object Detector - Private AI Image Scanner in Your Browser",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/browser-based-object-detector/",
+      "description": "Detect objects in photos locally in your browser with a private DETR object-detection workflow. No app-server upload, reusable local model caching, and secure image"
+    },
+    {
+      "slug": "local-ai-face-privacy-masker",
+      "name": "Local AI Face Privacy Masker - Private Face Blur in Your Browser",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/local-ai-face-privacy-masker/",
+      "description": "Automatically blur or cover faces in photos locally in your browser with a private MediaPipe Face Mesh workflow. No app-server upload, reusable offline assets, and"
+    },
+    {
+      "slug": "ai-background-remover-webgpu",
+      "name": "AI Background Remover (WebGPU) - Private Transparent PNG Cutout in Your Browser",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/ai-background-remover-webgpu/",
+      "description": "Remove image backgrounds locally in your browser with a private RMBG-1.4 workflow. Generate transparent PNG cutouts without app-server upload, with reusable local model"
+    },
+    {
+      "slug": "local-ai-image-semantic-search",
+      "name": "Local AI Image Semantic Search - Private CLIP Photo Search in Your Browser",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/local-ai-image-semantic-search/",
+      "description": "Search local photo libraries by meaning in your browser with a private CLIP workflow. Build image embeddings and run vector search without app-server upload or account"
+    },
+    {
+      "slug": "local-ai-speech-synthesizer",
+      "name": "Local AI Speech Synthesizer (TTS) - Private Text-to-Speech in Your Browser",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/local-ai-speech-synthesizer/",
+      "description": "Generate AI voiceovers locally in your browser with a private Sherpa-ONNX text-to-speech workflow. Convert text to WAV audio without app-server upload or account"
+    },
+    {
+      "slug": "local-ai-noise-canceller",
+      "name": "Local AI Noise Canceller - Clean Audio Recordings Privately in Your Browser",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/local-ai-noise-canceller/",
+      "description": "Clean audio recordings locally in your browser with a private RNNoise workflow. Remove steady background noise, preview the result, and export WAV without app-server"
+    },
+    {
+      "slug": "ai-language-detector-for-audio",
+      "name": "AI Language Detector for Audio - Identify Spoken Language Privately in Your Browser",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/ai-language-detector-for-audio/",
+      "description": "Identify spoken languages in audio files locally in your browser with a private Whisper workflow. Detect the dominant language and preview a transcript without"
+    },
+    {
+      "slug": "pii-detector",
+      "name": "PII Detector - Detect Sensitive Information and Mask Text Privately",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/pii-detector/",
+      "description": "Detect common sensitive information in documents locally in your browser with Presidio-style recognizers. Review findings and generate masked text with no app-server"
+    },
+    {
+      "slug": "local-ai-spam-phishing-detector",
+      "name": "Local AI Spam & Phishing Detector - Analyze Suspicious Emails Privately",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/local-ai-spam-phishing-detector/",
+      "description": "Analyze suspicious emails and messages locally in your browser with a BERT-based phishing classifier plus private link-risk checks. No app-server upload required."
+    },
+    {
+      "slug": "ai-powered-personal-knowledge-base-local-rag",
+      "name": "AI-Powered Personal Knowledge Base - Chat With Local PDFs Privately",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/ai-powered-personal-knowledge-base-local-rag/",
+      "description": "Build a private browser-side knowledge base with local RAG, IndexedDB storage, and on-device AI answers. Chat with PDFs and notes without app-server document upload."
+    },
+    {
+      "slug": "private-ai-personal-knowledge-base-chat-with-notes",
+      "name": "Private AI Personal Knowledge Base - Chat With Notes Locally",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/private-ai-personal-knowledge-base-chat-with-notes/",
+      "description": "Turn Markdown, TXT, HTML, and note exports into a private browser-side AI note vault. Build local embeddings, chat with notes, and generate a quick mind map without"
+    },
+    {
+      "slug": "private-ai-chat-with-my-website-local-rag",
+      "name": "Private AI Chat With My Website - Local Website RAG",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/private-ai-chat-with-my-website-local-rag/",
+      "description": "Scan website pages locally in your browser, build a Voyager index, and ask questions about site content with private local RAG and no app-server page storage."
+    },
+    {
+      "slug": "local-ai-screenshot-to-logic",
+      "name": "Local AI Screenshot-to-Logic - Private Image to HTML and Chart Explainer",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/local-ai-screenshot-to-logic/",
+      "description": "Convert screenshots into HTML, chart explanations, or structured data locally in your browser with a private vision workflow. No app-server image upload and no account"
+    },
+    {
+      "slug": "local-ai-formula-regex-specialist",
+      "name": "Local AI Formula & Regex Specialist - Private Excel, SQL, and Regex Generator",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/local-ai-formula-regex-specialist/",
+      "description": "Generate Excel formulas, SQL queries, and regex patterns locally in your browser with a private Phi-3-mini workflow. No app-server prompt upload and no account required."
+    },
+    {
+      "slug": "local-ai-web-scraper",
+      "name": "Local AI Web-Scraper - Private HTML to CSV and Structured Data Extractor",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/local-ai-web-scraper/",
+      "description": "Extract structured rows from HTML or accessible URLs locally in your browser with a private AI web scraper. Export CSV and Excel-friendly files without app-server"
+    },
+    {
+      "slug": "private-ai-document-redactor",
+      "name": "Private AI Document Redactor - Local Sensitive Data Masking for Text and PDFs",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/private-ai-document-redactor/",
+      "description": "Detect and redact sensitive information in text or PDF files locally in your browser with a private AI document redactor. Mask names, cards, addresses, and common PII"
+    },
+    {
+      "slug": "local-ai-meeting-minutes-generator",
+      "name": "Local AI Meeting Minutes Generator - Private Audio to Summary and Action Items",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/local-ai-meeting-minutes-generator/",
+      "description": "Generate meeting minutes locally from audio recordings in your browser with Whisper and a small T5 summarizer. Create private summaries and to-do lists without"
+    },
+    {
+      "slug": "in-browser-ai-privacy-image-filter",
+      "name": "In-Browser AI Privacy Image Filter - Private Face Blur or Cartoon Replace",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/in-browser-ai-privacy-image-filter/",
+      "description": "Blur visible faces or replace them with cartoon privacy avatars locally in your browser with MediaPipe and TensorFlow.js. No app-server upload, reusable offline assets,"
+    },
+    {
+      "slug": "local-ai-semantic-file-searcher",
+      "name": "Local AI Semantic File Searcher - Private Browser File Search by Meaning",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/local-ai-semantic-file-searcher/",
+      "description": "Index local folder content in your browser, store the semantic file index in IndexedDB, and search files by meaning with a private Transformers.js workflow. No"
+    },
+    {
+      "slug": "local-ai-code-repair",
+      "name": "AI Local Code Repair for Non-Devs - Private HTML, CSS, JS, and JSON Fixer",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/local-ai-code-repair/",
+      "description": "Repair broken HTML, CSS, JavaScript, and JSON snippets locally in your browser with a private AI code-fixing workflow. No app-server upload and no account required."
+    },
+    {
+      "slug": "local-ai-payroll-bonus-agent",
+      "name": "Local AI Payroll & Bonus Agent - Private Excel Payroll Logic in Your Browser",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/local-ai-payroll-bonus-agent/",
+      "description": "Upload payroll or attendance sheets, describe salary rules in plain language, and let a local AI payroll agent process the workbook privately in your browser with"
+    },
+    {
+      "slug": "secure-invoice-to-accounting-agent",
+      "name": "Secure Invoice-to-Accounting Agent - Private OCR Invoice to CSV in Your Browser",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/secure-invoice-to-accounting-agent/",
+      "description": "Drop invoice PDFs or receipt images into your browser, extract tax ID, invoice number, VAT, total, and date locally, detect duplicates, and export accounting-ready CSV"
+    },
+    {
+      "slug": "private-ai-content-auditor",
+      "name": "Private AI Content Auditor - Local SEO and EEAT Draft Review in Your Browser",
+      "category": "ai-local-tools",
+      "url": "https://simpletoolset.com/en/ai-local-tools/private-ai-content-auditor/",
+      "description": "Audit article drafts locally in your browser for SEO structure, EEAT-style signals, keyword use, and local similarity risk with a private content auditor and humanizer"
     }
   ]
 }
