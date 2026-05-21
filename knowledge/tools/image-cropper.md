@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "image-cropper"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # Image Cropper - Crop Photos Online Free
@@ -52,6 +52,6 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [image tools category](../categories/image-tools.md)
-- [Compress Images For Web](../use-cases/compress-images-for-web.md)
-- [Reduce Image Size Without Losing Quality](../use-cases/reduce-image-size-without-losing-quality.md)
-- [Image Optimizer For Website Speed](../use-cases/image-optimizer-for-website-speed.md)
+- [Convert Screenshots To Pdf](../use-cases/convert-screenshots-to-pdf.md)
+- [Create Social Media Graphics](../use-cases/create-social-media-graphics.md)
+- [Prepare Product Images For Ecommerce](../use-cases/prepare-product-images-for-ecommerce.md)

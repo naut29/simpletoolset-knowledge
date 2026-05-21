@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "network-tools"
 tool_slug: "url-parser"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # URL Parser - Break Down URLs into Components
@@ -52,3 +52,5 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [network tools category](../categories/network-tools.md)
+- [Build Trackable Campaign Links](../use-cases/build-trackable-campaign-links.md)
+- [Debug Web Requests And Identifiers](../use-cases/debug-web-requests-and-identifiers.md)

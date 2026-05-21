@@ -4,7 +4,7 @@ description: "Private browser AI tools that run locally with on-device models. S
 canonical: "https://simpletoolset.com/en/ai-local-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # AI Local Tools

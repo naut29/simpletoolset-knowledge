@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "local-ai-formula-regex-specialist"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # Local AI Formula & Regex Specialist - Private Excel, SQL, and Regex Generator

@@ -4,7 +4,7 @@ If you believe you have found a security issue, please report it privately.
 
 ## Reporting
 
-Email: contact@simpletoolset.com
+Email: security@simpletoolset.com
 
 ## Do not include
 

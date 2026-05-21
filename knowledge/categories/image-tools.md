@@ -4,7 +4,7 @@ description: "Free online image tools. Compress, resize, and crop images without
 canonical: "https://simpletoolset.com/en/image-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # Image Tools

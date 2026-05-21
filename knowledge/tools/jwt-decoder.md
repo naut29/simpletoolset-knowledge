@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "developer-tools"
 tool_slug: "jwt-decoder"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # JWT Decoder - Decode JSON Web Tokens Free
@@ -52,3 +52,6 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [developer tools category](../categories/developer-tools.md)
+- [Debug Web Requests And Identifiers](../use-cases/debug-web-requests-and-identifiers.md)
+- [Convert Data Formats For Apis](../use-cases/convert-data-formats-for-apis.md)
+- [Plan Cron Schedules And Time Conversions](../use-cases/plan-cron-schedules-and-time-conversions.md)

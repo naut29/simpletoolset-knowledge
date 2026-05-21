@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "word-counter"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # Word Counter - Free Character & Word Count Tool
@@ -52,3 +52,6 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [text tools category](../categories/text-tools.md)
+- [Craft Social Posts With Character Limits](../use-cases/craft-social-posts-with-character-limits.md)
+- [Clean Text Lists For Spreadsheets](../use-cases/clean-text-lists-for-spreadsheets.md)
+- [Compare Document Versions](../use-cases/compare-document-versions.md)

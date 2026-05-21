@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "private-ai-personal-knowledge-base-chat-with-notes"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # Private AI Personal Knowledge Base - Chat With Notes Locally

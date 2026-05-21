@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "network-tools"
 tool_slug: "jwt-header-inspector"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # JWT Header Inspector - Decode JWT Header
@@ -46,3 +46,4 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [network tools category](../categories/network-tools.md)
+- [Debug Web Requests And Identifiers](../use-cases/debug-web-requests-and-identifiers.md)

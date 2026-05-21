@@ -4,7 +4,7 @@ description: "Free online design tools. Create CSS gradients, generate color pal
 canonical: "https://simpletoolset.com/en/design-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # Design Tools
@@ -51,3 +51,6 @@ This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [design tools category](./design-tools.md)
+- [Build Ui Color Palette](../use-cases/build-ui-color-palette.md)
+- [Create Placeholder Assets For Mockups](../use-cases/create-placeholder-assets-for-mockups.md)
+- [Generate Favicon And Web Icons](../use-cases/generate-favicon-and-web-icons.md)

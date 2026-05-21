@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "developer-tools"
 tool_slug: "epoch-converter"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # Epoch/Unix Timestamp Converter - Convert Dates Free
@@ -52,3 +52,5 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [developer tools category](../categories/developer-tools.md)
+- [Plan Cron Schedules And Time Conversions](../use-cases/plan-cron-schedules-and-time-conversions.md)
+- [Convert Data Formats For Apis](../use-cases/convert-data-formats-for-apis.md)

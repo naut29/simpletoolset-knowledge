@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "design-tools"
 tool_slug: "color-shade-generator"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # Color Shade Generator - Create Color Palettes
@@ -52,3 +52,6 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [design tools category](../categories/design-tools.md)
+- [Build Ui Color Palette](../use-cases/build-ui-color-palette.md)
+- [Create Placeholder Assets For Mockups](../use-cases/create-placeholder-assets-for-mockups.md)
+- [Generate Favicon And Web Icons](../use-cases/generate-favicon-and-web-icons.md)

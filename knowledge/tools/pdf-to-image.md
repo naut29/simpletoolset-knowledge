@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "pdf-to-image"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # PDF to Image Converter - PDF to JPG/PNG Free
@@ -52,4 +52,6 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [pdf tools category](../categories/pdf-tools.md)
+- [Fix Scanned Pdf Orientation](../use-cases/fix-scanned-pdf-orientation.md)
+- [Split Pdf For Email Size](../use-cases/split-pdf-for-email-size.md)
 - [Merge Split Rotate Pdf Files](../use-cases/merge-split-rotate-pdf-files.md)

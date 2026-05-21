@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "sentence-counter"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # Sentence Counter - Count Sentences Online Free
@@ -51,3 +51,6 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [text tools category](../categories/text-tools.md)
+- [Clean Text Lists For Spreadsheets](../use-cases/clean-text-lists-for-spreadsheets.md)
+- [Compare Document Versions](../use-cases/compare-document-versions.md)
+- [Create Seo Friendly Url Slugs](../use-cases/create-seo-friendly-url-slugs.md)

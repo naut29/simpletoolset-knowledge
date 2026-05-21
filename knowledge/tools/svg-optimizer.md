@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "design-tools"
 tool_slug: "svg-optimizer"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # SVG Optimizer - Compress SVG Files Online
@@ -52,3 +52,6 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [design tools category](../categories/design-tools.md)
+- [Optimize Svg Icons For Web](../use-cases/optimize-svg-icons-for-web.md)
+- [Build Ui Color Palette](../use-cases/build-ui-color-palette.md)
+- [Create Placeholder Assets For Mockups](../use-cases/create-placeholder-assets-for-mockups.md)

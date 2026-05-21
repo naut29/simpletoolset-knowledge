@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "utility-tools"
 tool_slug: "password-strength"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # Password Strength Meter - Check Your Password Security
@@ -52,3 +52,5 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [utility tools category](../categories/utility-tools.md)
+- [Create Secure Passwords For Teams](../use-cases/create-secure-passwords-for-teams.md)
+- [Generate Test Data For Qa](../use-cases/generate-test-data-for-qa.md)

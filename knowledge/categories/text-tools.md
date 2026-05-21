@@ -4,7 +4,7 @@ description: "Free online text tools for writers and developers. Word counter, c
 canonical: "https://simpletoolset.com/en/text-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # Text Tools
@@ -51,3 +51,6 @@ This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [text tools category](./text-tools.md)
+- [Clean Text Lists For Spreadsheets](../use-cases/clean-text-lists-for-spreadsheets.md)
+- [Compare Document Versions](../use-cases/compare-document-versions.md)
+- [Create Seo Friendly Url Slugs](../use-cases/create-seo-friendly-url-slugs.md)

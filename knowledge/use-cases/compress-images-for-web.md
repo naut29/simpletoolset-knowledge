@@ -5,7 +5,11 @@ canonical: "https://simpletoolset.com/en/use-cases/compress-images-for-web/"
 lang: "en"
 type: "use-case"
 category: "image-tools"
-date_generated: "2026-05-20T07:07:23.607Z"
+cluster_id: "image-optimization"
+cluster_title: "Image optimization"
+intent: "website image compression"
+audience: "site owners, bloggers, and web teams"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # Compress Images for Web Performance
@@ -13,6 +17,8 @@ date_generated: "2026-05-20T07:07:23.607Z"
 ## Overview
 
 Large images are one of the biggest causes of slow page loads. This guide shows how to shrink image size while keeping quality, and links to tools that do the work in your browser.
+
+Cluster: Image optimization. Intent: website image compression. Audience: site owners, bloggers, and web teams.
 
 This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
 

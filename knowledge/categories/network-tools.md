@@ -4,7 +4,7 @@ description: "Free online network tools. Parse URLs, lookup IP addresses, and an
 canonical: "https://simpletoolset.com/en/network-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # Network Tools
@@ -51,3 +51,4 @@ This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [network tools category](./network-tools.md)
+- [Debug Web Requests And Identifiers](../use-cases/debug-web-requests-and-identifiers.md)

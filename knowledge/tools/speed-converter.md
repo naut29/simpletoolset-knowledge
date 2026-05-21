@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "unit-converters"
 tool_slug: "speed-converter"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # Speed Converter - m/s, km/h, mph, knot

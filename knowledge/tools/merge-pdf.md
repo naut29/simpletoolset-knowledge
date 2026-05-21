@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "merge-pdf"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # Merge PDF - Combine PDF Files Online Free
@@ -53,3 +53,5 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - [pdf tools category](../categories/pdf-tools.md)
 - [Merge Split Rotate Pdf Files](../use-cases/merge-split-rotate-pdf-files.md)
+- [Convert Screenshots To Pdf](../use-cases/convert-screenshots-to-pdf.md)
+- [Fix Scanned Pdf Orientation](../use-cases/fix-scanned-pdf-orientation.md)

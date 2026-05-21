@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "developer-tools"
 tool_slug: "php-serialized-viewer"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # PHP Serialized Data Viewer - Decode Serialized Strings
@@ -52,3 +52,5 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [developer tools category](../categories/developer-tools.md)
+- [Convert Data Formats For Apis](../use-cases/convert-data-formats-for-apis.md)
+- [Plan Cron Schedules And Time Conversions](../use-cases/plan-cron-schedules-and-time-conversions.md)

@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "kuaishou-video-downloader"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # Kuaishou Video Downloader - Get Kuaishou Video Links
@@ -51,3 +51,5 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [social tools category](../categories/social-tools.md)
+- [Build Trackable Campaign Links](../use-cases/build-trackable-campaign-links.md)
+- [Craft Social Posts With Character Limits](../use-cases/craft-social-posts-with-character-limits.md)

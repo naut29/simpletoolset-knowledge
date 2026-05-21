@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "text-to-image"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # Text to Image - Convert Text to Pictures Free
@@ -52,6 +52,6 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [image tools category](../categories/image-tools.md)
+- [Create Social Media Graphics](../use-cases/create-social-media-graphics.md)
 - [Compress Images For Web](../use-cases/compress-images-for-web.md)
 - [Reduce Image Size Without Losing Quality](../use-cases/reduce-image-size-without-losing-quality.md)
-- [Image Optimizer For Website Speed](../use-cases/image-optimizer-for-website-speed.md)

@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "developer-tools"
 tool_slug: "html-entity-encoder"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # HTML Entity Encoder/Decoder - Encode Special Characters
@@ -52,3 +52,6 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [developer tools category](../categories/developer-tools.md)
+- [Format Markdown For Web](../use-cases/format-markdown-for-web.md)
+- [Convert Data Formats For Apis](../use-cases/convert-data-formats-for-apis.md)
+- [Plan Cron Schedules And Time Conversions](../use-cases/plan-cron-schedules-and-time-conversions.md)

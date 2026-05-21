@@ -5,7 +5,11 @@ canonical: "https://simpletoolset.com/en/use-cases/image-optimizer-for-website-s
 lang: "en"
 type: "use-case"
 category: "image-tools"
-date_generated: "2026-05-20T07:07:23.607Z"
+cluster_id: "image-optimization"
+cluster_title: "Image optimization"
+intent: "Core Web Vitals image optimization"
+audience: "SEO teams, developers, and site owners"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # Image Optimizer for Website Speed (Improve Core Web Vitals)
@@ -13,6 +17,8 @@ date_generated: "2026-05-20T07:07:23.607Z"
 ## Overview
 
 Images are usually the biggest files on a webpage. If they're not optimized, they delay loading, hurt Core Web Vitals, and can reduce conversions. A good image optimization process is simple: use the right dimensions, pick an efficient format, and compress without visible quality loss.
+
+Cluster: Image optimization. Intent: Core Web Vitals image optimization. Audience: SEO teams, developers, and site owners.
 
 This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
 
