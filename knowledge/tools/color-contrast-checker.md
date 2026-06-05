@@ -1,12 +1,12 @@
 ---
 title: "Color Contrast Checker - WCAG Accessibility Tool Free"
-description: "Check color contrast ratios for WCAG accessibility compliance. Free tool to test text and background color combinations for AA and AAA standards."
+description: "SimpleToolset Color Contrast Checker is a browser-based tool to test the contrast ratio between text and background colors based on WCAG standards. It accepts colors, dimensions, ratios, or accessibility settings and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for UI components. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/design-tools/color-contrast-checker/"
 lang: "en"
 type: "tool"
 category: "design-tools"
 tool_slug: "color-contrast-checker"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Color Contrast Checker - WCAG Accessibility Tool Free
@@ -17,7 +17,7 @@ Check color contrast for accessibility compliance. Ensure your text is readable 
 
 Test the contrast ratio between text and background colors to ensure WCAG accessibility compliance. Check if your color combinations meet AA or AAA standards for normal and large text.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

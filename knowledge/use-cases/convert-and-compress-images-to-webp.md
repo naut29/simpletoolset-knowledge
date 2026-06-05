@@ -9,7 +9,7 @@ cluster_id: "image-optimization"
 cluster_title: "Image optimization"
 intent: "modern image conversion"
 audience: "developers, content teams, and ecommerce operators"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Convert and Compress Images to WebP Online
@@ -20,7 +20,7 @@ WebP is a modern image format developed by Google that provides significantly sm
 
 Cluster: Image optimization. Intent: modern image conversion. Audience: developers, content teams, and ecommerce operators.
 
-This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

@@ -1,12 +1,12 @@
 ---
 title: "Sleep Quality Estimator - Sleep Score & Debt"
-description: "Estimate sleep quality and sleep debt using bedtime, wake time, duration, awakenings, and screen time. Learn how to use this tool and explore related resources on"
+description: "SimpleToolset Sleep Quality Estimator is a browser-based tool to estimate sleep quality from bedtime. It accepts self-assessment answers, lifestyle notes, or planning inputs and returns personalized analysis, score, or structured checklist. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for study week recovery. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/life-tools/sleep-quality-estimator/"
 lang: "en"
 type: "tool"
 category: "life-tools"
 tool_slug: "sleep-quality-estimator"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Sleep Quality Estimator - Sleep Score & Debt
@@ -17,7 +17,7 @@ Estimate sleep quality and sleep debt with simple nightly inputs.
 
 This tool estimates sleep quality using bedtime, wake time, duration, awakenings, and pre-sleep screen time. It also reports estimated sleep debt.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -37,6 +37,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - Is this a sleep study?: No. It is a lightweight estimator based on inputs.
 - What is sleep debt?: Sleep debt is the gap between ideal sleep and your actual sleep duration.
+- Is Sleep Quality Estimator free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 

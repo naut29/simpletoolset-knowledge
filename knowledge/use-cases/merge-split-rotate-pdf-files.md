@@ -9,7 +9,7 @@ cluster_id: "pdf-workflows"
 cluster_title: "PDF workflows"
 intent: "PDF file organization"
 audience: "office teams, students, and document-heavy workflows"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Merge, Split, and Rotate PDF Files Online
@@ -20,7 +20,7 @@ If your PDF files are out of order or too large, you can reorganize them in minu
 
 Cluster: PDF workflows. Intent: PDF file organization. Audience: office teams, students, and document-heavy workflows.
 
-This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

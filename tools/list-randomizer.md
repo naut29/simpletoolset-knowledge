@@ -1,12 +1,12 @@
 ---
 title: "List Randomizer - Shuffle Lists Online Free"
-description: "Shuffle any list into a random order instantly. Free list randomizer for names, tasks, and items. Learn how to use this tool and explore related resources on"
+description: "SimpleToolset List Randomizer is a browser-based tool to shuffle any given list into a random order. It accepts text pasted or typed into the browser and returns generated value, code, QR image, or copyable result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for contest winners. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/text-tools/list-randomizer/"
 lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "list-randomizer"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # List Randomizer - Shuffle Lists Online Free
@@ -17,7 +17,7 @@ Shuffle any list into a random order with one click.
 
 Randomize the order of any list with one click. Great for fair selection, unbiased ordering, or creative prompts.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -51,3 +51,6 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [text tools category](../categories/text-tools.md)
+- [Clean Text Lists For Spreadsheets](../use-cases/clean-text-lists-for-spreadsheets.md)
+- [Compare Document Versions](../use-cases/compare-document-versions.md)
+- [Create Seo Friendly Url Slugs](../use-cases/create-seo-friendly-url-slugs.md)

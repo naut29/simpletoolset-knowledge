@@ -1,12 +1,12 @@
 ---
 title: "Client-Side Log Analyzer - Open Large Log Files in Your Browser"
-description: "Analyze large .log, .txt, .jsonl, and .ndjson files directly in your browser. Inspect JSON logs, repeated issues, and level breakdowns with no uploads."
+description: "SimpleToolset Client-Side Log Analyzer is a browser-based tool to open large log files locally. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for local server log review. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/developer-tools/client-side-log-analyzer/"
 lang: "en"
 type: "tool"
 category: "developer-tools"
 tool_slug: "client-side-log-analyzer"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Client-Side Log Analyzer - Open Large Log Files in Your Browser
@@ -17,7 +17,7 @@ Open large local log files, inspect JSON logs, and surface repeated issues direc
 
 Open large local log files in the browser, stream them line by line, detect JSON logs, count log levels, surface repeated issues, and save an analysis report without sending the file to a server.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

@@ -4,7 +4,7 @@ description: "Free social media tools for creators and marketers. Format caption
 canonical: "https://simpletoolset.com/en/social-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Social Media Tools
@@ -13,7 +13,7 @@ date_generated: "2026-05-20T07:07:23.607Z"
 
 Boost your social media presence with simple, client-side tools. Format captions, generate hashtags, create title ideas, and plan posts - all in your browser.
 
-This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -50,3 +50,5 @@ This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [social tools category](./social-tools.md)
+- [Build Trackable Campaign Links](../use-cases/build-trackable-campaign-links.md)
+- [Craft Social Posts With Character Limits](../use-cases/craft-social-posts-with-character-limits.md)

@@ -1,15 +1,15 @@
 ---
-title: "Local AI Meeting Minutes Generator - Private Audio to Summary and Action Items"
-description: "Generate meeting minutes locally from audio recordings in your browser with Whisper and a small T5 summarizer. Create private summaries and to-do lists without"
+title: "Local AI Audio Meeting Minutes Generator - Free Online Tool"
+description: "SimpleToolset Local AI Audio Meeting Minutes Generator helps you turn local meeting recordings into transcript summaries and to-do lists in your browser with a private Whisper plus. It accepts local audio files, speech, or transcript text and returns transcript, audio result, language label, or generated speech. The workflow runs locally in the browser and does not require an account or app-server upload. It is best for standup notes. Review important outputs before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/local-ai-meeting-minutes-generator/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "local-ai-meeting-minutes-generator"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
-# Local AI Meeting Minutes Generator - Private Audio to Summary and Action Items
+# Local AI Audio Meeting Minutes Generator - Free Online Tool
 
 ## Overview
 
@@ -17,7 +17,7 @@ Generate private meeting minutes from local audio in your browser, with transcri
 
 Transcribes a local meeting recording inside the browser with a Whisper workflow, then summarizes the transcript into concise meeting notes, key points, and action items with a small local T5-style model without sending the recording to the app server.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

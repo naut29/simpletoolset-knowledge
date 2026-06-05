@@ -1,6 +1,6 @@
-# SimpleToolSet Public Knowledge Base
+# SimpleToolset Public Knowledge Base
 
-This repository contains a structured, machine-readable knowledge base for SimpleToolSet.
+This repository contains a structured, machine-readable knowledge base for SimpleToolset.
 
 It includes:
 - Tool documentation
@@ -8,8 +8,8 @@ It includes:
 - Use cases
 - Canonical URLs pointing to production pages
 
-Primary site: https://simpletoolset.com  
-Tools index: https://simpletoolset.com/en
+Primary site: https://simpletoolset.com
+Tools index: https://simpletoolset.com/en/
 
 Content is intended for:
 - Search engines

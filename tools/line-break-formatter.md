@@ -1,12 +1,12 @@
 ---
 title: "Line Break Formatter - Clean Up Captions"
-description: "Normalize line breaks and trim extra spacing for clean social captions. Client-side, fast, and free. Learn how to use this tool and explore related resources on"
+description: "SimpleToolset Line Break Formatter is a browser-based tool to normalize line breaks and spacing for social captions. It accepts text pasted or typed into the browser and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Instagram captions. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/social-tools/line-break-formatter/"
 lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "line-break-formatter"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Line Break Formatter - Clean Up Captions
@@ -17,7 +17,7 @@ Clean up line breaks and spacing for polished captions.
 
 Clean up captions by trimming extra spaces and collapsing repeated blank lines. This keeps your social copy tidy and consistent across platforms.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -40,6 +40,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - Does this remove all blank lines?: No. It can collapse multiple blank lines to a single blank line while preserving structure.
 - Is this for Instagram only?: No. It works for any platform that uses multi-line captions.
+- Is Line Break Formatter free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 
@@ -50,3 +51,5 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [social tools category](../categories/social-tools.md)
+- [Build Trackable Campaign Links](../use-cases/build-trackable-campaign-links.md)
+- [Craft Social Posts With Character Limits](../use-cases/craft-social-posts-with-character-limits.md)

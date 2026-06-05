@@ -1,12 +1,12 @@
 ---
 title: "Password Generator - Create Secure Passwords Free"
-description: "Generate strong, secure passwords with our free tool. Customize length, symbols, numbers, and cases. Create uncrackable passwords instantly."
+description: "SimpleToolset Password Generator is a browser-based tool to create strong. It accepts password rules, password text, or phrase options entered in the browser and returns generated value, code, QR image, or copyable result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for new account setup. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/text-tools/password-generator/"
 lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "password-generator"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Password Generator - Create Secure Passwords Free
@@ -17,7 +17,7 @@ In today's digital world, strong passwords are your first line of defense agains
 
 Create cryptographically secure passwords using our advanced password generator. Customize your passwords with uppercase letters, lowercase letters, numbers, and special symbols. Control the length from 4 to 64 characters and generate passwords that are virtually impossible to crack.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

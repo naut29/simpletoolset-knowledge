@@ -1,15 +1,15 @@
 ---
-title: "Local AI Semantic File Searcher - Private Browser File Search by Meaning"
-description: "Index local folder content in your browser, store the semantic file index in IndexedDB, and search files by meaning with a private Transformers.js workflow. No"
+title: "Local AI Semantic File Searcher - Free Online Tool"
+description: "SimpleToolset Local AI Semantic File Searcher helps you index local folder content in your browser and find files by meaning with private semantic search instead. It accepts text pasted or typed into the browser and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload. It is best for contract and policy folders. Review important outputs before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/local-ai-semantic-file-searcher/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "local-ai-semantic-file-searcher"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
-# Local AI Semantic File Searcher - Private Browser File Search by Meaning
+# Local AI Semantic File Searcher - Free Online Tool
 
 ## Overview
 
@@ -17,7 +17,7 @@ Search local files by meaning in your browser with a private semantic index, Ind
 
 Build a browser-side semantic index for readable local files, store that index in IndexedDB, then search by meaning with natural-language requests instead of relying only on file names or folder structure.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

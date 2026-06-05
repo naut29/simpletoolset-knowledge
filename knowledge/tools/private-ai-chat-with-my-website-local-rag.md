@@ -1,12 +1,12 @@
 ---
 title: "Private AI Chat With My Website - Local Website RAG"
-description: "Scan website pages locally in your browser, build a Voyager index, and ask questions about site content with private local RAG and no app-server page storage."
+description: "SimpleToolset Private AI Chat with My Website is a browser-based tool to analyze a website locally in your browser. It accepts website URLs, local notes, PDFs, or document text and returns private chat answers, source references, or searchable local index. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for documentation lookup. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/private-ai-chat-with-my-website-local-rag/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "private-ai-chat-with-my-website-local-rag"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Private AI Chat With My Website - Local Website RAG
@@ -17,7 +17,7 @@ Scan a website locally in the browser, build a private Voyager index, and ask qu
 
 Fetches accessible website pages directly in the browser, extracts readable text, chunks the content with LangChain, stores a local Voyager index and page data in IndexedDB, then retrieves relevant website passages and generates on-device AI answers.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

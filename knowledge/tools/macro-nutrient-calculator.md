@@ -1,12 +1,12 @@
 ---
 title: "Macro Nutrient Calculator - Protein, Fat, Carbs"
-description: "Convert calories into grams of protein, fat, and carbs using goal presets. Free macro calculator. Learn how to use this tool and explore related resources on"
+description: "SimpleToolset Macro Nutrient Calculator is a browser-based tool to split calories into protein. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for fitness planning. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/health-fitness/macro-nutrient-calculator/"
 lang: "en"
 type: "tool"
 category: "health-fitness"
 tool_slug: "macro-nutrient-calculator"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Macro Nutrient Calculator - Protein, Fat, Carbs
@@ -17,7 +17,7 @@ Convert calorie targets into macro grams with simple presets.
 
 This tool splits daily calories into protein, fat, and carbs using preset ratios (balanced, low-carb, high-protein). It converts calories into grams for each macro.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -37,6 +37,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - Can I customize ratios?: This tool uses presets; you can adjust inputs by choosing a different preset.
 - How are grams calculated?: Protein and carbs use 4 kcal per gram, fat uses 9 kcal per gram.
+- Is Macro Nutrient Calculator free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 

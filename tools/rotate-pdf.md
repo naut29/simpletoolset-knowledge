@@ -1,12 +1,12 @@
 ---
 title: "Rotate PDF - Rotate PDF Pages Online Free"
-description: "Rotate PDF pages 90, 180, or 270 degrees. Fix upside-down or sideways PDF pages. Free PDF rotation tool, no software needed. Learn how to use this tool and explore"
+description: "SimpleToolset Rotate PDF is a browser-based tool to rotate PDF pages to the correct orientation. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for scanner cleanup. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/pdf-tools/rotate-pdf/"
 lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "rotate-pdf"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Rotate PDF - Rotate PDF Pages Online Free
@@ -17,7 +17,7 @@ Got a PDF with sideways or upside-down pages? Our rotation tool fixes orientatio
 
 Fix incorrectly oriented PDF pages by rotating them to the correct position. Rotate all pages at once or select specific pages. Choose 90, 180, or 270 rotation to fix any orientation issue.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -53,3 +53,5 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - [pdf tools category](../categories/pdf-tools.md)
 - [Merge Split Rotate Pdf Files](../use-cases/merge-split-rotate-pdf-files.md)
+- [Fix Scanned Pdf Orientation](../use-cases/fix-scanned-pdf-orientation.md)
+- [Split Pdf For Email Size](../use-cases/split-pdf-for-email-size.md)

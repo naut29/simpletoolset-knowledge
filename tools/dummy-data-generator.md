@@ -1,12 +1,12 @@
 ---
 title: "Dummy Data Generator - Create Test Data Fast"
-description: "Generate realistic dummy data for testing and demos. Create names, emails, addresses, and more in seconds. Learn how to use this tool and explore related resources on"
+description: "SimpleToolset Dummy Data Generator is a browser-based tool to generate bulk test data including Names. It accepts text, numbers, links, or settings entered in the browser and returns generated code, random value, QR code, or calculation result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for form testing. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/utility-tools/dummy-data-generator/"
 lang: "en"
 type: "tool"
 category: "utility-tools"
 tool_slug: "dummy-data-generator"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Dummy Data Generator - Create Test Data Fast
@@ -17,7 +17,7 @@ Generate realistic dummy data for QA, demos, and testing without using real pers
 
 Generate realistic but fake data for testing, demos, and QA. Create batches of names, emails, addresses, and identifiers without using real personal data.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -52,3 +52,5 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [utility tools category](../categories/utility-tools.md)
+- [Create Secure Passwords For Teams](../use-cases/create-secure-passwords-for-teams.md)
+- [Generate Test Data For Qa](../use-cases/generate-test-data-for-qa.md)

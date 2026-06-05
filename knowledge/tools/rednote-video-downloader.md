@@ -1,12 +1,12 @@
 ---
 title: "Rednote Video Downloader - Get Xiaohongshu Video Links"
-description: "Extract best-effort Rednote/Xiaohongshu video links from a post URL. Some posts may be restricted. Learn how to use this tool and explore related resources on"
+description: "SimpleToolset Rednote Video Downloader is a browser-based tool to fetch download-ready video links from Rednote/Xiaohongshu posts. It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator backups. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/social-tools/rednote-video-downloader/"
 lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "rednote-video-downloader"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Rednote Video Downloader - Get Xiaohongshu Video Links
@@ -17,7 +17,7 @@ Get best-effort Rednote video links with a quick preview and open/copy actions.
 
 Fetch available video sources from Rednote/Xiaohongshu posts and show direct links to open or copy. Best-effort extraction may vary by post.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -50,7 +50,6 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 - [Haokan Video Downloader](./haokan-video-downloader.md)
 - [Bilibili Video Downloader](./bilibili-video-downloader.md)
 - [YouTube Thumbnail Downloader](./youtube-thumbnail-downloader.md)
-- [Video MD5 Changer](./video-md5-changer.md)
 - [UTM Link Builder](./utm-link-builder.md)
 
 ## Internal links

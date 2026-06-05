@@ -1,12 +1,12 @@
 ---
 title: "In-Browser AI Translator - Private Local Translation with M2M100"
-description: "Translate text and lightweight documents locally in your browser with Xenova/m2m100_418M. Private AI translation with no app-server upload and reusable local model"
+description: "SimpleToolset In-Browser AI Translator is a browser-based tool to translate text and lightweight documents locally in your browser with a private M2M100 workflow. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for private internal translation. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/in-browser-ai-translator/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "in-browser-ai-translator"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # In-Browser AI Translator - Private Local Translation with M2M100
@@ -17,7 +17,7 @@ Translate text and lightweight documents locally in your browser with a private 
 
 Translate notes, drafts, snippets, and plain-text documents with a local Transformers.js translation pipeline that runs Xenova/m2m100_418M inside your browser, supports 100+ language directions, chunks longer text for stability, and keeps the source content out of the app server.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

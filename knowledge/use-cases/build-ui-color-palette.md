@@ -1,6 +1,6 @@
 ---
-title: "Build a UI Color Palette"
-description: "Create interface color palettes with shade scales, contrast checks, and CSS gradients for production-ready UI work. Use this guide with related tools on SimpleToolSet"
+title: "Build a UI Color Palette Online - Free Browser Tools"
+description: "Create interface color palettes with shade scales, contrast checks, and CSS gradients for production-ready UI work with free browser tools. Use this guide with related"
 canonical: "https://simpletoolset.com/en/use-cases/build-ui-color-palette/"
 lang: "en"
 type: "use-case"
@@ -9,10 +9,10 @@ cluster_id: "design-assets"
 cluster_title: "Design assets"
 intent: "interface color planning"
 audience: "UI designers, frontend developers, and product teams"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
-# Build a UI Color Palette
+# Build a UI Color Palette Online - Free Browser Tools
 
 ## Overview
 
@@ -20,7 +20,7 @@ A useful interface palette needs more than one attractive color. This workflow h
 
 Cluster: Design assets. Intent: interface color planning. Audience: UI designers, frontend developers, and product teams.
 
-This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -45,6 +45,7 @@ This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - How many colors should a UI palette include?: Start with a small set: primary, neutral, success, warning, and danger colors, then expand each into usable shades only when the interface needs them.
 - Is contrast checking necessary for decorative colors?: Yes when text, icons, controls, or important states use those colors. Decorative-only backgrounds still need enough separation from nearby content.
+- Do I need to upload files to build a ui color palette?: For tools that process files or pasted content, this workflow favors in-browser processing where possible so drafts and source files do not need to be sent to the app server.
 
 ## Related tools
 

@@ -1,12 +1,12 @@
 ---
 title: "Random Number Generator - Generate Random Numbers Free"
-description: "Generate random numbers within any range instantly. Perfect for lotteries, games, and decisions. Free random number generator online. Learn how to use this tool and"
+description: "SimpleToolset Random Number Generator is a browser-based tool to generate random numbers within a custom range. It accepts text, numbers, links, or settings entered in the browser and returns generated value, code, QR image, or copyable result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for raffle winners. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/utility-tools/random-number/"
 lang: "en"
 type: "tool"
 category: "utility-tools"
 tool_slug: "random-number"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Random Number Generator - Generate Random Numbers Free
@@ -17,7 +17,7 @@ Need random numbers for games, contests, or decisions? Our generator provides tr
 
 Generate truly random numbers within any range you specify. Set minimum and maximum values, generate multiple numbers at once, and choose whether to allow duplicates. Perfect for games, decision making, lotteries, and random selection.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

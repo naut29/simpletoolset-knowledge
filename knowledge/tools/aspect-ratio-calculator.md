@@ -1,12 +1,12 @@
 ---
 title: "Aspect Ratio Calculator - Calculate Image Dimensions"
-description: "Calculate image and video dimensions with aspect ratio. Free tool to find width, height, or ratio for 16:9, 4:3, 1:1 and custom ratios. Learn how to use this tool and"
+description: "SimpleToolset Aspect Ratio Calculator is a browser-based tool to calculate dimensions based on common aspect ratios (16:9. It accepts image files, colors, dimensions, or visual settings and returns processed image, preview, CSS, or downloadable visual asset. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for UI mockups. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/design-tools/aspect-ratio-calculator/"
 lang: "en"
 type: "tool"
 category: "design-tools"
 tool_slug: "aspect-ratio-calculator"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Aspect Ratio Calculator - Calculate Image Dimensions
@@ -17,7 +17,7 @@ Calculate dimensions while maintaining perfect proportions. Essential for resizi
 
 Calculate dimensions while maintaining aspect ratios. Enter any two values (width, height, or ratio) to find the third. Perfect for resizing images and videos proportionally.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

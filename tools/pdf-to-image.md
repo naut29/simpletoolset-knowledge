@@ -1,12 +1,12 @@
 ---
 title: "PDF to Image Converter - PDF to JPG/PNG Free"
-description: "Convert PDF pages to high-quality images. Extract pages as JPG or PNG files. Free PDF to image converter online, no software needed. Learn how to use this tool and"
+description: "SimpleToolset PDF to Image Converter is a browser-based tool to convert PDF pages to image files. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for slides and decks. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/pdf-tools/pdf-to-image/"
 lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "pdf-to-image"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # PDF to Image Converter - PDF to JPG/PNG Free
@@ -17,7 +17,7 @@ Need individual images from a PDF document? Our converter extracts each page as 
 
 Extract PDF pages as individual image files. Convert each page to high-quality JPG or PNG format for easy sharing, editing, or use in presentations. Perfect for extracting content from PDFs when you need image files.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -52,4 +52,6 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [pdf tools category](../categories/pdf-tools.md)
+- [Fix Scanned Pdf Orientation](../use-cases/fix-scanned-pdf-orientation.md)
+- [Split Pdf For Email Size](../use-cases/split-pdf-for-email-size.md)
 - [Merge Split Rotate Pdf Files](../use-cases/merge-split-rotate-pdf-files.md)

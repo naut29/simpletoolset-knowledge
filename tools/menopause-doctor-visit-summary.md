@@ -1,12 +1,12 @@
 ---
 title: "Menopause Doctor Visit Summary - Create a Private Visit PDF Offline"
-description: "Create a private menopause symptom summary for doctor visits offline. Organize symptom history in IndexedDB, export a PDF locally with jsPDF, and keep notes off the"
+description: "SimpleToolset Menopause Doctor Visit Summary is a browser-based tool to organize menopause symptom history locally and export a private doctor-visit PDF. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for private perimenopause visit prep. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/health-fitness/menopause-doctor-visit-summary/"
 lang: "en"
 type: "tool"
 category: "health-fitness"
 tool_slug: "menopause-doctor-visit-summary"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Menopause Doctor Visit Summary - Create a Private Visit PDF Offline
@@ -17,7 +17,7 @@ Create a private menopause or perimenopause visit summary and export a local PDF
 
 Organizes menopause or perimenopause symptom notes, visit questions, medications, and dated symptom history in a private browser draft, then exports a local PDF summary for doctor visits.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

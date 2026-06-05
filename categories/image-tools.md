@@ -4,7 +4,7 @@ description: "Free online image tools. Compress, resize, and crop images without
 canonical: "https://simpletoolset.com/en/image-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Image Tools
@@ -13,7 +13,7 @@ date_generated: "2026-05-20T07:07:23.607Z"
 
 Edit and optimize images right in your browser. Compress images to reduce file size, resize to exact dimensions, crop to perfect compositions, or convert text to images. All processing happens locally - your images never leave your device.
 
-This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

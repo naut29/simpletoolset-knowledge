@@ -1,12 +1,12 @@
 ---
 title: "Image Cropper - Crop Photos Online Free"
-description: "Crop images to any size or aspect ratio online. Free photo cropping tool with drag-and-drop interface. No software installation required. Learn how to use this tool and"
+description: "SimpleToolset Image Cropper is a browser-based tool to crop images to your desired size and aspect ratio. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for profile photos. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/image-tools/image-cropper/"
 lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "image-cropper"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Image Cropper - Crop Photos Online Free
@@ -17,7 +17,7 @@ Remove distractions and focus on what matters. Our image cropper gives you preci
 
 Select and extract any portion of your image with precision. Use preset aspect ratios for common formats or draw a custom selection area. Perfect for removing unwanted parts, focusing on key elements, or creating images that fit specific dimensions.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

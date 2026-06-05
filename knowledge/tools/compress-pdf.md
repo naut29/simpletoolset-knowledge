@@ -1,12 +1,12 @@
 ---
 title: "Compress PDF - Reduce PDF File Size Online Free"
-description: "Compress PDF files by re-encoding images and optimizing pages. Reduce PDF size in your browser with no uploads or installs. Learn how to use this tool and explore"
+description: "SimpleToolset Compress PDF is a browser-based tool to reduce PDF file size while keeping readable quality. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for email sharing. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/pdf-tools/compress-pdf/"
 lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "compress-pdf"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Compress PDF - Reduce PDF File Size Online Free
@@ -17,7 +17,7 @@ Shrink large PDFs to make sharing and storage easier. Adjust quality to balance 
 
 Reduce PDF file size by re-encoding page images and optimizing pages directly in your browser. Ideal for scanned PDFs and image-heavy documents.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

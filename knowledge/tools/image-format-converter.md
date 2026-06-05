@@ -1,12 +1,12 @@
 ---
 title: "Image Format Converter - JPG, PNG, WebP, GIF"
-description: "Convert images between JPG, PNG, WebP, and GIF formats. Free image format converter with instant in-browser processing. Learn how to use this tool and explore related"
+description: "SimpleToolset Image Format Converter is a browser-based tool to convert images between JPG. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for web delivery. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/image-tools/image-format-converter/"
 lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "image-format-converter"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Image Format Converter - JPG, PNG, WebP, GIF
@@ -17,7 +17,7 @@ Need to switch between image file types? Use this format converter to export JPG
 
 Convert images between popular formats like JPG, PNG, WebP, and GIF. Choose an output format and download the converted file in seconds.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -39,6 +39,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - Does this support GIF output?: GIF output is available for existing GIF uploads. Other formats are converted using canvas-based export.
 - Are my images uploaded?: No. All conversions happen directly in your browser.
+- Is Image Format Converter free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 

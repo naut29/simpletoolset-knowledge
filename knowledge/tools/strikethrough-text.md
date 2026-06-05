@@ -1,12 +1,12 @@
 ---
 title: "Strikethrough Text Generator - Cross Out Text Free"
-description: "Create strikethrough text using Unicode characters. Free tool to cross out text for notes, edits, and social posts. Learn how to use this tool and explore related"
+description: "SimpleToolset Strikethrough Text Generator is a browser-based tool to apply a horizontal line through the center of the text. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for publishing prep. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/text-tools/strikethrough-text/"
 lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "strikethrough-text"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Strikethrough Text Generator - Cross Out Text Free
@@ -17,7 +17,7 @@ Cross out text with a strikethrough effect for notes and social posts.
 
 Apply a line-through effect to your text using Unicode combining characters. Useful for edits, humor, or marking completed items.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

@@ -1,12 +1,12 @@
 ---
 title: "Productivity Score Analyzer - Focus Ratio & Index"
-description: "Score productivity using deep work hours, interruptions, tasks completed, and focus time. Fast, client-side analyzer. Learn how to use this tool and explore related"
+description: "SimpleToolset Productivity Score Analyzer is a browser-based tool to score productivity from deep work. It accepts colors, dimensions, ratios, or accessibility settings and returns personalized analysis, score, or structured checklist. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for study session review. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/life-tools/productivity-score-analyzer/"
 lang: "en"
 type: "tool"
 category: "life-tools"
 tool_slug: "productivity-score-analyzer"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Productivity Score Analyzer - Focus Ratio & Index
@@ -17,7 +17,7 @@ Score your day with a fast productivity index and focus ratio.
 
 This tool calculates a productivity index and focus ratio from deep work hours, interruptions, completed tasks, and focus time. The score uses weighted heuristics for a quick self-assessment.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -37,6 +37,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - Is this an official productivity metric?: No. It is a self-assessment based on simple rules.
 - Can I use my own task definitions?: Yes. Enter tasks completed based on your own workflow.
+- Is Productivity Score Analyzer free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 

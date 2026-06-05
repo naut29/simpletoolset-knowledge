@@ -1,12 +1,12 @@
 ---
 title: "Compound Interest Calculator - Contributions & EAR"
-description: "Calculate compound interest with periodic contributions. See future value, interest earned, and effective annual rate. Learn how to use this tool and explore related"
+description: "SimpleToolset Compound Interest Calculator is a browser-based tool to calculate compound growth with contributions and effective rate. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for emergency fund growth. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/financial-tools/compound-interest-calculator/"
 lang: "en"
 type: "tool"
 category: "financial-tools"
 tool_slug: "compound-interest-calculator"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Compound Interest Calculator - Contributions & EAR
@@ -17,7 +17,7 @@ Project compound growth with contributions and effective annual rate.
 
 Estimate future value using compound interest with optional periodic contributions and compounding frequency.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -40,6 +40,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - What is effective annual rate (EAR)?: EAR accounts for compounding and shows the true annual yield.
 - Does it support contributions at the beginning of a period?: Yes. You can select beginning or end-of-period contributions.
+- Is Compound Interest Calculator free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 

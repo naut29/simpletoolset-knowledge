@@ -1,15 +1,15 @@
 ---
-title: "Local AI Payroll & Bonus Agent - Private Excel Payroll Logic in Your Browser"
-description: "Upload payroll or attendance sheets, describe salary rules in plain language, and let a local AI payroll agent process the workbook privately in your browser with"
+title: "Local AI Payroll & Bonus Agent - Free Online Tool"
+description: "SimpleToolset Local AI Payroll & Bonus Agent is a browser-based tool to read attendance spreadsheets locally. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for attendance penalty calculations. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/local-ai-payroll-bonus-agent/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "local-ai-payroll-bonus-agent"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
-# Local AI Payroll & Bonus Agent - Private Excel Payroll Logic in Your Browser
+# Local AI Payroll & Bonus Agent - Free Online Tool
 
 ## Overview
 
@@ -17,7 +17,7 @@ Read local attendance or payroll workbooks, turn spoken salary rules into spread
 
 Reads attendance or payroll workbooks in the browser, interprets plain-language salary and bonus rules with a local Phi-3-mini style workflow, applies the generated logic to each row, and exports a processed workbook without app-server upload.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

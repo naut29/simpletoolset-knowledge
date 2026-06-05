@@ -1,12 +1,12 @@
 ---
 title: "EXIF Viewer - Extract Image Metadata Online Free"
-description: "View EXIF data from photos online. Extract camera settings, GPS location, timestamps, and hidden metadata from images. Free and private. Learn how to use this tool and"
+description: "SimpleToolset Image Metadata Viewer is a browser-based tool to extract hidden metadata like camera settings. It accepts image files, colors, dimensions, or visual settings and returns processed image, preview, CSS, or downloadable visual asset. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for brand photography review. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/design-tools/exif-viewer/"
 lang: "en"
 type: "tool"
 category: "design-tools"
 tool_slug: "exif-viewer"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # EXIF Viewer - Extract Image Metadata Online Free
@@ -17,7 +17,7 @@ View hidden metadata in your photos. Extract camera settings, GPS locations, and
 
 Extract and display metadata hidden in your image files. View camera settings, GPS coordinates, timestamps, copyright information, and more. All processing happens locally for privacy.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -52,3 +52,6 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [design tools category](../categories/design-tools.md)
+- [Build Ui Color Palette](../use-cases/build-ui-color-palette.md)
+- [Create Placeholder Assets For Mockups](../use-cases/create-placeholder-assets-for-mockups.md)
+- [Generate Favicon And Web Icons](../use-cases/generate-favicon-and-web-icons.md)

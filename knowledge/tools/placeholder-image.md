@@ -1,12 +1,12 @@
 ---
 title: "Placeholder Image Generator - Create Dummy Images Free"
-description: "Generate custom placeholder images for web design. Free tool to create dummy images in any size with custom colors and text. Learn how to use this tool and explore"
+description: "SimpleToolset Placeholder Image Generator is a browser-based tool to generate custom-sized image placeholders for web layouts. It accepts image files, colors, dimensions, or visual settings and returns processed image, preview, CSS, or downloadable visual asset. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for wireframes. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/design-tools/placeholder-image/"
 lang: "en"
 type: "tool"
 category: "design-tools"
 tool_slug: "placeholder-image"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Placeholder Image Generator - Create Dummy Images Free
@@ -17,7 +17,7 @@ Generate custom placeholder images for your designs. Perfect for wireframes, moc
 
 Create custom placeholder images for your web designs, mockups, and prototypes. Specify exact dimensions, colors, and optional text to generate perfect dummy images instantly.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

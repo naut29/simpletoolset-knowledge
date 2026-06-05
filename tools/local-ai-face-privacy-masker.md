@@ -1,12 +1,12 @@
 ---
 title: "Local AI Face Privacy Masker - Private Face Blur in Your Browser"
-description: "Automatically blur or cover faces in photos locally in your browser with a private MediaPipe Face Mesh workflow. No app-server upload, reusable offline assets, and"
+description: "SimpleToolset Local AI Face Privacy Masker helps you automatically blur or cover faces in photos locally in your browser with a private MediaPipe Face Mesh workflow. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow runs locally in the browser and does not require an account or app-server upload. It is best for prepare images for sharing. Review important outputs before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/local-ai-face-privacy-masker/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "local-ai-face-privacy-masker"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Local AI Face Privacy Masker - Private Face Blur in Your Browser
@@ -17,7 +17,7 @@ Automatically blur or cover faces in photos locally in your browser with a priva
 
 Detect visible faces in photos directly in your browser with a local MediaPipe Face Mesh workflow, then blur or fully cover those face regions so you can anonymize images without uploading the source file to the app server.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

@@ -1,12 +1,12 @@
 ---
 title: "BMR Calculator - Mifflin-St Jeor Equation"
-description: "Estimate basal metabolic rate (BMR) with the Mifflin-St Jeor formula. Free calculator using age, height, weight, and gender. Learn how to use this tool and explore"
+description: "SimpleToolset BMR Calculator is a browser-based tool to estimate basal metabolic rate with Mifflin-St Jeor. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for fitness planning. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/health-fitness/bmr-calculator/"
 lang: "en"
 type: "tool"
 category: "health-fitness"
 tool_slug: "bmr-calculator"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # BMR Calculator - Mifflin-St Jeor Equation
@@ -17,7 +17,7 @@ Estimate basal metabolic rate quickly to understand your resting energy use.
 
 This tool estimates basal metabolic rate (BMR) using the Mifflin-St Jeor equation based on age, height, weight, and gender. BMR is the estimated calories your body uses at rest.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -37,6 +37,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - Which formula does this use?: It uses the Mifflin-St Jeor equation for men and women.
 - Is this exact?: No. BMR is an estimate based on inputs and does not replace medical measurements.
+- Is BMR Calculator free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 

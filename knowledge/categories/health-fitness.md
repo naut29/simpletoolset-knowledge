@@ -4,7 +4,7 @@ description: "Free health and fitness calculators for BMI, BMR, daily calories, 
 canonical: "https://simpletoolset.com/en/health-fitness/"
 lang: "en"
 type: "category"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Health & Fitness
@@ -13,7 +13,7 @@ date_generated: "2026-05-21T01:37:59.417Z"
 
 Simple calculators for health, body metrics, and daily fitness goals. Estimate BMI, BMR, calorie needs, body composition, hydration, and training zones with fast, client-side tools.
 
-This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

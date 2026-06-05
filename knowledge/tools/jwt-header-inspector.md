@@ -1,12 +1,12 @@
 ---
 title: "JWT Header Inspector - Decode JWT Header"
-description: "Inspect JWT header JSON client-side without verification. Safe, fast, and private. Learn how to use this tool and explore related resources on SimpleToolSet."
+description: "SimpleToolset JWT Header Inspector is a browser-based tool to inspect the header of a JWT without verifying the signature. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for auth troubleshooting. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/network-tools/jwt-header-inspector/"
 lang: "en"
 type: "tool"
 category: "network-tools"
 tool_slug: "jwt-header-inspector"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # JWT Header Inspector - Decode JWT Header
@@ -17,7 +17,7 @@ Inspect JWT headers locally without verification.
 
 This tool decodes the header section of a JWT and shows the JSON fields. It performs no signature verification and does not send data anywhere.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -36,6 +36,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - Does this verify the signature?: No. It only decodes the header for inspection.
 - Is my token sent anywhere?: No. Everything runs in your browser.
+- Is JWT Header Inspector free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 

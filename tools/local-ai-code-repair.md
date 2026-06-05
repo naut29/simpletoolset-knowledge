@@ -1,15 +1,15 @@
 ---
-title: "AI Local Code Repair for Non-Devs - Private HTML, CSS, JS, and JSON Fixer"
-description: "Repair broken HTML, CSS, JavaScript, and JSON snippets locally in your browser with a private AI code-fixing workflow. No app-server upload and no account required."
+title: "AI Local Code Repair for Non-Devs - Free Online Tool"
+description: "SimpleToolset AI Local Code Repair for Non-Devs is a browser-based tool to repair broken HTML. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for broken HTML embeds. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/local-ai-code-repair/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "local-ai-code-repair"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
-# AI Local Code Repair for Non-Devs - Private HTML, CSS, JS, and JSON Fixer
+# AI Local Code Repair for Non-Devs - Free Online Tool
 
 ## Overview
 
@@ -17,7 +17,7 @@ Repair broken HTML, CSS, JavaScript, and JSON snippets locally in your browser w
 
 Repairs small broken HTML, CSS, JavaScript, and JSON snippets directly in the browser with a private local code-repair workflow, then explains the likely fixes in plain language for people who are not professional developers.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

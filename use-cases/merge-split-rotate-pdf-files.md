@@ -5,7 +5,11 @@ canonical: "https://simpletoolset.com/en/use-cases/merge-split-rotate-pdf-files/
 lang: "en"
 type: "use-case"
 category: "pdf-tools"
-date_generated: "2026-05-20T07:07:23.607Z"
+cluster_id: "pdf-workflows"
+cluster_title: "PDF workflows"
+intent: "PDF file organization"
+audience: "office teams, students, and document-heavy workflows"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Merge, Split, and Rotate PDF Files Online
@@ -14,7 +18,9 @@ date_generated: "2026-05-20T07:07:23.607Z"
 
 If your PDF files are out of order or too large, you can reorganize them in minutes. These tools run locally in your browser to keep files private.
 
-This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+Cluster: PDF workflows. Intent: PDF file organization. Audience: office teams, students, and document-heavy workflows.
+
+This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -44,3 +50,6 @@ This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [pdf tools category](../categories/pdf-tools.md)
+- [Convert Screenshots To Pdf](./convert-screenshots-to-pdf.md)
+- [Fix Scanned Pdf Orientation](./fix-scanned-pdf-orientation.md)
+- [Split Pdf For Email Size](./split-pdf-for-email-size.md)

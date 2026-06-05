@@ -1,12 +1,12 @@
 ---
 title: "Menopause Wellness Dashboard - Private Local Wellness Tracker"
-description: "Track menopause symptoms, sleep, mood, and energy in a private local dashboard with Chart.js, IndexedDB, and offline-first browser storage. No account or backend health"
+description: "SimpleToolset Menopause Wellness Dashboard is a browser-based tool to track menopause symptoms. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for all-in-one local menopause tracker. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/health-fitness/menopause-wellness-dashboard/"
 lang: "en"
 type: "tool"
 category: "health-fitness"
 tool_slug: "menopause-wellness-dashboard"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Menopause Wellness Dashboard - Private Local Wellness Tracker
@@ -17,7 +17,7 @@ Track menopause symptoms, sleep, mood, and energy together in a private local da
 
 Creates a private browser dashboard for daily menopause wellness snapshots including sleep, mood, energy, stress, hot flash intensity, brain fog, symptom tags, and notes with local charts and on-device trend review.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

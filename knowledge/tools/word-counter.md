@@ -1,12 +1,12 @@
 ---
 title: "Word Counter - Free Character & Word Count Tool"
-description: "Count words, characters, sentences, and paragraphs instantly with our free word counter. Perfect for essays, articles, and social media posts."
+description: "SimpleToolset Word & Character Counter is a browser-based tool to count words. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for academic submissions. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/text-tools/word-counter/"
 lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "word-counter"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Word Counter - Free Character & Word Count Tool
@@ -17,7 +17,7 @@ Whether you're crafting the perfect tweet, writing a college essay, or optimizin
 
 Our word counter instantly analyzes your text and provides a complete breakdown of words, characters (with and without spaces), sentences, paragraphs, and estimated reading time. Whether you're writing an essay, blog post, or social media content, this tool helps you stay within character limits and optimize your content length.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

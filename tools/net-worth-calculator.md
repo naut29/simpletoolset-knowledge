@@ -1,12 +1,12 @@
 ---
 title: "Net Worth Calculator - Assets vs Liabilities"
-description: "Sum your assets and liabilities to estimate net worth instantly in your browser. Learn how to use this tool and explore related resources on SimpleToolSet."
+description: "SimpleToolset Net Worth Calculator is a browser-based tool to calculate assets minus liabilities. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for personal finance tracking. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/financial-tools/net-worth-calculator/"
 lang: "en"
 type: "tool"
 category: "financial-tools"
 tool_slug: "net-worth-calculator"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Net Worth Calculator - Assets vs Liabilities
@@ -17,7 +17,7 @@ Estimate net worth with a quick assets and liabilities summary.
 
 Calculate net worth by summing assets and subtracting liabilities.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -38,6 +38,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - Is my data saved?: No, all calculations run in your browser without storage.
 - Can I add many items?: Yes, add as many asset and liability items as needed.
+- Is Net Worth Calculator free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 

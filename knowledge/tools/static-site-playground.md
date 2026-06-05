@@ -1,15 +1,15 @@
 ---
-title: "Static Site Playground - Run a Local-First Node.js Sandbox in Your Browser"
-description: "Edit multiple files, boot a browser-side Node.js environment, run a local static server, inspect terminal output, and preview the site without a cloud IDE."
+title: "Static Site Playground - Free Online Tool"
+description: "SimpleToolset Static Site Playground is a browser-based tool to run a multi-file Node.js static site sandbox in your browser with preview. It accepts code, structured data, URLs, files, or developer settings and returns formatted code, converted data, parsed details, or generated configuration. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for static site prototyping. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/developer-tools/static-site-playground/"
 lang: "en"
 type: "tool"
 category: "developer-tools"
 tool_slug: "static-site-playground"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
-# Static Site Playground - Run a Local-First Node.js Sandbox in Your Browser
+# Static Site Playground - Free Online Tool
 
 ## Overview
 
@@ -17,7 +17,7 @@ Boot a local-first Node.js sandbox in the browser, edit multiple files, preview 
 
 Boot a browser-side Node.js project with multiple editable files, run a local static server, inspect terminal output, preview the site, and export the current project as a ZIP archive.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

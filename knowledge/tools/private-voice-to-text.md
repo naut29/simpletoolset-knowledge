@@ -1,15 +1,15 @@
 ---
-title: "Private Voice-to-Text (Whisper Web) - Local Audio Transcription in Your Browser"
-description: "Transcribe audio files and meeting recordings locally in your browser with a private Whisper workflow. Voice-to-text without app-side uploads and with browser-side model"
+title: "Private Voice-to-Text (Whisper Web) - Free Online Tool"
+description: "SimpleToolset Private Voice-to-Text is a browser-based tool to transcribe audio files and meeting recordings locally in your browser with a private Whisper workflow. It accepts local audio files, speech, or transcript text and returns transcript, audio result, language label, or generated speech. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for private meeting notes. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/private-voice-to-text/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "private-voice-to-text"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
-# Private Voice-to-Text (Whisper Web) - Local Audio Transcription in Your Browser
+# Private Voice-to-Text (Whisper Web) - Free Online Tool
 
 ## Overview
 
@@ -17,7 +17,7 @@ Transcribe local audio files and meeting recordings with a private Whisper workf
 
 Transcribe local audio or video recordings into text with a Whisper model running in your browser, with selectable language hints, browser-side inference backends, and timestamped transcript chunks.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

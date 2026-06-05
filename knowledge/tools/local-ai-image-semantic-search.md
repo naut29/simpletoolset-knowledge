@@ -1,15 +1,15 @@
 ---
-title: "Local AI Image Semantic Search - Private CLIP Photo Search in Your Browser"
-description: "Search local photo libraries by meaning in your browser with a private CLIP workflow. Build image embeddings and run vector search without app-server upload or account"
+title: "Local AI Image Semantic Search - Free Online Tool"
+description: "SimpleToolset Local AI Image Semantic Search helps you search local image libraries by meaning in your browser with private CLIP embeddings and vector ranking. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow runs locally in the browser and does not require an account or app-server upload. It is best for screenshot recall. Review important outputs before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/local-ai-image-semantic-search/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "local-ai-image-semantic-search"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
-# Local AI Image Semantic Search - Private CLIP Photo Search in Your Browser
+# Local AI Image Semantic Search - Free Online Tool
 
 ## Overview
 
@@ -17,7 +17,7 @@ Search local photo libraries by meaning in your browser with a private CLIP work
 
 Build a local semantic index for your photos, screenshots, product shots, or design assets directly in the browser, then search them with natural-language queries using private CLIP embeddings and vector ranking.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

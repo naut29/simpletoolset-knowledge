@@ -1,12 +1,12 @@
 ---
 title: "Ideal Weight Calculator - Devine, Robinson, Miller"
-description: "Compare ideal weight using Devine, Robinson, and Miller formulas. Free calculator with metric and imperial units. Learn how to use this tool and explore related"
+description: "SimpleToolset Ideal Weight Calculator is a browser-based tool to compare Devine. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for fitness planning. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/health-fitness/ideal-weight-calculator/"
 lang: "en"
 type: "tool"
 category: "health-fitness"
 tool_slug: "ideal-weight-calculator"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Ideal Weight Calculator - Devine, Robinson, Miller
@@ -17,7 +17,7 @@ Compare ideal weight estimates using widely cited formulas.
 
 This tool estimates ideal body weight using three common formulas (Devine, Robinson, Miller) based on height and gender. Results are shown in both kilograms and pounds.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -37,6 +37,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - Why are there multiple formulas?: Different formulas use slightly different assumptions, so results can vary.
 - Is ideal weight a target?: It is a general estimate and not a medical recommendation.
+- Is Ideal Weight Calculator free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 

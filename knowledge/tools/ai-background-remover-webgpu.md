@@ -1,15 +1,15 @@
 ---
-title: "AI Background Remover (WebGPU) - Private Transparent PNG Cutout in Your Browser"
-description: "Remove image backgrounds locally in your browser with a private RMBG-1.4 workflow. Generate transparent PNG cutouts without app-server upload, with reusable local model"
+title: "AI Background Remover (WebGPU) - Free Online Tool"
+description: "SimpleToolset AI Background Remover is a browser-based tool to remove image backgrounds locally in your browser with a private RMBG-1.4 workflow. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for profile-picture cleanup. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/ai-background-remover-webgpu/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "ai-background-remover-webgpu"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
-# AI Background Remover (WebGPU) - Private Transparent PNG Cutout in Your Browser
+# AI Background Remover (WebGPU) - Free Online Tool
 
 ## Overview
 
@@ -17,7 +17,7 @@ Remove image backgrounds locally in your browser with a private RMBG-1.4 workflo
 
 Remove the background from portraits, product photos, profile pictures, and other images directly in your browser with a local RMBG-1.4 workflow, generating a transparent PNG cutout without uploading the source image to the app server.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

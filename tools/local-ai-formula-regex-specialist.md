@@ -1,15 +1,15 @@
 ---
-title: "Local AI Formula & Regex Specialist - Private Excel, SQL, and Regex Generator"
-description: "Generate Excel formulas, SQL queries, and regex patterns locally in your browser with a private Phi-3-mini workflow. No app-server prompt upload and no account required."
+title: "Local AI Formula & Regex Specialist - Free Online Tool"
+description: "SimpleToolset Local AI Formula & Regex Specialist is a browser-based tool to turn natural-language requests into Excel formulas. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Excel rule drafting. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/local-ai-formula-regex-specialist/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "local-ai-formula-regex-specialist"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
-# Local AI Formula & Regex Specialist - Private Excel, SQL, and Regex Generator
+# Local AI Formula & Regex Specialist - Free Online Tool
 
 ## Overview
 
@@ -17,7 +17,7 @@ Generate Excel formulas, SQL queries, and regex patterns locally in your browser
 
 Turns natural-language requests into draft Excel formulas, SQL queries, and regex patterns inside the browser with a local code-model workflow, so prompts and generated logic do not need to leave the device for app-server processing.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

@@ -1,15 +1,15 @@
 ---
-title: "Browser-Based File Encryptor - Password Protect Files with AES-256 in Your Browser"
-description: "Encrypt files with AES-256-GCM in your browser, create a password-protected .stse container, and decrypt it locally later without uploads or server-side storage."
+title: "Browser-Based File Encryptor - Free Online Tool"
+description: "SimpleToolset Browser-Based File Encryptor helps you encrypt files with AES-256 in your browser and unlock them later with the same password. It accepts password rules, password text, or phrase options entered in the browser and returns generated value, code, QR image, or copyable result. The workflow runs locally in the browser and does not require an account or app-server upload. It is best for client-side file locker. Review important outputs before relying on them."
 canonical: "https://simpletoolset.com/en/developer-tools/browser-based-file-encryptor/"
 lang: "en"
 type: "tool"
 category: "developer-tools"
 tool_slug: "browser-based-file-encryptor"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
-# Browser-Based File Encryptor - Password Protect Files with AES-256 in Your Browser
+# Browser-Based File Encryptor - Free Online Tool
 
 ## Overview
 
@@ -17,7 +17,7 @@ Encrypt files with AES-256-GCM in your browser, download a password-protected co
 
 Encrypt local files with browser-side AES-256-GCM, package them into a password-protected .stse container, and decrypt them later with the same password directly on your device.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

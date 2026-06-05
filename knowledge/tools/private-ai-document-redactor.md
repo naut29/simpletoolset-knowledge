@@ -1,15 +1,15 @@
 ---
-title: "Private AI Document Redactor - Local Sensitive Data Masking for Text and PDFs"
-description: "Detect and redact sensitive information in text or PDF files locally in your browser with a private AI document redactor. Mask names, cards, addresses, and common PII"
+title: "Private AI Document Redactor (Sensitive Data Masker) Online"
+description: "SimpleToolset Private AI Document Redactor is a browser-based tool to detect names. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for contract cleanup before sharing. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/private-ai-document-redactor/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "private-ai-document-redactor"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
-# Private AI Document Redactor - Local Sensitive Data Masking for Text and PDFs
+# Private AI Document Redactor (Sensitive Data Masker) Online
 
 ## Overview
 
@@ -17,7 +17,7 @@ Detect and mask sensitive information in text or PDFs locally in your browser, t
 
 Scans pasted text or uploaded PDF files inside the browser, detects common personally identifying information and named entities such as people, addresses, organizations, and locations, then produces masked text and redacted PDF exports without sending the source document to the app server.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

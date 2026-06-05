@@ -1,12 +1,12 @@
 ---
 title: "PII Detector - Detect Sensitive Information and Mask Text Privately"
-description: "Detect common sensitive information in documents locally in your browser with Presidio-style recognizers. Review findings and generate masked text with no app-server"
+description: "SimpleToolset PII Detector is a browser-based tool to detect and mask common sensitive information locally in your browser with Presidio-style recognizers. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for support-ticket cleanup. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/pii-detector/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "pii-detector"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # PII Detector - Detect Sensitive Information and Mask Text Privately
@@ -17,7 +17,7 @@ Detect common sensitive information in local text with Presidio-style recognizer
 
 Analyze pasted or imported text in your browser to flag common personal and secret-like patterns such as emails, phone numbers, payment details, IPs, URLs, and keys, then generate a masked copy without uploading the source text to the app server.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

@@ -1,12 +1,12 @@
 ---
 title: "PWA Document Signer - Sign PDF in Your Browser Without Uploading"
-description: "Add a visible signature to PDF files locally in your browser, choose page placement, and keep SHA-256 fingerprints as a signing receipt. No server upload required."
+description: "SimpleToolset PWA Document Signer is a browser-based tool to sign PDF files privately in your browser with visual signatures and SHA-256 receipts. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for internal approvals. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/pdf-tools/pwa-document-signer/"
 lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "pwa-document-signer"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # PWA Document Signer - Sign PDF in Your Browser Without Uploading
@@ -17,7 +17,7 @@ Apply a visible signature to a PDF locally in your browser and keep SHA-256 fing
 
 Add a visible signature to a PDF in your browser by drawing, typing, or uploading a signature image, then export the signed file with SHA-256 fingerprints for before-and-after integrity tracking.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -50,3 +50,5 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - [pdf tools category](../categories/pdf-tools.md)
 - [Merge Split Rotate Pdf Files](../use-cases/merge-split-rotate-pdf-files.md)
+- [Fix Scanned Pdf Orientation](../use-cases/fix-scanned-pdf-orientation.md)
+- [Split Pdf For Email Size](../use-cases/split-pdf-for-email-size.md)

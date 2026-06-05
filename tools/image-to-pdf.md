@@ -1,12 +1,12 @@
 ---
 title: "Image to PDF Converter - JPG to PDF Free Online"
-description: "Convert images to PDF documents instantly. Combine multiple JPG, PNG, or WebP images into one PDF. Free online image to PDF converter. Learn how to use this tool and"
+description: "SimpleToolset Image to PDF Converter is a browser-based tool to convert images to PDF documents. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for scan bundles. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/pdf-tools/image-to-pdf/"
 lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "image-to-pdf"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Image to PDF Converter - JPG to PDF Free Online
@@ -17,7 +17,7 @@ Need to share multiple images as a single document? Our image to PDF converter c
 
 Convert one or multiple images into a single PDF document. Upload images in any order, rearrange them as needed, and create a professional PDF instantly. Perfect for combining photos, scanned documents, or creating image portfolios.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -52,4 +52,6 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [pdf tools category](../categories/pdf-tools.md)
-- [Merge Split Rotate Pdf Files](../use-cases/merge-split-rotate-pdf-files.md)
+- [Convert Screenshots To Pdf](../use-cases/convert-screenshots-to-pdf.md)
+- [Fix Scanned Pdf Orientation](../use-cases/fix-scanned-pdf-orientation.md)
+- [Split Pdf For Email Size](../use-cases/split-pdf-for-email-size.md)

@@ -1,12 +1,12 @@
 ---
 title: "CIDR to Netmask Converter - IPv4 CIDR Table"
-description: "Convert CIDR notation to netmask and back. Includes a /0-/32 reference table. Client-side. Learn how to use this tool and explore related resources on SimpleToolSet."
+description: "SimpleToolset CIDR to Netmask Converter is a browser-based tool to convert between CIDR notation and IPv4 netmask. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for firewall rules. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/network-tools/cidr-to-netmask/"
 lang: "en"
 type: "tool"
 category: "network-tools"
 tool_slug: "cidr-to-netmask"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # CIDR to Netmask Converter - IPv4 CIDR Table
@@ -17,7 +17,7 @@ Convert CIDR to netmask with a handy /0-/32 table.
 
 This tool converts CIDR notation to IPv4 netmask and reverses netmask to CIDR. It also provides a quick reference table.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -37,6 +37,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - What if the netmask is invalid?: The tool returns no result when the netmask is not contiguous.
 - Does it support IPv6?: No. This converter is IPv4 only.
+- Is CIDR to Netmask Converter free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 
@@ -47,3 +48,4 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [network tools category](../categories/network-tools.md)
+- [Debug Web Requests And Identifiers](../use-cases/debug-web-requests-and-identifiers.md)

@@ -4,7 +4,7 @@ description: "Free online text tools for writers and developers. Word counter, c
 canonical: "https://simpletoolset.com/en/text-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Text Tools
@@ -13,7 +13,7 @@ date_generated: "2026-05-20T07:07:23.607Z"
 
 Our collection of text tools helps you analyze, transform, and generate text content. Whether you're counting words for an essay, converting text cases, generating placeholder content, or creating secure passwords, these tools work instantly in your browser.
 
-This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -51,3 +51,6 @@ This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [text tools category](./text-tools.md)
+- [Clean Text Lists For Spreadsheets](../use-cases/clean-text-lists-for-spreadsheets.md)
+- [Compare Document Versions](../use-cases/compare-document-versions.md)
+- [Create Seo Friendly Url Slugs](../use-cases/create-seo-friendly-url-slugs.md)

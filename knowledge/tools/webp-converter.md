@@ -1,12 +1,12 @@
 ---
 title: "WebP Converter - Convert WebP to PNG/JPG Free"
-description: "Convert WebP images to PNG or JPG format online. Free WebP converter for when you need standard image formats. No upload required. Learn how to use this tool and explore"
+description: "SimpleToolset WebP to PNG/JPG Converter is a browser-based tool to convert next-gen WebP images to standard PNG or JPG formats. It accepts image files, colors, dimensions, or visual settings and returns processed image, preview, CSS, or downloadable visual asset. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for design tool compatibility. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/design-tools/webp-converter/"
 lang: "en"
 type: "tool"
 category: "design-tools"
 tool_slug: "webp-converter"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # WebP Converter - Convert WebP to PNG/JPG Free
@@ -17,7 +17,7 @@ Convert WebP images to universally compatible PNG or JPG formats. Perfect for wh
 
 Convert modern WebP images to traditional PNG or JPG formats. Essential when you need compatibility with older software or platforms that don't support WebP.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

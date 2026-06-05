@@ -1,12 +1,12 @@
 ---
 title: "Instagram Caption Spacer - Add Line Breaks Free"
-description: "Format Instagram captions with proper line breaks and spacing. Free tool to create clean, readable Instagram posts and bios. Learn how to use this tool and explore"
+description: "SimpleToolset Instagram Caption Spacer is a browser-based tool to clean and format Instagram captions to preserve line breaks and spacing. It accepts video files, media settings, or public media URLs and returns cleaned, generated, counted, or reformatted text. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for carousel captions. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/social-tools/instagram-caption-spacer/"
 lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "instagram-caption-spacer"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Instagram Caption Spacer - Add Line Breaks Free
@@ -17,7 +17,7 @@ Format Instagram captions with proper spacing. Create clean, professional-lookin
 
 Format your Instagram captions with clean line breaks that actually work. Instagram removes regular line breaks, but our tool uses invisible characters to preserve your formatting.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

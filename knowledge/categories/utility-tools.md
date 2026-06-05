@@ -4,7 +4,7 @@ description: "Free online utility tools. Generate QR codes, random numbers, name
 canonical: "https://simpletoolset.com/en/utility-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Utility & Generators
@@ -13,7 +13,7 @@ date_generated: "2026-05-21T01:37:59.417Z"
 
 Essential utility tools for everyday tasks. Generate QR codes for any content, create random numbers for games and decisions, generate random names for projects, create unique UUIDs for development, or perform quick calculations.
 
-This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

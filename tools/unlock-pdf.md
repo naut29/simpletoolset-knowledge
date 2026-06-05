@@ -1,12 +1,12 @@
 ---
 title: "Unlock PDF - Remove PDF Password Online Free"
-description: "Unlock protected PDFs in your browser. Enter the password to export an unlocked PDF for easier access. Learn how to use this tool and explore related resources on"
+description: "SimpleToolset Unlock PDF is a browser-based tool to remove password protection from PDFs. It accepts password rules, password text, or phrase options entered in the browser and returns generated value, code, QR image, or copyable result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for internal review. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/pdf-tools/unlock-pdf/"
 lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "unlock-pdf"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Unlock PDF - Remove PDF Password Online Free
@@ -17,7 +17,7 @@ Enter your password once and export an unlocked PDF for easier access.
 
 Remove password protection from PDFs by re-exporting pages after you enter the correct password. Output is a new unlocked PDF.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -39,6 +39,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - Will the unlocked PDF keep selectable text?: Unlocked PDFs are exported as images, so selectable text may not be preserved.
 - Do you store the password?: No. Passwords are only used locally in your browser.
+- Is Unlock PDF free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 
@@ -50,3 +51,5 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - [pdf tools category](../categories/pdf-tools.md)
 - [Merge Split Rotate Pdf Files](../use-cases/merge-split-rotate-pdf-files.md)
+- [Fix Scanned Pdf Orientation](../use-cases/fix-scanned-pdf-orientation.md)
+- [Split Pdf For Email Size](../use-cases/split-pdf-for-email-size.md)

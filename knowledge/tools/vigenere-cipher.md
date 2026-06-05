@@ -1,12 +1,12 @@
 ---
 title: "Vigenere Cipher - Encrypt and Decrypt Text"
-description: "Encrypt or decrypt text using the Vigenere cipher. A classic polyalphabetic cipher for learning and basic encoding. Learn how to use this tool and explore related"
+description: "SimpleToolset Vigenere Cipher Tool is a browser-based tool to encrypt and decrypt text using the classic Vigenere polyalphabetic substitution. It accepts text pasted or typed into the browser and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for classroom lessons. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/utility-tools/vigenere-cipher/"
 lang: "en"
 type: "tool"
 category: "utility-tools"
 tool_slug: "vigenere-cipher"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Vigenere Cipher - Encrypt and Decrypt Text
@@ -17,7 +17,7 @@ Encrypt and decrypt text with the classic Vigenere cipher for education and puzz
 
 Encrypt and decrypt text using the Vigenere cipher with a keyword. This is a classical cipher used for education, puzzles, and non-secure encoding.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

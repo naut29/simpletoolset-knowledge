@@ -9,7 +9,7 @@ cluster_id: "image-optimization"
 cluster_title: "Image optimization"
 intent: "website image compression"
 audience: "site owners, bloggers, and web teams"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Compress Images for Web Performance
@@ -20,7 +20,7 @@ Large images are one of the biggest causes of slow page loads. This guide shows 
 
 Cluster: Image optimization. Intent: website image compression. Audience: site owners, bloggers, and web teams.
 
-This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

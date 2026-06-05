@@ -44,7 +44,6 @@
 | https://simpletoolset.com/en/gif-tools/compress-gif-to-512kb/ | tool | knowledge/tools/compress-gif-to-512kb.md |
 | https://simpletoolset.com/en/gif-tools/compress-gif-to-custom-size/ | tool | knowledge/tools/compress-gif-to-custom-size.md |
 | https://simpletoolset.com/en/gif-tools/video-to-gif/ | tool | knowledge/tools/video-to-gif.md |
-| https://simpletoolset.com/en/gif-tools/gif-to-mp4/ | tool | knowledge/tools/gif-to-mp4.md |
 | https://simpletoolset.com/en/gif-tools/gif-to-apng/ | tool | knowledge/tools/gif-to-apng.md |
 | https://simpletoolset.com/en/gif-tools/gif-for-discord/ | tool | knowledge/tools/gif-for-discord.md |
 | https://simpletoolset.com/en/pdf-tools/image-to-pdf/ | tool | knowledge/tools/image-to-pdf.md |
@@ -109,6 +108,7 @@
 | https://simpletoolset.com/en/health-fitness/calorie-deficit-calculator/ | tool | knowledge/tools/calorie-deficit-calculator.md |
 | https://simpletoolset.com/en/health-fitness/water-intake-calculator/ | tool | knowledge/tools/water-intake-calculator.md |
 | https://simpletoolset.com/en/health-fitness/heart-rate-zone-calculator/ | tool | knowledge/tools/heart-rate-zone-calculator.md |
+| https://simpletoolset.com/en/health-fitness/biological-age-longevity-predictor/ | tool | knowledge/tools/biological-age-longevity-predictor.md |
 | https://simpletoolset.com/en/health-fitness/step-to-calorie-calculator/ | tool | knowledge/tools/step-to-calorie-calculator.md |
 | https://simpletoolset.com/en/health-fitness/macro-nutrient-calculator/ | tool | knowledge/tools/macro-nutrient-calculator.md |
 | https://simpletoolset.com/en/health-fitness/pregnancy-due-date-calculator/ | tool | knowledge/tools/pregnancy-due-date-calculator.md |
@@ -191,7 +191,6 @@
 | https://simpletoolset.com/en/social-tools/kuaishou-video-downloader/ | tool | knowledge/tools/kuaishou-video-downloader.md |
 | https://simpletoolset.com/en/social-tools/haokan-video-downloader/ | tool | knowledge/tools/haokan-video-downloader.md |
 | https://simpletoolset.com/en/social-tools/bilibili-video-downloader/ | tool | knowledge/tools/bilibili-video-downloader.md |
-| https://simpletoolset.com/en/social-tools/video-md5-changer/ | tool | knowledge/tools/video-md5-changer.md |
 | https://simpletoolset.com/en/social-tools/in-browser-video-transcoder/ | tool | knowledge/tools/in-browser-video-transcoder.md |
 | https://simpletoolset.com/en/social-tools/audio-stem-splitter/ | tool | knowledge/tools/audio-stem-splitter.md |
 | https://simpletoolset.com/en/ai-local-tools/private-voice-to-text/ | tool | knowledge/tools/private-voice-to-text.md |

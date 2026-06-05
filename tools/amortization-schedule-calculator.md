@@ -1,12 +1,12 @@
 ---
 title: "Amortization Schedule Calculator - Payment Breakdown"
-description: "Generate an amortization schedule showing principal, interest, and remaining balance per period. Learn how to use this tool and explore related resources on"
+description: "SimpleToolset Amortization Schedule Calculator is a browser-based tool to generate a loan payment schedule with balance breakdown. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for loan transparency. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/financial-tools/amortization-schedule-calculator/"
 lang: "en"
 type: "tool"
 category: "financial-tools"
 tool_slug: "amortization-schedule-calculator"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Amortization Schedule Calculator - Payment Breakdown
@@ -17,7 +17,7 @@ See exactly how each payment splits between principal and interest.
 
 Build a period-by-period amortization schedule using loan amount, rate, and term.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -38,6 +38,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - Why limit the number of rows?: Limiting rows keeps the table fast and readable for long terms.
 - Is the last balance clamped to zero?: Yes, the schedule prevents negative balances.
+- Is Amortization Schedule Calculator free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 

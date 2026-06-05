@@ -1,12 +1,12 @@
 ---
 title: "HTML Entity Encoder/Decoder - Encode Special Characters"
-description: "Encode and decode HTML entities online. Convert special characters like <, >, & to safe HTML entities. Free encoder/decoder tool. Learn how to use this tool and explore"
+description: "SimpleToolset HTML Entity Encoder/Decoder is a browser-based tool to safely convert characters like < and > to their HTML entities and vice-versa. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for code snippets. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/developer-tools/html-entity-encoder/"
 lang: "en"
 type: "tool"
 category: "developer-tools"
 tool_slug: "html-entity-encoder"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # HTML Entity Encoder/Decoder - Encode Special Characters
@@ -17,7 +17,7 @@ Encode and decode HTML entities safely. Essential for displaying special charact
 
 Safely convert special characters to their HTML entity equivalents and vice versa. Essential for displaying code snippets, preventing XSS attacks, and ensuring proper HTML rendering.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -52,3 +52,6 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [developer tools category](../categories/developer-tools.md)
+- [Format Markdown For Web](../use-cases/format-markdown-for-web.md)
+- [Convert Data Formats For Apis](../use-cases/convert-data-formats-for-apis.md)
+- [Plan Cron Schedules And Time Conversions](../use-cases/plan-cron-schedules-and-time-conversions.md)

@@ -1,12 +1,12 @@
 ---
 title: "Body Fat Percentage Calculator (US Navy)"
-description: "Estimate body fat percentage using the US Navy method. Enter height, neck, waist, and hip (female) measurements. Learn how to use this tool and explore related resources"
+description: "SimpleToolset Body Fat Percentage Calculator is a browser-based tool to estimate body fat using the US Navy method. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for fitness planning. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/health-fitness/body-fat-percentage-calculator/"
 lang: "en"
 type: "tool"
 category: "health-fitness"
 tool_slug: "body-fat-percentage-calculator"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Body Fat Percentage Calculator (US Navy)
@@ -17,7 +17,7 @@ Estimate body fat percentage using standard measurement formulas.
 
 This calculator estimates body fat percentage using the US Navy method. It uses measurements such as height, neck, waist, and hip (for women) to provide a percentage estimate.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -37,6 +37,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - Is this method accurate?: It provides an estimate based on measurements and may differ from clinical methods.
 - Do I need hip measurements?: Hip circumference is used for the female formula only.
+- Is Body Fat Percentage Calculator free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 

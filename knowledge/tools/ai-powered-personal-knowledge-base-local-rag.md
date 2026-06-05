@@ -1,12 +1,12 @@
 ---
 title: "AI-Powered Personal Knowledge Base - Chat With Local PDFs Privately"
-description: "Build a private browser-side knowledge base with local RAG, IndexedDB storage, and on-device AI answers. Chat with PDFs and notes without app-server document upload."
+description: "SimpleToolset AI-Powered Personal Knowledge Base helps you chat with local PDFs and notes in your browser with private RAG retrieval. It accepts website URLs, local notes, PDFs, or document text and returns private chat answers, source references, or searchable local index. The workflow runs locally in the browser and does not require an account or app-server upload. It is best for private PDF research. Review important outputs before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/ai-powered-personal-knowledge-base-local-rag/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "ai-powered-personal-knowledge-base-local-rag"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # AI-Powered Personal Knowledge Base - Chat With Local PDFs Privately
@@ -17,7 +17,7 @@ Build a private browser-side knowledge base for PDFs and notes, then ask questio
 
 Import PDFs and text documents into a browser-side knowledge base, chunk them locally with LangChain, store the indexed chunks in IndexedDB, then retrieve relevant passages and generate on-device AI answers for your questions.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

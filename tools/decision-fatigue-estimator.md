@@ -1,12 +1,12 @@
 ---
 title: "Decision Fatigue Estimator - Mental Fatigue Index"
-description: "Estimate mental fatigue from daily decisions, work hours, sleep, and caffeine. Simple scoring, client-side. Learn how to use this tool and explore related resources on"
+description: "SimpleToolset Decision Fatigue Estimator is a browser-based tool to estimate mental fatigue from decisions. It accepts self-assessment answers, lifestyle notes, or planning inputs and returns personalized analysis, score, or structured checklist. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for study workload planning. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/life-tools/decision-fatigue-estimator/"
 lang: "en"
 type: "tool"
 category: "life-tools"
 tool_slug: "decision-fatigue-estimator"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Decision Fatigue Estimator - Mental Fatigue Index
@@ -17,7 +17,7 @@ Estimate mental fatigue with a quick, rules-based score.
 
 This tool estimates a mental fatigue index from daily decision count, work hours, sleep, and caffeine intake. It provides a quick indicator of cognitive load.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -37,6 +37,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - Is decision fatigue measurable?: This tool provides a heuristic estimate based on inputs.
 - Do I need exact decision counts?: No. A reasonable estimate is enough.
+- Is Decision Fatigue Estimator free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 

@@ -1,12 +1,12 @@
 ---
 title: "GraphQL Prettifier - Format GraphQL Queries Free"
-description: "Format and beautify GraphQL queries online. Free GraphQL prettifier with proper indentation and syntax highlighting. Learn how to use this tool and explore related"
+description: "SimpleToolset GraphQL Prettifier is a browser-based tool to format and indent GraphQL queries for better readability. It accepts code, structured data, URLs, files, or developer settings and returns formatted code, converted data, parsed details, or generated configuration. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for API debugging. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/developer-tools/graphql-prettifier/"
 lang: "en"
 type: "tool"
 category: "developer-tools"
 tool_slug: "graphql-prettifier"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # GraphQL Prettifier - Format GraphQL Queries Free
@@ -17,7 +17,7 @@ Format GraphQL queries for better readability. Essential for debugging, document
 
 Format messy GraphQL queries into clean, readable code with proper indentation. Essential for debugging queries, documenting APIs, and code reviews.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -52,3 +52,5 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [developer tools category](../categories/developer-tools.md)
+- [Convert Data Formats For Apis](../use-cases/convert-data-formats-for-apis.md)
+- [Plan Cron Schedules And Time Conversions](../use-cases/plan-cron-schedules-and-time-conversions.md)

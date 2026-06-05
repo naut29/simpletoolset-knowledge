@@ -4,7 +4,7 @@ description: "Free online unit converters for length, temperature, data, fuel ec
 canonical: "https://simpletoolset.com/en/unit-converters/"
 lang: "en"
 type: "category"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Unit Converters
@@ -13,7 +13,7 @@ date_generated: "2026-05-20T07:07:23.607Z"
 
 Convert between common units in seconds. From metric and imperial length to temperature, data sizes, fuel economy, area, pressure, speed, power, cooking weights, and time zones, all conversions run instantly in your browser.
 
-This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

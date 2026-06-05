@@ -9,7 +9,7 @@ cluster_id: "image-optimization"
 cluster_title: "Image optimization"
 intent: "image size reduction"
 audience: "publishers, designers, and website owners"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Reduce Image Size Without Losing Quality
@@ -20,7 +20,7 @@ If your images are too large, you don't need to sacrifice clarity to make them s
 
 Cluster: Image optimization. Intent: image size reduction. Audience: publishers, designers, and website owners.
 
-This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

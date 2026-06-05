@@ -9,7 +9,7 @@ cluster_id: "image-optimization"
 cluster_title: "Image optimization"
 intent: "Core Web Vitals image optimization"
 audience: "SEO teams, developers, and site owners"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Image Optimizer for Website Speed (Improve Core Web Vitals)
@@ -20,7 +20,7 @@ Images are usually the biggest files on a webpage. If they're not optimized, the
 
 Cluster: Image optimization. Intent: Core Web Vitals image optimization. Audience: SEO teams, developers, and site owners.
 
-This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

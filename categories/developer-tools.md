@@ -4,7 +4,7 @@ description: "Free online developer tools. Format XML, JSON, SQL, test regex, de
 canonical: "https://simpletoolset.com/en/developer-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Developer Tools
@@ -13,7 +13,7 @@ date_generated: "2026-05-20T07:07:23.607Z"
 
 Essential tools for developers and programmers. Format and beautify code, convert between data formats, test regular expressions, decode tokens, and generate configuration files. All tools run in your browser with no data sent to servers.
 
-This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -51,3 +51,5 @@ This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [developer tools category](./developer-tools.md)
+- [Convert Data Formats For Apis](../use-cases/convert-data-formats-for-apis.md)
+- [Plan Cron Schedules And Time Conversions](../use-cases/plan-cron-schedules-and-time-conversions.md)

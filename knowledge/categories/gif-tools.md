@@ -1,10 +1,10 @@
 ---
 title: "GIF Tools"
-description: "Compress, convert, resize, and optimize GIF files online. Free, fast, and privacy-friendly. Explore tools and guides that help you get results faster on SimpleToolSet."
+description: "Compress, convert, resize, and optimize GIF files online. Free, fast, and privacy-friendly. Explore tools and guides that help you get results faster on SimpleToolset."
 canonical: "https://simpletoolset.com/en/gif-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # GIF Tools
@@ -13,7 +13,7 @@ date_generated: "2026-05-21T01:37:59.417Z"
 
 Use these GIF tools to reduce file size, convert formats, and prepare GIFs for platforms like Discord. Everything runs in your browser.
 
-This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

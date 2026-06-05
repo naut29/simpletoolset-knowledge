@@ -1,15 +1,15 @@
 ---
-title: "Browser-Based Object Detector - Private AI Image Scanner in Your Browser"
-description: "Detect objects in photos locally in your browser with a private DETR object-detection workflow. No app-server upload, reusable local model caching, and secure image"
+title: "Browser-Based Object Detector - Free Online Tool"
+description: "SimpleToolset Browser-Based Object Detector is a browser-based tool to detect objects in photos locally in your browser with a private DETR image-analysis workflow. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for private image QA. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/browser-based-object-detector/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "browser-based-object-detector"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
-# Browser-Based Object Detector - Private AI Image Scanner in Your Browser
+# Browser-Based Object Detector - Free Online Tool
 
 ## Overview
 
@@ -17,7 +17,7 @@ Detect objects in photos locally in your browser with a private DETR image-analy
 
 Detect everyday objects in photos, screenshots, and product images directly in your browser with a local DETR object-detection workflow, returning labels, confidence scores, and bounding boxes without uploading the source image to the app server.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

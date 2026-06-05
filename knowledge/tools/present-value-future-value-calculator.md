@@ -1,12 +1,12 @@
 ---
 title: "Present Value / Future Value Calculator"
-description: "Convert present value to future value (or vice versa) with compounding frequency. Learn how to use this tool and explore related resources on SimpleToolSet."
+description: "SimpleToolset Present Value / Future Value is a browser-based tool to convert between present and future values. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for savings goal translation. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/financial-tools/present-value-future-value-calculator/"
 lang: "en"
 type: "tool"
 category: "financial-tools"
 tool_slug: "present-value-future-value-calculator"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Present Value / Future Value Calculator
@@ -17,7 +17,7 @@ Convert values across time with compounding.
 
 Convert between present and future value using a compound rate and term.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -38,6 +38,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - What is PV vs FV?: PV is today's value; FV is the value at a future date.
 - Does compounding frequency matter?: Yes. More frequent compounding increases future value.
+- Is Present Value / Future Value free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 

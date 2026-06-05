@@ -1,15 +1,15 @@
 ---
-title: "Local AI Noise Canceller - Clean Audio Recordings Privately in Your Browser"
-description: "Clean audio recordings locally in your browser with a private RNNoise workflow. Remove steady background noise, preview the result, and export WAV without app-server"
+title: "Local AI Noise Canceller - Free Online Tool"
+description: "SimpleToolset Local AI Noise Canceller is a browser-based tool to clean audio recordings locally in your browser with a private RNNoise background-noise remover. It accepts local audio files, speech, or transcript text and returns transcript, audio result, language label, or generated speech. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for private voice memos. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/local-ai-noise-canceller/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "local-ai-noise-canceller"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
-# Local AI Noise Canceller - Clean Audio Recordings Privately in Your Browser
+# Local AI Noise Canceller - Free Online Tool
 
 ## Overview
 
@@ -17,7 +17,7 @@ Clean audio recordings locally in your browser with an RNNoise workflow, then pr
 
 Load a local recording, let RNNoise reduce steady background noise directly in browser memory, then preview and download a cleaned WAV file without sending the source audio to the app server.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

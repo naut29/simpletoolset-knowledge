@@ -1,6 +1,6 @@
 ---
-title: "Fix Scanned PDF Orientation Issues"
-description: "Rotate scanned PDFs, convert pages to images when needed, rebuild PDFs, and merge corrected files into one document. Use this guide with related tools on SimpleToolSet"
+title: "Fix Scanned PDF Orientation Issues Online"
+description: "Rotate scanned PDFs, convert pages to images when needed, rebuild PDFs, and merge corrected files into one document with free browser tools."
 canonical: "https://simpletoolset.com/en/use-cases/fix-scanned-pdf-orientation/"
 lang: "en"
 type: "use-case"
@@ -9,10 +9,10 @@ cluster_id: "pdf-workflows"
 cluster_title: "PDF workflows"
 intent: "scanned PDF correction"
 audience: "administrators, students, and document operations teams"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
-# Fix Scanned PDF Orientation Issues
+# Fix Scanned PDF Orientation Issues Online
 
 ## Overview
 
@@ -20,7 +20,7 @@ Scanned documents often include sideways pages, mixed orientations, or images th
 
 Cluster: PDF workflows. Intent: scanned PDF correction. Audience: administrators, students, and document operations teams.
 
-This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -45,6 +45,7 @@ This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - Should I rotate images or PDF pages first?: Rotate PDF pages first when possible. Convert to images only when the scan needs image-level correction.
 - Will rotating a PDF change the document content?: Rotation changes page orientation for readability. It should not alter the visible text or images on the page.
+- Do I need to upload files to fix scanned pdf orientation issues?: For tools that process files or pasted content, this workflow favors in-browser processing where possible so drafts and source files do not need to be sent to the app server.
 
 ## Related tools
 

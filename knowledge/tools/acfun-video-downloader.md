@@ -1,12 +1,12 @@
 ---
 title: "AcFun Video Downloader - Get AcFun Video Links"
-description: "Extract best-effort AcFun video links from a post URL. Some posts may be restricted or private. Learn how to use this tool and explore related resources on SimpleToolSet."
+description: "SimpleToolset AcFun Video Downloader is a browser-based tool to get download links from AcFun video posts (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator backups. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/social-tools/acfun-video-downloader/"
 lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "acfun-video-downloader"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # AcFun Video Downloader - Get AcFun Video Links
@@ -17,7 +17,7 @@ Get best-effort AcFun video links from a post URL and open or copy them.
 
 Fetch available video sources from AcFun posts and show direct links you can open or copy. Best-effort extraction may vary by post.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -39,6 +39,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - Why can't the tool find a video?: Some posts are private, restricted, or the page markup has changed.
 - Does this guarantee a download?: No. It provides best-effort links and some posts may not expose media URLs.
+- Is AcFun Video Downloader free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 

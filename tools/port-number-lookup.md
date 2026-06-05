@@ -1,12 +1,12 @@
 ---
 title: "Port Number Lookup - Common Service Names"
-description: "Lookup common service names for popular port numbers with short descriptions. Client-side only. Learn how to use this tool and explore related resources on SimpleToolSet."
+description: "SimpleToolset Port Number Lookup is a browser-based tool to find common service names for popular ports. It accepts text pasted or typed into the browser and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for firewall review. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/network-tools/port-number-lookup/"
 lang: "en"
 type: "tool"
 category: "network-tools"
 tool_slug: "port-number-lookup"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Port Number Lookup - Common Service Names
@@ -17,7 +17,7 @@ Lookup common services for popular port numbers.
 
 This tool maps common port numbers to their typical services and descriptions. It helps identify traffic and configuration settings quickly.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -37,6 +37,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - Does it cover every port?: It includes a curated list of popular ports for quick reference.
 - Are the results TCP or UDP?: Many ports can be used by both; the tool lists the common service.
+- Is Port Number Lookup free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 
@@ -47,3 +48,4 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [network tools category](../categories/network-tools.md)
+- [Debug Web Requests And Identifiers](../use-cases/debug-web-requests-and-identifiers.md)

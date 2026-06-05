@@ -1,12 +1,12 @@
 ---
 title: "JWT Decoder - Decode JSON Web Tokens Free"
-description: "Decode JWT tokens and view header and payload data. Free tool to inspect and debug JSON Web Tokens. Learn how to use this tool and explore related resources on"
+description: "SimpleToolset JWT Decoder is a browser-based tool to decode JSON Web Tokens to view header and payload data. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for auth debugging. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/developer-tools/jwt-decoder/"
 lang: "en"
 type: "tool"
 category: "developer-tools"
 tool_slug: "jwt-decoder"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # JWT Decoder - Decode JSON Web Tokens Free
@@ -17,7 +17,7 @@ Inspect and decode JWT tokens instantly to debug authentication flows.
 
 Decode and inspect JSON Web Tokens without needing the secret key. View the header, payload claims, and verify token expiration status. Essential for debugging authentication systems.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

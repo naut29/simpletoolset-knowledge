@@ -1,15 +1,15 @@
 ---
-title: "Offline AI Text Summarizer - Private Local Document Summaries in Your Browser"
-description: "Summarize long documents locally in your browser with a private AI model. Browser-side AI text shortener with no app-server upload and reusable local model caching."
+title: "Offline AI Text Summarizer - Free Online Tool"
+description: "SimpleToolset Offline AI Text Summarizer is a browser-based tool to summarize long documents locally in your browser RAM with a private AI model. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for internal report condensation. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/offline-ai-text-summarizer/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "offline-ai-text-summarizer"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
-# Offline AI Text Summarizer - Private Local Document Summaries in Your Browser
+# Offline AI Text Summarizer - Free Online Tool
 
 ## Overview
 
@@ -17,7 +17,7 @@ Summarize long articles, reports, notes, and drafts locally in your browser with
 
 Condense long articles, reports, notes, and drafts with a local Transformers.js summarization pipeline running in your browser, using browser memory, chunked processing for longer inputs, and selectable WebGPU or WASM inference backends.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

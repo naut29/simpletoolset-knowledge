@@ -1,15 +1,15 @@
 ---
-title: "In-Browser AI Privacy Image Filter - Private Face Blur or Cartoon Replace"
-description: "Blur visible faces or replace them with cartoon privacy avatars locally in your browser with MediaPipe and TensorFlow.js. No app-server upload, reusable offline assets,"
+title: "In-Browser AI Privacy Image Filter - Free Online Tool"
+description: "SimpleToolset In-Browser AI Privacy Image Filter helps you blur faces or replace them with cartoon privacy avatars locally in your browser with MediaPipe and TensorFlow.js. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow runs locally in the browser and does not require an account or app-server upload. It is best for social-media image prep. Review important outputs before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/in-browser-ai-privacy-image-filter/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "in-browser-ai-privacy-image-filter"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
-# In-Browser AI Privacy Image Filter - Private Face Blur or Cartoon Replace
+# In-Browser AI Privacy Image Filter - Free Online Tool
 
 ## Overview
 
@@ -17,7 +17,7 @@ Blur visible faces or replace them with cartoon privacy avatars locally in your 
 
 Detect visible faces directly in your browser with a local MediaPipe Face Mesh workflow, then either blur those faces or replace them with cartoon privacy avatars derived locally with TensorFlow.js so you can protect identity without uploading the source image to the app server.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

@@ -4,7 +4,7 @@ description: "Free online PDF tools. Merge, split, rotate PDFs and convert betwe
 canonical: "https://simpletoolset.com/en/pdf-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # PDF Tools
@@ -13,7 +13,7 @@ date_generated: "2026-05-21T01:37:59.417Z"
 
 Handle all your PDF needs without installing software. Merge multiple PDFs into one, split large PDFs into pages, rotate incorrectly oriented pages, and convert between PDF and image formats. Fast, free, and secure.
 
-This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

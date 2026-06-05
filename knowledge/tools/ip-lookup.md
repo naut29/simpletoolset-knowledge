@@ -1,12 +1,12 @@
 ---
 title: "IP Address Lookup - Find IP Location & ISP Info"
-description: "Look up IP address information including location, ISP, and timezone. Free IP geolocation tool for any public IP. Learn how to use this tool and explore related"
+description: "SimpleToolset IP Address Lookup is a browser-based tool to fetch detailed information about an IP address. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for incident triage. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/network-tools/ip-lookup/"
 lang: "en"
 type: "tool"
 category: "network-tools"
 tool_slug: "ip-lookup"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # IP Address Lookup - Find IP Location & ISP Info
@@ -17,7 +17,7 @@ Find location and provider information for any public IP address.
 
 Get detailed information about any IP address including geographic location (city, region, country), ISP, organization, timezone, and geographic coordinates for mapping.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

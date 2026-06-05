@@ -1,12 +1,12 @@
 ---
 title: "Image Compressor - Reduce File Size Online Free"
-description: "Compress images online without losing quality. Reduce JPEG and PNG file sizes for faster websites. Free image compression tool, no upload limits."
+description: "SimpleToolset Image Compressor is a browser-based tool to compress images to reduce file size without losing quality. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for website performance. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/image-tools/image-compressor/"
 lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "image-compressor"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Image Compressor - Reduce File Size Online Free
@@ -17,7 +17,7 @@ Large image files slow down websites and fill up storage quickly. Our image comp
 
 Reduce your image file sizes significantly while maintaining visual quality. Our compressor uses intelligent algorithms to find the perfect balance between size reduction and image quality. Perfect for optimizing images for websites, emails, and storage.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

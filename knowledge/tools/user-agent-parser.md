@@ -1,12 +1,12 @@
 ---
 title: "User Agent Parser - Decode Browser Information"
-description: "Parse and decode user agent strings. Free tool to extract browser, OS, and device information from any UA string. Learn how to use this tool and explore related"
+description: "SimpleToolset User Agent Parser is a browser-based tool to extract browser and OS information from a User Agent string. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for bug triage. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/utility-tools/user-agent-parser/"
 lang: "en"
 type: "tool"
 category: "utility-tools"
 tool_slug: "user-agent-parser"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # User Agent Parser - Decode Browser Information
@@ -17,7 +17,7 @@ Decode user agent strings to understand browser and device details.
 
 Decode user agent strings to identify browser name and version, operating system, device type, and rendering engine. Essential for debugging browser-specific issues and analyzing web traffic.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

@@ -1,12 +1,12 @@
 ---
 title: "PDF Page Numbering - Add Page Numbers Online Free"
-description: "Add page numbers to PDF files with custom position and size. Create numbered PDFs in your browser instantly. Learn how to use this tool and explore related resources on"
+description: "SimpleToolset PDF Page Numbering is a browser-based tool to add page numbers to your PDF document. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for legal packets. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/pdf-tools/pdf-page-numbering/"
 lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "pdf-page-numbering"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # PDF Page Numbering - Add Page Numbers Online Free
@@ -17,7 +17,7 @@ Add clean, consistent page numbers to your PDF in seconds.
 
 Apply consistent page numbers to your PDF document. Choose the position, starting number, and size, then download the numbered PDF.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -39,6 +39,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - Can I start numbering from a custom value?: Yes. Choose any starting number to match your document structure.
 - Where can I place the numbers?: You can place numbers at the bottom right, bottom center, or top right.
+- Is PDF Page Numbering free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 
@@ -50,3 +51,5 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - [pdf tools category](../categories/pdf-tools.md)
 - [Merge Split Rotate Pdf Files](../use-cases/merge-split-rotate-pdf-files.md)
+- [Fix Scanned Pdf Orientation](../use-cases/fix-scanned-pdf-orientation.md)
+- [Split Pdf For Email Size](../use-cases/split-pdf-for-email-size.md)

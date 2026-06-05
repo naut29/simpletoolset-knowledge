@@ -1,12 +1,12 @@
 ---
 title: "Lorem Ipsum Generator - Placeholder Text Creator"
-description: "Generate lorem ipsum placeholder text for designs and mockups. Create paragraphs, sentences, or words instantly. Free dummy text generator. Learn how to use this tool"
+description: "SimpleToolset Lorem Ipsum Generator is a browser-based tool to generate placeholder text for your designs and mockups. It accepts text pasted or typed into the browser and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for wireframes. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/text-tools/lorem-ipsum/"
 lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "lorem-ipsum"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Lorem Ipsum Generator - Placeholder Text Creator
@@ -17,7 +17,7 @@ Every designer and developer needs quality placeholder text. Our Lorem Ipsum gen
 
 Generate classic Lorem Ipsum placeholder text for your web designs, mockups, and layouts. Choose to create paragraphs, sentences, or individual words, with options to start with the traditional 'Lorem ipsum dolor sit amet' opening or generate fully randomized text.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

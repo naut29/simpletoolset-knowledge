@@ -1,12 +1,12 @@
 ---
 title: "Split PDF - Separate PDF Pages Online Free"
-description: "Split PDF documents into separate pages or sections. Extract specific pages from PDFs. Free online PDF splitter, no registration required. Learn how to use this tool and"
+description: "SimpleToolset Split PDF is a browser-based tool to split PDF documents into separate pages or sections. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for client handoffs. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/pdf-tools/split-pdf/"
 lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "split-pdf"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Split PDF - Separate PDF Pages Online Free
@@ -17,7 +17,7 @@ Only need certain pages from a large PDF? Our splitter lets you extract exactly 
 
 Divide large PDF documents into smaller files or extract specific pages. Choose to split into individual pages, extract a range of pages, or separate at specific points. Perfect for distributing sections or extracting only what you need.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -53,3 +53,5 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - [pdf tools category](../categories/pdf-tools.md)
 - [Merge Split Rotate Pdf Files](../use-cases/merge-split-rotate-pdf-files.md)
+- [Split Pdf For Email Size](../use-cases/split-pdf-for-email-size.md)
+- [Fix Scanned Pdf Orientation](../use-cases/fix-scanned-pdf-orientation.md)

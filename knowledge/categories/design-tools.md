@@ -4,7 +4,7 @@ description: "Free online design tools. Create CSS gradients, generate color pal
 canonical: "https://simpletoolset.com/en/design-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Design Tools
@@ -13,7 +13,7 @@ date_generated: "2026-05-21T01:37:59.417Z"
 
 Essential design utilities for web designers and developers. Create beautiful CSS gradients, generate color shade palettes, convert images to Base64, optimize SVG files, and generate favicons. All tools work in your browser.
 
-This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

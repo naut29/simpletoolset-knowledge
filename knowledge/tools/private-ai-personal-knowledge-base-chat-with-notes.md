@@ -1,12 +1,12 @@
 ---
 title: "Private AI Personal Knowledge Base - Chat With Notes Locally"
-description: "Turn Markdown, TXT, HTML, and note exports into a private browser-side AI note vault. Build local embeddings, chat with notes, and generate a quick mind map without"
+description: "SimpleToolset Private AI Personal Knowledge Base is a browser-based tool to drag a local notes folder into your browser. It accepts website URLs, local notes, PDFs, or document text and returns private chat answers, source references, or searchable local index. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Obsidian vault review. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/private-ai-personal-knowledge-base-chat-with-notes/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "private-ai-personal-knowledge-base-chat-with-notes"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Private AI Personal Knowledge Base - Chat With Notes Locally
@@ -17,7 +17,7 @@ Build a private AI note vault from local Markdown, text, HTML, and export files,
 
 Indexes local note folders in the browser, creates embeddings with a WebGPU-friendly local pipeline, stores the private note vault in IndexedDB, answers note questions with local retrieval, and sketches a mind map from the strongest cited notes.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

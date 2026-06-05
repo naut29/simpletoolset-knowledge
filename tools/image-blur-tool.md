@@ -1,12 +1,12 @@
 ---
 title: "Image Blur Tool - Blur All or Selected Areas"
-description: "Blur an entire image or select a specific area to blur. Free image blur tool with adjustable blur strength. Learn how to use this tool and explore related resources on"
+description: "SimpleToolset Image Blur Tool is a browser-based tool to blur an entire image or selected area. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for privacy protection. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/image-tools/image-blur-tool/"
 lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "image-blur-tool"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Image Blur Tool - Blur All or Selected Areas
@@ -17,7 +17,7 @@ Blur the entire image or just a selected area for privacy and visual effects.
 
 Apply blur to the whole image or select a specific area to obscure sensitive information. Adjust blur strength and download.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -38,6 +38,8 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## FAQs
 
 - How do I blur just a section?: Switch to area mode and drag on the image to select the region you want blurred.
+- Is Image Blur Tool free to use?: Yes. It is a free online tool and does not require signup.
+- Does Image Blur Tool require an account?: No. You can open the tool in your browser and use it without creating an account.
 
 ## Related tools
 

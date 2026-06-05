@@ -1,12 +1,12 @@
 ---
 title: "Speed Converter - m/s, km/h, mph, knot"
-description: "Convert speed units between meters per second, kilometers per hour, miles per hour, and knots. Fast and accurate. Learn how to use this tool and explore related"
+description: "SimpleToolset Speed Converter is a browser-based tool to convert speed units between m/s. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for driving regulations. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/unit-converters/speed-converter/"
 lang: "en"
 type: "tool"
 category: "unit-converters"
 tool_slug: "speed-converter"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Speed Converter - m/s, km/h, mph, knot
@@ -17,7 +17,7 @@ Convert speed units quickly for driving, boating, aviation, and sports.
 
 Convert speeds between m/s, km/h, mph, and knots using standard conversion constants. Ideal for travel, shipping, and sports.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -40,6 +40,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - How do you convert mph to km/h?: The converter uses km/h = mph * 1.609344.
 - What is a knot?: A knot is a unit of speed equal to 1 nautical mile per hour.
+- Is Speed Converter free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 

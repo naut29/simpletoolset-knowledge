@@ -1,15 +1,15 @@
 ---
-title: "Local AI Speech Synthesizer (TTS) - Private Text-to-Speech in Your Browser"
-description: "Generate AI voiceovers locally in your browser with a private Sherpa-ONNX text-to-speech workflow. Convert text to WAV audio without app-server upload or account"
+title: "Local AI Speech Synthesizer (TTS) - Free Online Tool"
+description: "SimpleToolset Local AI Speech Synthesizer is a browser-based tool to generate private AI voiceovers locally in your browser with a Sherpa-ONNX text-to-speech workflow. It accepts local audio files, speech, or transcript text and returns transcript, audio result, language label, or generated speech. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for private voiceover drafts. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/local-ai-speech-synthesizer/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "local-ai-speech-synthesizer"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
-# Local AI Speech Synthesizer (TTS) - Private Text-to-Speech in Your Browser
+# Local AI Speech Synthesizer (TTS) - Free Online Tool
 
 ## Overview
 
@@ -17,7 +17,7 @@ Generate private AI voiceovers locally in your browser with a Sherpa-ONNX text-t
 
 Turn scripts, notes, accessibility copy, and short narration drafts into browser-generated speech with a local Sherpa-ONNX text-to-speech runtime, then preview and download the WAV output without sending the source text to the app server.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

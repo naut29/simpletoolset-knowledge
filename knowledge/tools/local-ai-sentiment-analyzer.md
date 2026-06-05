@@ -1,15 +1,15 @@
 ---
-title: "Local AI Sentiment Analyzer - Private Browser Tone Detection with DistilBERT"
-description: "Analyze customer feedback and text locally in your browser with DistilBERT. Private AI sentiment analysis with no app-server upload and reusable local model caching."
+title: "Local AI Sentiment Analyzer - Free Online Tool"
+description: "SimpleToolset Local AI Sentiment Analyzer helps you analyze customer feedback locally in your browser with a private DistilBERT tone detector. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload. It is best for customer feedback triage. Review important outputs before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/local-ai-sentiment-analyzer/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "local-ai-sentiment-analyzer"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
-# Local AI Sentiment Analyzer - Private Browser Tone Detection with DistilBERT
+# Local AI Sentiment Analyzer - Free Online Tool
 
 ## Overview
 
@@ -17,7 +17,7 @@ Analyze customer feedback and short text batches locally in your browser with a 
 
 Analyze customer feedback, survey answers, review snippets, and short text batches with a local Transformers.js sentiment pipeline that runs DistilBERT in your browser, splits longer input into manageable segments, and keeps the source text out of the app server.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

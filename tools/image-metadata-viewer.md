@@ -1,12 +1,12 @@
 ---
 title: "Image Metadata Viewer - View File Info & Dimensions"
-description: "View image metadata including file name, size, type, dimensions, and last modified date. Fast in-browser viewer. Learn how to use this tool and explore related resources"
+description: "SimpleToolset Image Metadata Viewer is a browser-based tool to view image size. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for CMS upload checks. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/image-tools/image-metadata-viewer/"
 lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "image-metadata-viewer"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Image Metadata Viewer - View File Info & Dimensions
@@ -17,7 +17,7 @@ Check image file details instantly, including size, type, and dimensions.
 
 View basic image metadata like file name, file size, type, dimensions, and last modified date. No uploads required.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -36,6 +36,8 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## FAQs
 
 - Does this read EXIF data?: This tool shows basic file metadata. For EXIF camera data, use the EXIF Viewer tool.
+- Is Image Metadata Viewer free to use?: Yes. It is a free online tool and does not require signup.
+- Does Image Metadata Viewer require an account?: No. You can open the tool in your browser and use it without creating an account.
 
 ## Related tools
 

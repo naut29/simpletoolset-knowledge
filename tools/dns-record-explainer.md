@@ -1,12 +1,12 @@
 ---
 title: "DNS Record Explainer - A, AAAA, CNAME, MX, TXT, NS, SRV"
-description: "Explain DNS record types with clear meanings, formats, and examples. Client-side educational tool with quick validation. Learn how to use this tool and explore related"
+description: "SimpleToolset DNS Record Explainer is a browser-based tool to explain common DNS record types with examples. It accepts URLs, links, IPs, user-agent strings, or network values and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for domain migrations. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/network-tools/dns-record-explainer/"
 lang: "en"
 type: "tool"
 category: "network-tools"
 tool_slug: "dns-record-explainer"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # DNS Record Explainer - A, AAAA, CNAME, MX, TXT, NS, SRV
@@ -17,7 +17,7 @@ Learn what DNS record types mean with clear formats and examples.
 
 This tool explains common DNS record types and shows the typical record format with examples. It validates domain format but performs no live DNS lookups.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -37,6 +37,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - Does this tool query live DNS?: No. It is purely educational and does not make network requests.
 - Can I use it for subdomains?: Yes. You can enter any valid hostname or subdomain.
+- Is DNS Record Explainer free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 
@@ -47,3 +48,4 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [network tools category](../categories/network-tools.md)
+- [Debug Web Requests And Identifiers](../use-cases/debug-web-requests-and-identifiers.md)

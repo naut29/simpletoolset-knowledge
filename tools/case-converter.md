@@ -1,12 +1,12 @@
 ---
 title: "Text Case Converter - Uppercase, Lowercase & More"
-description: "Convert text to uppercase, lowercase, title case, or sentence case instantly. Free online text case converter with one-click transformations."
+description: "SimpleToolset Text Case Converter is a browser-based tool to convert text to uppercase. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for editorial cleanup. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/text-tools/case-converter/"
 lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "case-converter"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Text Case Converter - Uppercase, Lowercase & More
@@ -17,7 +17,7 @@ Tired of retyping text just to change its capitalization? Our text case converte
 
 Transform any text between different capitalization styles with a single click. Our case converter supports uppercase (ALL CAPS), lowercase, Title Case, Sentence case, and alternating case formats. Perfect for fixing text copied from PDFs, formatting headlines, or standardizing content.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -52,3 +52,6 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [text tools category](../categories/text-tools.md)
+- [Clean Text Lists For Spreadsheets](../use-cases/clean-text-lists-for-spreadsheets.md)
+- [Create Seo Friendly Url Slugs](../use-cases/create-seo-friendly-url-slugs.md)
+- [Format Markdown For Web](../use-cases/format-markdown-for-web.md)

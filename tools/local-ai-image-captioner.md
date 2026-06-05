@@ -1,12 +1,12 @@
 ---
 title: "Local AI Image Captioner - Private Alt Text Generator in Your Browser"
-description: "Generate image descriptions and alt text locally in your browser with a private BLIP image captioning workflow. No app-server upload, reusable local model caching, and"
+description: "SimpleToolset Local AI Image Captioner helps you generate image descriptions and alt text locally in your browser with a private BLIP workflow. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow runs locally in the browser and does not require an account or app-server upload. It is best for accessibility draft alt text. Review important outputs before relying on them."
 canonical: "https://simpletoolset.com/en/ai-local-tools/local-ai-image-captioner/"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "local-ai-image-captioner"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Local AI Image Captioner - Private Alt Text Generator in Your Browser
@@ -17,7 +17,7 @@ Generate private image descriptions and alt text locally in your browser with a 
 
 Generate image descriptions, accessibility-friendly alt text, and SEO-ready caption drafts directly in your browser with a local BLIP image captioning workflow, keeping the source image on-device during analysis instead of uploading it to the app server.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

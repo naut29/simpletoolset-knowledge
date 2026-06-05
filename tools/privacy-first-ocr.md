@@ -1,12 +1,12 @@
 ---
 title: "Privacy-First OCR - Extract Text from Images Without Upload"
-description: "Private browser OCR tool. Extract text from receipts, ID cards, screenshots, and scanned images locally without uploading files. Learn how to use this tool and explore"
+description: "SimpleToolset Privacy-First OCR is a browser-based tool to extract text from images locally with browser-based OCR. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for private receipt scanning. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/image-tools/privacy-first-ocr/"
 lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "privacy-first-ocr"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Privacy-First OCR - Extract Text from Images Without Upload
@@ -17,7 +17,7 @@ Extract text from receipts, screenshots, scans, and document photos locally in y
 
 Extract text from image files directly in your browser with local OCR. Upload a receipt, screenshot, scan, or document photo, choose the recognition language, and copy or download the extracted text without sending the image to a server.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

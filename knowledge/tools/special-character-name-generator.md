@@ -1,12 +1,12 @@
 ---
 title: "Special Character Name Generator - Fancy Nicknames for Games"
-description: "Create stylish nicknames with special characters, symbols, and Unicode decorations. Includes presets for Free Fire, PUBG, and Arena of Valor. Free and instant."
+description: "SimpleToolset Special Character Name Generator is a browser-based tool to create fancy nicknames with symbols and Unicode decorations. It accepts text pasted or typed into the browser and returns generated value, code, QR image, or copyable result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for gaming nicknames. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/text-tools/special-character-name-generator/"
 lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "special-character-name-generator"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Special Character Name Generator - Fancy Nicknames for Games
@@ -17,7 +17,7 @@ Create stylish nicknames and usernames with special characters and ready-made ga
 
 Create decorated nicknames with Unicode symbols, frames, and separators. Build custom left/middle/right styles and explore presets for Free Fire, PUBG, and Lin Qun (Arena of Valor) in cute, pro, or dark styles.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

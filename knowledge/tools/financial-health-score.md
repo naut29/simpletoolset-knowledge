@@ -1,12 +1,12 @@
 ---
 title: "Financial Health Score - Lifestyle Finance Check"
-description: "Score financial health using income stability, savings rate, emergency fund months, and debt ratio. Client-side. Learn how to use this tool and explore related resources"
+description: "SimpleToolset Financial Health Score is a browser-based tool to score lifestyle finance health from stability. It accepts colors, dimensions, ratios, or accessibility settings and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for student budget planning. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/life-tools/financial-health-score/"
 lang: "en"
 type: "tool"
 category: "life-tools"
 tool_slug: "financial-health-score"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Financial Health Score - Lifestyle Finance Check
@@ -17,7 +17,7 @@ Estimate your lifestyle finance health with a simple score.
 
 This tool estimates a financial health score from income stability, savings rate, emergency fund months, and debt ratio. It classifies results into a zone.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -37,6 +37,7 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 
 - Is this financial advice?: No. It provides a general, non-professional estimate.
 - What is a debt ratio?: It is the share of income used for debt payments.
+- Is Financial Health Score free to use?: Yes. It is a free online tool and does not require signup.
 
 ## Related tools
 

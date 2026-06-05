@@ -1,12 +1,12 @@
 ---
 title: "Client-Side CSV to SQL - Convert CSV to SQL and SQLite Locally"
-description: "Convert large CSV files to SQL scripts and in-browser SQLite locally. Private CSV to SQL workflow for ETL, bank statements, and browser-based data engineering with no"
+description: "SimpleToolset Client-Side CSV to SQL helps you convert CSV files into SQL and SQLite locally in your browser for private ETL and analysis. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload. It is best for secure bank statement to SQL conversion. Review important outputs before relying on them."
 canonical: "https://simpletoolset.com/en/developer-tools/client-side-csv-to-sql/"
 lang: "en"
 type: "tool"
 category: "developer-tools"
 tool_slug: "client-side-csv-to-sql"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Client-Side CSV to SQL - Convert CSV to SQL and SQLite Locally
@@ -17,7 +17,7 @@ Convert CSV into SQL and SQLite locally, preview the schema, and run lightweight
 
 Open a local CSV or TSV file, infer SQL column types, create a browser-side SQLite database, preview queries, and export either a SQL script or a SQLite file without sending the dataset to a server.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

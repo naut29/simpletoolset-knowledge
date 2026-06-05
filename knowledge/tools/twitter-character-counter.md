@@ -1,12 +1,12 @@
 ---
 title: "Twitter/X Character Counter - Tweet Length Checker Free"
-description: "Count characters for Twitter/X posts. Free tool to check tweet length, word count, and estimate thread size. Stay within limits. Learn how to use this tool and explore"
+description: "SimpleToolset Twitter/X Character Counter is a browser-based tool to count characters and track thread segments within X's limits. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for brand announcements. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/social-tools/twitter-character-counter/"
 lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "twitter-character-counter"
-date_generated: "2026-05-21T01:37:59.417Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Twitter/X Character Counter - Tweet Length Checker Free
@@ -17,7 +17,7 @@ Count characters for perfect tweets. Stay within Twitter/X limits and plan threa
 
 Count characters in real-time for Twitter/X posts. See exactly how many characters you have left, word count, and how many tweets a longer message would require as a thread.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

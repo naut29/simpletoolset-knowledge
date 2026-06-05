@@ -4,7 +4,7 @@ description: "Free financial calculators for interest, loans, savings goals, bud
 canonical: "https://simpletoolset.com/en/financial-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Financial Tools
@@ -13,7 +13,7 @@ date_generated: "2026-05-20T07:07:23.607Z"
 
 Plan and compare financial scenarios with client-side calculators. Estimate interest, payments, savings goals, budgets, net worth, and more with instant, deterministic results.
 
-This page is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 

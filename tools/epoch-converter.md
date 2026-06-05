@@ -1,12 +1,12 @@
 ---
 title: "Epoch/Unix Timestamp Converter - Convert Dates Free"
-description: "Convert Unix timestamps to human-readable dates and vice versa. Free epoch converter for developers. Supports milliseconds and seconds. Learn how to use this tool and"
+description: "SimpleToolset Epoch/Unix Timestamp Converter is a browser-based tool to convert Unix timestamps to human-readable dates and back. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for API debugging. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/developer-tools/epoch-converter/"
 lang: "en"
 type: "tool"
 category: "developer-tools"
 tool_slug: "epoch-converter"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-06-05T07:19:39.009Z"
 ---
 
 # Epoch/Unix Timestamp Converter - Convert Dates Free
@@ -17,7 +17,7 @@ Convert between Unix timestamps and readable dates instantly. Essential for deve
 
 Convert between Unix epoch timestamps and human-readable dates. Enter a timestamp to see the date, or input a date to get the epoch value. Supports both seconds and milliseconds formats.
 
-This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID).
+This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
@@ -52,3 +52,5 @@ This tool is available in multiple languages on SimpleToolSet (EN, VI, ZH, KO, J
 ## Internal links
 
 - [developer tools category](../categories/developer-tools.md)
+- [Plan Cron Schedules And Time Conversions](../use-cases/plan-cron-schedules-and-time-conversions.md)
+- [Convert Data Formats For Apis](../use-cases/convert-data-formats-for-apis.md)
