@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "unit-converters"
 tool_slug: "fuel-consumption-converter"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Fuel Consumption Converter - L/100km, km/L, MPG

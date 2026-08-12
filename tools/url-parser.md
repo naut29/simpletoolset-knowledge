@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "network-tools"
 tool_slug: "url-parser"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # URL Parser - Break Down URLs into Components

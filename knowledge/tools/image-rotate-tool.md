@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "image-rotate-tool"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Image Rotate Tool - Rotate by 90, 180, 270 or Custom
@@ -26,6 +26,8 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - Instant preview
 - Client-side processing
 - Fast exports
+- Handles photos, scanned pages, screenshots, or graphics with incorrect orientation.
+- Produces a rotated image aligned to the intended portrait, landscape, or custom angle.
 
 ## How to use
 

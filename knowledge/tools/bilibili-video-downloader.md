@@ -1,31 +1,32 @@
 ---
 title: "Bilibili Video Downloader - Get Bilibili Video Links"
-description: "SimpleToolset Bilibili Video Downloader is a browser-based tool to get download links from Bilibili videos (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator backups. Use it for quick checks and exports; review important results before relying on them."
+description: "SimpleToolset Bilibili Video Downloader is a browser-based tool to get download links from Bilibili videos (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator backup. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/social-tools/bilibili-video-downloader/"
 lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "bilibili-video-downloader"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Bilibili Video Downloader - Get Bilibili Video Links
 
 ## Overview
 
-Get best-effort Bilibili video links from a post URL and open or copy them.
+Extract public Bilibili video links from BV/av pages for creator backups, subtitle prep, and archive workflows with clear permission boundaries.
 
-Fetch available video sources from Bilibili posts and show direct links you can open or copy. Best-effort extraction may vary by post.
+Fetch best-effort media sources from public Bilibili video pages, show preview details, and provide open/copy actions for exposed source links.
 
 This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
-- Supports Bilibili video URLs (best-effort)
-- Preview title and thumbnail
-- Open and copy link actions
-- Best-effort extraction
-- Short-lived caching for performance
+- Supports public Bilibili BV and av-style video pages where source data is exposed
+- Preview title and thumbnail help verify the exact upload or episode page
+- Built for creator backups, subtitle timing, archive review, and community references
+- Open and copy actions for available media links
+- Clear limits for paid, login-only, region-locked, deleted, or restricted content
+- Source page tracking supports attribution and version control
 
 ## How to use
 
@@ -37,17 +38,17 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 
 ## FAQs
 
-- Why can't the tool find a video?: Some posts are private, restricted, or the page markup has changed.
-- Does this guarantee a download?: No. It provides best-effort links and some posts may not expose media URLs.
-- Is Bilibili Video Downloader free to use?: Yes. It is a free online tool and does not require signup.
+- Does this support BV links?: Yes. It is intended for public Bilibili BV and av-style pages where media sources are exposed.
+- Can it download paid or login-only videos?: No. It does not bypass access controls or restricted content.
+- Does it include danmaku comments?: No. The tool focuses on exposed video sources, not danmaku, comments, or interactive page data.
 
 ## Related tools
 
 - [AcFun Video Downloader](./acfun-video-downloader.md)
-- [Xigua Video Downloader](./xigua-video-downloader.md)
-- [Kuaishou Video Downloader](./kuaishou-video-downloader.md)
 - [Haokan Video Downloader](./haokan-video-downloader.md)
-- [Rednote Video Downloader](./rednote-video-downloader.md)
+- [Private Voice-to-Text (Whisper Web)](./private-voice-to-text.md)
+- [In-Browser Video Transcoder](./in-browser-video-transcoder.md)
+- [Video to GIF](./video-to-gif.md)
 
 ## Internal links
 

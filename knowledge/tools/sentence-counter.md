@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "sentence-counter"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Sentence Counter - Count Sentences Online Free
@@ -27,6 +27,7 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - No uploads or accounts
 - Works with common punctuation
 - Browser-based privacy
+- Handles paragraphs, drafts, transcripts, essays, or content blocks.
 
 ## How to use
 

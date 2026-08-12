@@ -24,6 +24,8 @@
 | https://simpletoolset.com/en/image-tools/text-to-image/ | tool | knowledge/tools/text-to-image.md |
 | https://simpletoolset.com/en/image-tools/image-format-converter/ | tool | knowledge/tools/image-format-converter.md |
 | https://simpletoolset.com/en/image-tools/image-to-webp-converter/ | tool | knowledge/tools/image-to-webp-converter.md |
+| https://simpletoolset.com/en/image-tools/heic-to-jpg-png/ | tool | knowledge/tools/heic-to-jpg-png.md |
+| https://simpletoolset.com/en/image-tools/avif-converter/ | tool | knowledge/tools/avif-converter.md |
 | https://simpletoolset.com/en/image-tools/image-background-remover-basic/ | tool | knowledge/tools/image-background-remover-basic.md |
 | https://simpletoolset.com/en/image-tools/image-color-picker/ | tool | knowledge/tools/image-color-picker.md |
 | https://simpletoolset.com/en/image-tools/image-grayscale-converter/ | tool | knowledge/tools/image-grayscale-converter.md |
@@ -58,11 +60,13 @@
 | https://simpletoolset.com/en/pdf-tools/pdf-page-numbering/ | tool | knowledge/tools/pdf-page-numbering.md |
 | https://simpletoolset.com/en/pdf-tools/pdf-watermark/ | tool | knowledge/tools/pdf-watermark.md |
 | https://simpletoolset.com/en/pdf-tools/pdf-to-text/ | tool | knowledge/tools/pdf-to-text.md |
+| https://simpletoolset.com/en/pdf-tools/pdf-ocr-text-extractor/ | tool | knowledge/tools/pdf-ocr-text-extractor.md |
 | https://simpletoolset.com/en/pdf-tools/protect-pdf/ | tool | knowledge/tools/protect-pdf.md |
 | https://simpletoolset.com/en/pdf-tools/unlock-pdf/ | tool | knowledge/tools/unlock-pdf.md |
 | https://simpletoolset.com/en/pdf-tools/pdf-metadata-viewer/ | tool | knowledge/tools/pdf-metadata-viewer.md |
 | https://simpletoolset.com/en/pdf-tools/pwa-document-signer/ | tool | knowledge/tools/pwa-document-signer.md |
 | https://simpletoolset.com/en/utility-tools/qr-generator/ | tool | knowledge/tools/qr-generator.md |
+| https://simpletoolset.com/en/utility-tools/barcode-generator/ | tool | knowledge/tools/barcode-generator.md |
 | https://simpletoolset.com/en/utility-tools/random-number/ | tool | knowledge/tools/random-number.md |
 | https://simpletoolset.com/en/utility-tools/random-name/ | tool | knowledge/tools/random-name.md |
 | https://simpletoolset.com/en/utility-tools/uuid-generator/ | tool | knowledge/tools/uuid-generator.md |
@@ -132,6 +136,7 @@
 | https://simpletoolset.com/en/life-tools/motivation-level-estimator/ | tool | knowledge/tools/motivation-level-estimator.md |
 | https://simpletoolset.com/en/developer-tools/xml-formatter/ | tool | knowledge/tools/xml-formatter.md |
 | https://simpletoolset.com/en/developer-tools/yaml-to-json/ | tool | knowledge/tools/yaml-to-json.md |
+| https://simpletoolset.com/en/developer-tools/json-formatter-validator/ | tool | knowledge/tools/json-formatter-validator.md |
 | https://simpletoolset.com/en/developer-tools/sql-formatter/ | tool | knowledge/tools/sql-formatter.md |
 | https://simpletoolset.com/en/developer-tools/js-obfuscator/ | tool | knowledge/tools/js-obfuscator.md |
 | https://simpletoolset.com/en/developer-tools/regex-tester/ | tool | knowledge/tools/regex-tester.md |
@@ -148,6 +153,8 @@
 | https://simpletoolset.com/en/developer-tools/browser-based-file-encryptor/ | tool | knowledge/tools/browser-based-file-encryptor.md |
 | https://simpletoolset.com/en/developer-tools/offline-first-pomodoro-data-tracker/ | tool | knowledge/tools/offline-first-pomodoro-data-tracker.md |
 | https://simpletoolset.com/en/developer-tools/client-side-csv-to-sql/ | tool | knowledge/tools/client-side-csv-to-sql.md |
+| https://simpletoolset.com/en/developer-tools/csv-cleaner-delimiter-converter/ | tool | knowledge/tools/csv-cleaner-delimiter-converter.md |
+| https://simpletoolset.com/en/developer-tools/excel-csv-converter/ | tool | knowledge/tools/excel-csv-converter.md |
 | https://simpletoolset.com/en/design-tools/image-to-base64/ | tool | knowledge/tools/image-to-base64.md |
 | https://simpletoolset.com/en/design-tools/css-gradient-generator/ | tool | knowledge/tools/css-gradient-generator.md |
 | https://simpletoolset.com/en/design-tools/color-shade-generator/ | tool | knowledge/tools/color-shade-generator.md |
@@ -175,6 +182,7 @@
 | https://simpletoolset.com/en/social-tools/twitter-character-counter/ | tool | knowledge/tools/twitter-character-counter.md |
 | https://simpletoolset.com/en/social-tools/word-cloud-generator/ | tool | knowledge/tools/word-cloud-generator.md |
 | https://simpletoolset.com/en/social-tools/utm-link-builder/ | tool | knowledge/tools/utm-link-builder.md |
+| https://simpletoolset.com/en/social-tools/open-graph-meta-preview/ | tool | knowledge/tools/open-graph-meta-preview.md |
 | https://simpletoolset.com/en/social-tools/hashtag-generator-basic/ | tool | knowledge/tools/hashtag-generator-basic.md |
 | https://simpletoolset.com/en/social-tools/hashtag-counter/ | tool | knowledge/tools/hashtag-counter.md |
 | https://simpletoolset.com/en/social-tools/social-bio-generator/ | tool | knowledge/tools/social-bio-generator.md |
@@ -185,12 +193,15 @@
 | https://simpletoolset.com/en/social-tools/twitter-x-thread-splitter/ | tool | knowledge/tools/twitter-x-thread-splitter.md |
 | https://simpletoolset.com/en/social-tools/discord-markdown-formatter/ | tool | knowledge/tools/discord-markdown-formatter.md |
 | https://simpletoolset.com/en/social-tools/social-post-scheduler-helper/ | tool | knowledge/tools/social-post-scheduler-helper.md |
+| https://simpletoolset.com/en/social-tools/subtitle-srt-vtt-converter/ | tool | knowledge/tools/subtitle-srt-vtt-converter.md |
 | https://simpletoolset.com/en/social-tools/rednote-video-downloader/ | tool | knowledge/tools/rednote-video-downloader.md |
 | https://simpletoolset.com/en/social-tools/acfun-video-downloader/ | tool | knowledge/tools/acfun-video-downloader.md |
 | https://simpletoolset.com/en/social-tools/xigua-video-downloader/ | tool | knowledge/tools/xigua-video-downloader.md |
 | https://simpletoolset.com/en/social-tools/kuaishou-video-downloader/ | tool | knowledge/tools/kuaishou-video-downloader.md |
 | https://simpletoolset.com/en/social-tools/haokan-video-downloader/ | tool | knowledge/tools/haokan-video-downloader.md |
 | https://simpletoolset.com/en/social-tools/bilibili-video-downloader/ | tool | knowledge/tools/bilibili-video-downloader.md |
+| https://simpletoolset.com/en/social-tools/video-md5-changer/ | tool | knowledge/tools/video-md5-changer.md |
+| https://simpletoolset.com/en/social-tools/video-compressor-for-social/ | tool | knowledge/tools/video-compressor-for-social.md |
 | https://simpletoolset.com/en/social-tools/in-browser-video-transcoder/ | tool | knowledge/tools/in-browser-video-transcoder.md |
 | https://simpletoolset.com/en/social-tools/audio-stem-splitter/ | tool | knowledge/tools/audio-stem-splitter.md |
 | https://simpletoolset.com/en/ai-local-tools/private-voice-to-text/ | tool | knowledge/tools/private-voice-to-text.md |

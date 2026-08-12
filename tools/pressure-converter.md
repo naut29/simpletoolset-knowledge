@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "unit-converters"
 tool_slug: "pressure-converter"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Pressure Converter - Pa, kPa, bar, atm, psi, mmHg
@@ -27,6 +27,7 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - Precision selector
 - Instant calculations
 - In-browser processing
+- Handles psi, bar, pascal, kilopascal, atmosphere, or other pressure values.
 
 ## How to use
 

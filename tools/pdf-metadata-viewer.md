@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "pdf-metadata-viewer"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # PDF Metadata Viewer - Check PDF Info Online Free

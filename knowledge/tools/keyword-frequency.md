@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "keyword-frequency"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Keyword Frequency Analyzer - Free Word Density Tool
@@ -27,6 +27,7 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - Common word filter
 - Fast text processing for daily cleanup tasks
 - Flexible formatting and conversion options
+- Handles article drafts, landing page copy, transcripts, or pasted text blocks.
 
 ## How to use
 

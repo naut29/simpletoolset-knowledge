@@ -4,7 +4,7 @@ description: "Free online utility tools. Generate QR codes, random numbers, name
 canonical: "https://simpletoolset.com/en/utility-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Utility & Generators
@@ -40,13 +40,13 @@ This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 ## Related tools
 
 - [QR Code Generator](../tools/qr-generator.md)
+- [Barcode Generator](../tools/barcode-generator.md)
 - [Random Number Generator](../tools/random-number.md)
 - [Random Name Generator](../tools/random-name.md)
 - [UUID Generator](../tools/uuid-generator.md)
 - [Basic Calculator](../tools/calculator.md)
 - [Password Strength Meter](../tools/password-strength.md)
 - [HTACCESS Generator](../tools/htaccess-generator.md)
-- [User Agent Parser](../tools/user-agent-parser.md)
 
 ## Internal links
 

@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "slug-generator"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Slug Generator - Create SEO-Friendly URLs Free
@@ -27,6 +27,7 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - Preview URL example
 - Fast text processing for daily cleanup tasks
 - Flexible formatting and conversion options
+- Handles page titles, product names, article headings, or campaign labels.
 
 ## How to use
 

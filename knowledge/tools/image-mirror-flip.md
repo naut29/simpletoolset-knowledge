@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "image-mirror-flip"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Image Mirror & Flip - Horizontal or Vertical
@@ -26,6 +26,8 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - One-click download
 - Client-side processing
 - Works with common image formats
+- Handles photos, screenshots, icons, or layout references that need horizontal or vertical flipping.
+- Produces a mirrored or flipped image with orientation changed while dimensions stay predictable.
 
 ## How to use
 

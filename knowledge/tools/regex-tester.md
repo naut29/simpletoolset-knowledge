@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "developer-tools"
 tool_slug: "regex-tester"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Regex Tester - Test Regular Expressions Online
@@ -25,6 +25,9 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - Flag support (g, i, m)
 - Match highlighting
 - Error messages
+- Handles a regular expression pattern and sample text containing expected matches.
+- Produces match results that show whether the regex captures the intended text.
+- Includes workflow checks for regex and tester use cases.
 
 ## How to use
 

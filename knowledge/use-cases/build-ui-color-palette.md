@@ -9,7 +9,7 @@ cluster_id: "design-assets"
 cluster_title: "Design assets"
 intent: "interface color planning"
 audience: "UI designers, frontend developers, and product teams"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Build a UI Color Palette Online - Free Browser Tools

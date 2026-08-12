@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "life-tools"
 tool_slug: "sleep-quality-estimator"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Sleep Quality Estimator - Sleep Score & Debt

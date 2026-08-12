@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "design-tools"
 tool_slug: "exif-viewer"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # EXIF Viewer - Extract Image Metadata Online Free

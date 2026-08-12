@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "image-compressor"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Image Compressor - Reduce File Size Online Free

@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "unit-converters"
 tool_slug: "cooking-weight-converter"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Cooking Weight Converter - g, oz, lb, cups & tsp
@@ -27,6 +27,7 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - Precision selector
 - Swap and reset controls
 - Instant results
+- Handles grams, ounces, pounds, kilograms, and recipe ingredient weights.
 
 ## How to use
 

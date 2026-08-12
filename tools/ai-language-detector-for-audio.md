@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "ai-language-detector-for-audio"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # AI Language Detector for Audio - Free Online Tool

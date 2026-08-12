@@ -9,7 +9,7 @@ cluster_id: "text-cleanup"
 cluster_title: "Text cleanup"
 intent: "spreadsheet list cleanup"
 audience: "analysts, operators, and spreadsheet-heavy teams"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Clean Text Lists for Spreadsheets Online

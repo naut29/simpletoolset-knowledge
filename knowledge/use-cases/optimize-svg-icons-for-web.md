@@ -9,7 +9,7 @@ cluster_id: "design-assets"
 cluster_title: "Design assets"
 intent: "SVG icon optimization"
 audience: "frontend developers, designers, and design system teams"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Optimize SVG Icons for the Web Online - Free Browser Tools

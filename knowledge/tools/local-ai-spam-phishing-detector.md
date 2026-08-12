@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "local-ai-spam-phishing-detector"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Local AI Spam & Phishing Detector - Free Online Tool

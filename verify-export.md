@@ -1,9 +1,9 @@
 # Export verification report
 
-Generated at: 2026-06-05T07:19:39.764Z
+Generated at: 2026-08-12T09:07:38.804Z
 
 ## Counts
-- Tools: 223
+- Tools: 234
 - Categories: 14
 - Use cases: 25
 
@@ -12,7 +12,7 @@ Generated at: 2026-06-05T07:19:39.764Z
 - Canonical present: PASS
 - Canonical uniqueness: PASS
 - tools.json coverage: PASS
-- Sitemap coverage: 262 entries
+- Sitemap coverage: 273 entries
 
 ## Notes
 - Missing frontmatter: none

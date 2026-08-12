@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "image-watermark-tool"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Image Watermark Tool - Add Text Watermarks
@@ -26,6 +26,8 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - Opacity and color picker
 - Instant preview and download
 - Client-side processing
+- Handles photos, proofs, product images, or previews that need ownership or status marks.
+- Produces a watermarked image with visible placement, opacity, and scale controls.
 
 ## How to use
 

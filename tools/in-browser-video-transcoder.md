@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "in-browser-video-transcoder"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # In-Browser Video Transcoder - Private FFmpeg Video Converter
@@ -41,6 +41,7 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 
 ## Related tools
 
+- [Video MD5 Changer](./video-md5-changer.md)
 - [Video to GIF](./video-to-gif.md)
 - [YouTube Thumbnail Downloader](./youtube-thumbnail-downloader.md)
 - [Bilibili Video Downloader](./bilibili-video-downloader.md)

@@ -4,7 +4,7 @@ description: "Smart lifestyle analyzers and self-assessment tools for stress, ha
 canonical: "https://simpletoolset.com/en/life-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Life Tools

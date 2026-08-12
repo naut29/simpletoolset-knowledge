@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "compress-pdf"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Compress PDF - Reduce PDF File Size Online Free

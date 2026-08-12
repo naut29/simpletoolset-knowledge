@@ -9,7 +9,7 @@ cluster_id: "social-content"
 cluster_title: "Social content"
 intent: "social copy sizing"
 audience: "social media managers, creators, and marketing teams"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Craft Social Posts with Character Limits Online

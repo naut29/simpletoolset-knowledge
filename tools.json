@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T07:19:39.876Z",
+  "generatedAt": "2026-08-12T09:07:38.919Z",
   "baseUrl": "https://simpletoolset.com",
   "lang": "en",
   "tools": [
@@ -595,16 +595,17 @@
       "category": "text-tools",
       "url": "https://simpletoolset.com/en/text-tools/serp-simulator/",
       "canonicalUrl": "https://simpletoolset.com/en/text-tools/serp-simulator/",
-      "description": "SimpleToolset Google SERP Simulator is a browser-based tool to preview how Meta Titles and Descriptions appear on Google Search results. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for content launches. Use it for quick checks and exports; review important results before relying on them.",
+      "description": "SimpleToolset Google SERP Simulator is a browser-based tool to preview how Meta Titles and Descriptions appear on Google Search results. It accepts URLs, links, IPs, user-agent strings, or network values and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for content launches. Use it for quick checks and exports; review important results before relying on them.",
       "primaryUseCase": "Preview how Meta Titles and Descriptions appear on Google Search results.",
       "inputs": [
+        "URLs, links, IPs, user-agent strings, or network values",
         "Numbers, units, rates, dates, and calculation assumptions",
         "Text pasted or typed into the browser"
       ],
       "outputs": [
+        "Parsed URL parts, diagnostics, tracking link, or lookup result",
         "Calculated estimate, converted value, table, or score",
-        "Cleaned, generated, counted, or reformatted text",
-        "Cleaned, counted, converted, or generated text"
+        "Cleaned, generated, counted, or reformatted text"
       ],
       "runsLocally": true,
       "uploadsToServer": false,
@@ -634,7 +635,7 @@
         }
       ],
       "lastReviewed": "2026-06-05",
-      "answerReadySummary": "SimpleToolset Google SERP Simulator is a browser-based tool to preview how Meta Titles and Descriptions appear on Google Search results. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for content launches. Use it for quick checks and exports; review important results before relying on them."
+      "answerReadySummary": "SimpleToolset Google SERP Simulator is a browser-based tool to preview how Meta Titles and Descriptions appear on Google Search results. It accepts URLs, links, IPs, user-agent strings, or network values and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for content launches. Use it for quick checks and exports; review important results before relying on them."
     },
     {
       "slug": "upside-down-text",
@@ -1166,6 +1167,116 @@
       "answerReadySummary": "SimpleToolset Image to WebP Converter is a browser-based tool to convert images to WebP for faster loading. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for web performance. Use it for quick checks and exports; review important results before relying on them."
     },
     {
+      "slug": "heic-to-jpg-png",
+      "name": "HEIC to JPG/PNG Converter",
+      "toolName": "HEIC to JPG/PNG Converter",
+      "title": "HEIC to JPG/PNG Converter",
+      "category": "image-tools",
+      "url": "https://simpletoolset.com/en/image-tools/heic-to-jpg-png/",
+      "canonicalUrl": "https://simpletoolset.com/en/image-tools/heic-to-jpg-png/",
+      "description": "HEIC to JPG/PNG Converter is a browser-based SimpleToolset tool for convert iphone heic images to jpg, png, or webp when your browser can decode them. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast image tools tasks without an account or unnecessary server upload. Review important outputs before using them in production.",
+      "primaryUseCase": "Convert iPhone HEIC images to JPG, PNG, or WebP when your browser can decode them",
+      "inputs": [
+        "Text, file, image, document, or settings entered in the browser"
+      ],
+      "outputs": [
+        "Cleaned, converted, generated, previewed, or downloadable result"
+      ],
+      "runsLocally": true,
+      "uploadsToServer": false,
+      "bestFor": [
+        "Convert iPhone HEIC images to JPG, PNG, or WebP when your browser can decode them",
+        "Quick browser-side work without signing in"
+      ],
+      "limitations": [
+        "Browser support, file size, and device performance can affect results",
+        "Review outputs before using them in sensitive or high-stakes workflows"
+      ],
+      "relatedTools": [
+        {
+          "name": "Image Compressor",
+          "canonicalUrl": "https://simpletoolset.com/en/image-tools/image-compressor/"
+        },
+        {
+          "name": "Image Resizer",
+          "canonicalUrl": "https://simpletoolset.com/en/image-tools/image-resizer/"
+        },
+        {
+          "name": "Image Cropper",
+          "canonicalUrl": "https://simpletoolset.com/en/image-tools/image-cropper/"
+        },
+        {
+          "name": "Text to Image Generator",
+          "canonicalUrl": "https://simpletoolset.com/en/image-tools/text-to-image/"
+        },
+        {
+          "name": "Image Format Converter",
+          "canonicalUrl": "https://simpletoolset.com/en/image-tools/image-format-converter/"
+        },
+        {
+          "name": "Image to WebP Converter",
+          "canonicalUrl": "https://simpletoolset.com/en/image-tools/image-to-webp-converter/"
+        }
+      ],
+      "lastReviewed": "2026-08-12",
+      "answerReadySummary": "HEIC to JPG/PNG Converter is a browser-based SimpleToolset tool for convert iphone heic images to jpg, png, or webp when your browser can decode them. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast image tools tasks without an account or unnecessary server upload. Review important outputs before using them in production."
+    },
+    {
+      "slug": "avif-converter",
+      "name": "AVIF Converter",
+      "toolName": "AVIF Converter",
+      "title": "AVIF Converter",
+      "category": "image-tools",
+      "url": "https://simpletoolset.com/en/image-tools/avif-converter/",
+      "canonicalUrl": "https://simpletoolset.com/en/image-tools/avif-converter/",
+      "description": "AVIF Converter is a browser-based SimpleToolset tool for convert avif images to png, jpg, or webp locally in your browser. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast image tools tasks without an account or unnecessary server upload. Review important outputs before using them in production.",
+      "primaryUseCase": "Convert AVIF images to PNG, JPG, or WebP locally in your browser",
+      "inputs": [
+        "Text, file, image, document, or settings entered in the browser"
+      ],
+      "outputs": [
+        "Cleaned, converted, generated, previewed, or downloadable result"
+      ],
+      "runsLocally": true,
+      "uploadsToServer": false,
+      "bestFor": [
+        "Convert AVIF images to PNG, JPG, or WebP locally in your browser",
+        "Quick browser-side work without signing in"
+      ],
+      "limitations": [
+        "Browser support, file size, and device performance can affect results",
+        "Review outputs before using them in sensitive or high-stakes workflows"
+      ],
+      "relatedTools": [
+        {
+          "name": "Image Compressor",
+          "canonicalUrl": "https://simpletoolset.com/en/image-tools/image-compressor/"
+        },
+        {
+          "name": "Image Resizer",
+          "canonicalUrl": "https://simpletoolset.com/en/image-tools/image-resizer/"
+        },
+        {
+          "name": "Image Cropper",
+          "canonicalUrl": "https://simpletoolset.com/en/image-tools/image-cropper/"
+        },
+        {
+          "name": "Text to Image Generator",
+          "canonicalUrl": "https://simpletoolset.com/en/image-tools/text-to-image/"
+        },
+        {
+          "name": "Image Format Converter",
+          "canonicalUrl": "https://simpletoolset.com/en/image-tools/image-format-converter/"
+        },
+        {
+          "name": "Image to WebP Converter",
+          "canonicalUrl": "https://simpletoolset.com/en/image-tools/image-to-webp-converter/"
+        }
+      ],
+      "lastReviewed": "2026-08-12",
+      "answerReadySummary": "AVIF Converter is a browser-based SimpleToolset tool for convert avif images to png, jpg, or webp locally in your browser. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast image tools tasks without an account or unnecessary server upload. Review important outputs before using them in production."
+    },
+    {
       "slug": "image-background-remover-basic",
       "name": "Image Background Remover (Basic)",
       "toolName": "Image Background Remover (Basic)",
@@ -1695,7 +1806,7 @@
       "category": "gif-tools",
       "url": "https://simpletoolset.com/en/gif-tools/gif-compressor/",
       "canonicalUrl": "https://simpletoolset.com/en/gif-tools/gif-compressor/",
-      "description": "SimpleToolset GIF Compressor is a browser-based tool to compress GIFs to reduce file size while keeping animation. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for GIF. Use it for quick checks and exports; review important results before relying on them.",
+      "description": "SimpleToolset GIF Compressor is a browser-based tool to compress GIFs to reduce file size while keeping animation. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for social publishing. Use it for quick checks and exports; review important results before relying on them.",
       "primaryUseCase": "Compress GIFs to reduce file size while keeping animation.",
       "inputs": [
         "GIF or animation files and size targets",
@@ -1709,10 +1820,10 @@
       "runsLocally": true,
       "uploadsToServer": false,
       "bestFor": [
-        "GIF",
-        "Reduce GIF payload for faster publishing and sharing",
-        "Keep core animation intent while cutting size",
-        "Improve loading behavior across mobile and web channels"
+        "Social publishing",
+        "Prepare animated assets that load quickly while keeping the main motion readable",
+        "Website animation",
+        "Reduce animated media weight so product pages, docs, and landing pages feel faster"
       ],
       "limitations": [
         "Large animations can take longer and may be limited by browser memory",
@@ -1738,7 +1849,7 @@
         }
       ],
       "lastReviewed": "2026-06-05",
-      "answerReadySummary": "SimpleToolset GIF Compressor is a browser-based tool to compress GIFs to reduce file size while keeping animation. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for GIF. Use it for quick checks and exports; review important results before relying on them."
+      "answerReadySummary": "SimpleToolset GIF Compressor is a browser-based tool to compress GIFs to reduce file size while keeping animation. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for social publishing. Use it for quick checks and exports; review important results before relying on them."
     },
     {
       "slug": "gif-optimizer",
@@ -1748,7 +1859,7 @@
       "category": "gif-tools",
       "url": "https://simpletoolset.com/en/gif-tools/gif-optimizer/",
       "canonicalUrl": "https://simpletoolset.com/en/gif-tools/gif-optimizer/",
-      "description": "SimpleToolset GIF Optimizer is a browser-based tool to optimize GIFs for smaller size and smoother playback. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for GIF. Use it for quick checks and exports; review important results before relying on them.",
+      "description": "SimpleToolset GIF Optimizer is a browser-based tool to optimize GIFs for smaller size and smoother playback. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for campaign variations. Use it for quick checks and exports; review important results before relying on them.",
       "primaryUseCase": "Optimize GIFs for smaller size and smoother playback.",
       "inputs": [
         "GIF or animation files and size targets",
@@ -1763,10 +1874,10 @@
       "runsLocally": true,
       "uploadsToServer": false,
       "bestFor": [
-        "GIF",
-        "Reduce GIF payload for faster publishing and sharing",
-        "Keep core animation intent while cutting size",
-        "Improve loading behavior across mobile and web channels"
+        "Campaign variations",
+        "Create channel-specific versions for ads, posts, support replies, and launch assets",
+        "Website animation",
+        "Reduce animated media weight so product pages, docs, and landing pages feel faster"
       ],
       "limitations": [
         "Large animations can take longer and may be limited by browser memory",
@@ -1788,7 +1899,7 @@
         }
       ],
       "lastReviewed": "2026-06-05",
-      "answerReadySummary": "SimpleToolset GIF Optimizer is a browser-based tool to optimize GIFs for smaller size and smoother playback. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for GIF. Use it for quick checks and exports; review important results before relying on them."
+      "answerReadySummary": "SimpleToolset GIF Optimizer is a browser-based tool to optimize GIFs for smaller size and smoother playback. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for campaign variations. Use it for quick checks and exports; review important results before relying on them."
     },
     {
       "slug": "gif-resizer",
@@ -1798,7 +1909,7 @@
       "category": "gif-tools",
       "url": "https://simpletoolset.com/en/gif-tools/gif-resizer/",
       "canonicalUrl": "https://simpletoolset.com/en/gif-tools/gif-resizer/",
-      "description": "SimpleToolset GIF Resizer is a browser-based tool to resize animated GIFs to any dimensions. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Discord. Use it for quick checks and exports; review important results before relying on them.",
+      "description": "SimpleToolset GIF Resizer is a browser-based tool to resize animated GIFs to any dimensions. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for social publishing. Use it for quick checks and exports; review important results before relying on them.",
       "primaryUseCase": "Resize animated GIFs to any dimensions.",
       "inputs": [
         "GIF or animation files and size targets",
@@ -1812,10 +1923,10 @@
       "runsLocally": true,
       "uploadsToServer": false,
       "bestFor": [
-        "Discord",
-        "GIF",
-        "Reduce GIF payload for faster publishing and sharing",
-        "Keep core animation intent while cutting size"
+        "Social publishing",
+        "Prepare animated assets that load quickly while keeping the main motion readable",
+        "Discord sharing",
+        "Tune file size, dimensions, and playback smoothness before sending a GIF in chat"
       ],
       "limitations": [
         "Large animations can take longer and may be limited by browser memory",
@@ -1841,7 +1952,7 @@
         }
       ],
       "lastReviewed": "2026-06-05",
-      "answerReadySummary": "SimpleToolset GIF Resizer is a browser-based tool to resize animated GIFs to any dimensions. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Discord. Use it for quick checks and exports; review important results before relying on them."
+      "answerReadySummary": "SimpleToolset GIF Resizer is a browser-based tool to resize animated GIFs to any dimensions. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for social publishing. Use it for quick checks and exports; review important results before relying on them."
     },
     {
       "slug": "gif-size-checker",
@@ -1851,7 +1962,7 @@
       "category": "gif-tools",
       "url": "https://simpletoolset.com/en/gif-tools/gif-size-checker/",
       "canonicalUrl": "https://simpletoolset.com/en/gif-tools/gif-size-checker/",
-      "description": "SimpleToolset GIF Size Checker is a browser-based tool to check GIF file size and limits quickly. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Discord. Use it for quick checks and exports; review important results before relying on them.",
+      "description": "SimpleToolset GIF Size Checker is a browser-based tool to check GIF file size and limits quickly. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for upload preflight. Use it for quick checks and exports; review important results before relying on them.",
       "primaryUseCase": "Check GIF file size and limits quickly.",
       "inputs": [
         "GIF or animation files and size targets",
@@ -1864,10 +1975,10 @@
       "runsLocally": true,
       "uploadsToServer": false,
       "bestFor": [
-        "Discord",
-        "GIF",
-        "Reduce GIF payload for faster publishing and sharing",
-        "Keep core animation intent while cutting size"
+        "Upload preflight",
+        "Check size and quality before submitting to a platform with strict media limits",
+        "Discord sharing",
+        "Tune file size, dimensions, and playback smoothness before sending a GIF in chat"
       ],
       "limitations": [
         "Large animations can take longer and may be limited by browser memory",
@@ -1893,7 +2004,7 @@
         }
       ],
       "lastReviewed": "2026-06-05",
-      "answerReadySummary": "SimpleToolset GIF Size Checker is a browser-based tool to check GIF file size and limits quickly. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Discord. Use it for quick checks and exports; review important results before relying on them."
+      "answerReadySummary": "SimpleToolset GIF Size Checker is a browser-based tool to check GIF file size and limits quickly. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for upload preflight. Use it for quick checks and exports; review important results before relying on them."
     },
     {
       "slug": "compress-gif-to-10mb",
@@ -1903,7 +2014,7 @@
       "category": "gif-tools",
       "url": "https://simpletoolset.com/en/gif-tools/compress-gif-to-10mb/",
       "canonicalUrl": "https://simpletoolset.com/en/gif-tools/compress-gif-to-10mb/",
-      "description": "SimpleToolset Compress GIF to 10MB is a browser-based tool to reduce GIF size to fit a 10MB limit. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for GIF. Use it for quick checks and exports; review important results before relying on them.",
+      "description": "SimpleToolset Compress GIF to 10MB is a browser-based tool to reduce GIF size to fit a 10MB limit. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for campaign variations. Use it for quick checks and exports; review important results before relying on them.",
       "primaryUseCase": "Reduce GIF size to fit a 10MB limit.",
       "inputs": [
         "GIF or animation files and size targets",
@@ -1918,10 +2029,10 @@
       "runsLocally": true,
       "uploadsToServer": false,
       "bestFor": [
-        "GIF",
-        "Reduce GIF payload for faster publishing and sharing",
-        "Keep core animation intent while cutting size",
-        "Improve loading behavior across mobile and web channels"
+        "Campaign variations",
+        "Create channel-specific versions for ads, posts, support replies, and launch assets",
+        "Social publishing",
+        "Prepare animated assets that load quickly while keeping the main motion readable"
       ],
       "limitations": [
         "Large animations can take longer and may be limited by browser memory",
@@ -1947,7 +2058,7 @@
         }
       ],
       "lastReviewed": "2026-06-05",
-      "answerReadySummary": "SimpleToolset Compress GIF to 10MB is a browser-based tool to reduce GIF size to fit a 10MB limit. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for GIF. Use it for quick checks and exports; review important results before relying on them."
+      "answerReadySummary": "SimpleToolset Compress GIF to 10MB is a browser-based tool to reduce GIF size to fit a 10MB limit. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for campaign variations. Use it for quick checks and exports; review important results before relying on them."
     },
     {
       "slug": "compress-gif-to-8mb-discord",
@@ -1957,7 +2068,7 @@
       "category": "gif-tools",
       "url": "https://simpletoolset.com/en/gif-tools/compress-gif-to-8mb-discord/",
       "canonicalUrl": "https://simpletoolset.com/en/gif-tools/compress-gif-to-8mb-discord/",
-      "description": "SimpleToolset Compress GIF to 8MB is a browser-based tool to shrink GIFs to meet Discord's 8MB limit. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Discord. Use it for quick checks and exports; review important results before relying on them.",
+      "description": "SimpleToolset Compress GIF to 8MB is a browser-based tool to shrink GIFs to meet Discord's 8MB limit. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Discord sharing. Use it for quick checks and exports; review important results before relying on them.",
       "primaryUseCase": "Shrink GIFs to meet Discord's 8MB limit.",
       "inputs": [
         "GIF or animation files and size targets",
@@ -1972,10 +2083,10 @@
       "runsLocally": true,
       "uploadsToServer": false,
       "bestFor": [
-        "Discord",
-        "GIF",
-        "Reduce GIF payload for faster publishing and sharing",
-        "Keep core animation intent while cutting size"
+        "Discord sharing",
+        "Tune file size, dimensions, and playback smoothness before sending a GIF in chat",
+        "Mobile playback",
+        "Limit heavy frames that can stutter on phones or slow network connections"
       ],
       "limitations": [
         "Large animations can take longer and may be limited by browser memory",
@@ -1997,7 +2108,7 @@
         }
       ],
       "lastReviewed": "2026-06-05",
-      "answerReadySummary": "SimpleToolset Compress GIF to 8MB is a browser-based tool to shrink GIFs to meet Discord's 8MB limit. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Discord. Use it for quick checks and exports; review important results before relying on them."
+      "answerReadySummary": "SimpleToolset Compress GIF to 8MB is a browser-based tool to shrink GIFs to meet Discord's 8MB limit. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Discord sharing. Use it for quick checks and exports; review important results before relying on them."
     },
     {
       "slug": "compress-gif-to-512kb",
@@ -2007,7 +2118,7 @@
       "category": "gif-tools",
       "url": "https://simpletoolset.com/en/gif-tools/compress-gif-to-512kb/",
       "canonicalUrl": "https://simpletoolset.com/en/gif-tools/compress-gif-to-512kb/",
-      "description": "SimpleToolset Compress GIF to 512KB is a browser-based tool to reduce GIF size for tight file size limits. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for GIF. Use it for quick checks and exports; review important results before relying on them.",
+      "description": "SimpleToolset Compress GIF to 512KB is a browser-based tool to reduce GIF size for tight file size limits. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for upload preflight. Use it for quick checks and exports; review important results before relying on them.",
       "primaryUseCase": "Reduce GIF size for tight file size limits.",
       "inputs": [
         "GIF or animation files and size targets",
@@ -2021,10 +2132,10 @@
       "runsLocally": true,
       "uploadsToServer": false,
       "bestFor": [
-        "GIF",
-        "Reduce GIF payload for faster publishing and sharing",
-        "Keep core animation intent while cutting size",
-        "Improve loading behavior across mobile and web channels"
+        "Upload preflight",
+        "Check size and quality before submitting to a platform with strict media limits",
+        "Campaign variations",
+        "Create channel-specific versions for ads, posts, support replies, and launch assets"
       ],
       "limitations": [
         "Large animations can take longer and may be limited by browser memory",
@@ -2046,7 +2157,7 @@
         }
       ],
       "lastReviewed": "2026-06-05",
-      "answerReadySummary": "SimpleToolset Compress GIF to 512KB is a browser-based tool to reduce GIF size for tight file size limits. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for GIF. Use it for quick checks and exports; review important results before relying on them."
+      "answerReadySummary": "SimpleToolset Compress GIF to 512KB is a browser-based tool to reduce GIF size for tight file size limits. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for upload preflight. Use it for quick checks and exports; review important results before relying on them."
     },
     {
       "slug": "compress-gif-to-custom-size",
@@ -2056,7 +2167,7 @@
       "category": "gif-tools",
       "url": "https://simpletoolset.com/en/gif-tools/compress-gif-to-custom-size/",
       "canonicalUrl": "https://simpletoolset.com/en/gif-tools/compress-gif-to-custom-size/",
-      "description": "SimpleToolset Compress GIF to Custom Size is a browser-based tool to set a custom target size for GIF compression. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for GIF. Use it for quick checks and exports; review important results before relying on them.",
+      "description": "SimpleToolset Compress GIF to Custom Size is a browser-based tool to set a custom target size for GIF compression. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for upload preflight. Use it for quick checks and exports; review important results before relying on them.",
       "primaryUseCase": "Set a custom target size for GIF compression.",
       "inputs": [
         "GIF or animation files and size targets",
@@ -2069,10 +2180,10 @@
       "runsLocally": true,
       "uploadsToServer": false,
       "bestFor": [
-        "GIF",
-        "Reduce GIF payload for faster publishing and sharing",
-        "Keep core animation intent while cutting size",
-        "Improve loading behavior across mobile and web channels"
+        "Upload preflight",
+        "Check size and quality before submitting to a platform with strict media limits",
+        "Campaign variations",
+        "Create channel-specific versions for ads, posts, support replies, and launch assets"
       ],
       "limitations": [
         "Large animations can take longer and may be limited by browser memory",
@@ -2098,7 +2209,7 @@
         }
       ],
       "lastReviewed": "2026-06-05",
-      "answerReadySummary": "SimpleToolset Compress GIF to Custom Size is a browser-based tool to set a custom target size for GIF compression. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for GIF. Use it for quick checks and exports; review important results before relying on them."
+      "answerReadySummary": "SimpleToolset Compress GIF to Custom Size is a browser-based tool to set a custom target size for GIF compression. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for upload preflight. Use it for quick checks and exports; review important results before relying on them."
     },
     {
       "slug": "video-to-gif",
@@ -2108,7 +2219,7 @@
       "category": "gif-tools",
       "url": "https://simpletoolset.com/en/gif-tools/video-to-gif/",
       "canonicalUrl": "https://simpletoolset.com/en/gif-tools/video-to-gif/",
-      "description": "SimpleToolset Video to GIF is a browser-based tool to create high-quality animated GIFs from video clips locally. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Discord. Use it for quick checks and exports; review important results before relying on them.",
+      "description": "SimpleToolset Video to GIF is a browser-based tool to create high-quality animated GIFs from video clips locally. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for reaction loops. Use it for quick checks and exports; review important results before relying on them.",
       "primaryUseCase": "Create high-quality animated GIFs from video clips locally.",
       "inputs": [
         "GIF or animation files and size targets",
@@ -2123,10 +2234,10 @@
       "runsLocally": true,
       "uploadsToServer": false,
       "bestFor": [
-        "Discord",
-        "GIF",
-        "Reduce GIF payload for faster publishing and sharing",
-        "Keep core animation intent while cutting size"
+        "Reaction loops",
+        "Make short, repeatable animations for chat, community replies, and lightweight sharing",
+        "Instructional docs",
+        "Embed short looped demonstrations without forcing readers to open a video player"
       ],
       "limitations": [
         "Large animations can take longer and may be limited by browser memory",
@@ -2148,7 +2259,7 @@
         }
       ],
       "lastReviewed": "2026-06-05",
-      "answerReadySummary": "SimpleToolset Video to GIF is a browser-based tool to create high-quality animated GIFs from video clips locally. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Discord. Use it for quick checks and exports; review important results before relying on them."
+      "answerReadySummary": "SimpleToolset Video to GIF is a browser-based tool to create high-quality animated GIFs from video clips locally. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for reaction loops. Use it for quick checks and exports; review important results before relying on them."
     },
     {
       "slug": "gif-to-apng",
@@ -2158,7 +2269,7 @@
       "category": "gif-tools",
       "url": "https://simpletoolset.com/en/gif-tools/gif-to-apng/",
       "canonicalUrl": "https://simpletoolset.com/en/gif-tools/gif-to-apng/",
-      "description": "SimpleToolset GIF to APNG is a browser-based tool to convert animated GIFs to APNG format. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for GIF. Use it for quick checks and exports; review important results before relying on them.",
+      "description": "SimpleToolset GIF to APNG is a browser-based tool to convert animated GIFs to APNG format. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for transparent overlays. Use it for quick checks and exports; review important results before relying on them.",
       "primaryUseCase": "Convert animated GIFs to APNG format.",
       "inputs": [
         "GIF or animation files and size targets",
@@ -2173,10 +2284,10 @@
       "runsLocally": true,
       "uploadsToServer": false,
       "bestFor": [
-        "GIF",
-        "Reduce GIF payload for faster publishing and sharing",
-        "Keep core animation intent while cutting size",
-        "Improve loading behavior across mobile and web channels"
+        "Transparent overlays",
+        "Prepare animated overlays where edge quality and alpha behavior matter",
+        "Website animation",
+        "Reduce animated media weight so product pages, docs, and landing pages feel faster"
       ],
       "limitations": [
         "Large animations can take longer and may be limited by browser memory",
@@ -2198,7 +2309,7 @@
         }
       ],
       "lastReviewed": "2026-06-05",
-      "answerReadySummary": "SimpleToolset GIF to APNG is a browser-based tool to convert animated GIFs to APNG format. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for GIF. Use it for quick checks and exports; review important results before relying on them."
+      "answerReadySummary": "SimpleToolset GIF to APNG is a browser-based tool to convert animated GIFs to APNG format. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for transparent overlays. Use it for quick checks and exports; review important results before relying on them."
     },
     {
       "slug": "gif-for-discord",
@@ -2208,7 +2319,7 @@
       "category": "gif-tools",
       "url": "https://simpletoolset.com/en/gif-tools/gif-for-discord/",
       "canonicalUrl": "https://simpletoolset.com/en/gif-tools/gif-for-discord/",
-      "description": "SimpleToolset GIF for Discord is a browser-based tool to prepare GIFs that fit Discord upload limits. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Discord. Use it for quick checks and exports; review important results before relying on them.",
+      "description": "SimpleToolset GIF for Discord is a browser-based tool to prepare GIFs that fit Discord upload limits. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Discord sharing. Use it for quick checks and exports; review important results before relying on them.",
       "primaryUseCase": "Prepare GIFs that fit Discord upload limits.",
       "inputs": [
         "GIF or animation files and size targets",
@@ -2223,10 +2334,10 @@
       "runsLocally": true,
       "uploadsToServer": false,
       "bestFor": [
-        "Discord",
-        "GIF",
-        "Reduce GIF payload for faster publishing and sharing",
-        "Keep core animation intent while cutting size"
+        "Discord sharing",
+        "Tune file size, dimensions, and playback smoothness before sending a GIF in chat",
+        "Mobile playback",
+        "Limit heavy frames that can stutter on phones or slow network connections"
       ],
       "limitations": [
         "Large animations can take longer and may be limited by browser memory",
@@ -2248,7 +2359,7 @@
         }
       ],
       "lastReviewed": "2026-06-05",
-      "answerReadySummary": "SimpleToolset GIF for Discord is a browser-based tool to prepare GIFs that fit Discord upload limits. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Discord. Use it for quick checks and exports; review important results before relying on them."
+      "answerReadySummary": "SimpleToolset GIF for Discord is a browser-based tool to prepare GIFs that fit Discord upload limits. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Discord sharing. Use it for quick checks and exports; review important results before relying on them."
     },
     {
       "slug": "image-to-pdf",
@@ -2838,6 +2949,61 @@
       "answerReadySummary": "SimpleToolset PDF to Text is a browser-based tool to extract readable text content from PDFs. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for research extraction. Use it for quick checks and exports; review important results before relying on them."
     },
     {
+      "slug": "pdf-ocr-text-extractor",
+      "name": "PDF OCR Text Extractor",
+      "toolName": "PDF OCR Text Extractor",
+      "title": "PDF OCR Text Extractor",
+      "category": "pdf-tools",
+      "url": "https://simpletoolset.com/en/pdf-tools/pdf-ocr-text-extractor/",
+      "canonicalUrl": "https://simpletoolset.com/en/pdf-tools/pdf-ocr-text-extractor/",
+      "description": "PDF OCR Text Extractor is a browser-based SimpleToolset tool for run ocr on scanned pdf pages locally and export recognized text. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast pdf tools tasks without an account or unnecessary server upload. Review important outputs before using them in production.",
+      "primaryUseCase": "Run OCR on scanned PDF pages locally and export recognized text",
+      "inputs": [
+        "Text, file, image, document, or settings entered in the browser"
+      ],
+      "outputs": [
+        "Cleaned, converted, generated, previewed, or downloadable result"
+      ],
+      "runsLocally": true,
+      "uploadsToServer": false,
+      "bestFor": [
+        "Run OCR on scanned PDF pages locally and export recognized text",
+        "Quick browser-side work without signing in"
+      ],
+      "limitations": [
+        "Browser support, file size, and device performance can affect results",
+        "Review outputs before using them in sensitive or high-stakes workflows"
+      ],
+      "relatedTools": [
+        {
+          "name": "Image to PDF Converter",
+          "canonicalUrl": "https://simpletoolset.com/en/pdf-tools/image-to-pdf/"
+        },
+        {
+          "name": "PDF to Image Converter",
+          "canonicalUrl": "https://simpletoolset.com/en/pdf-tools/pdf-to-image/"
+        },
+        {
+          "name": "Merge PDF",
+          "canonicalUrl": "https://simpletoolset.com/en/pdf-tools/merge-pdf/"
+        },
+        {
+          "name": "Split PDF",
+          "canonicalUrl": "https://simpletoolset.com/en/pdf-tools/split-pdf/"
+        },
+        {
+          "name": "Rotate PDF",
+          "canonicalUrl": "https://simpletoolset.com/en/pdf-tools/rotate-pdf/"
+        },
+        {
+          "name": "Compress PDF",
+          "canonicalUrl": "https://simpletoolset.com/en/pdf-tools/compress-pdf/"
+        }
+      ],
+      "lastReviewed": "2026-08-12",
+      "answerReadySummary": "PDF OCR Text Extractor is a browser-based SimpleToolset tool for run ocr on scanned pdf pages locally and export recognized text. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast pdf tools tasks without an account or unnecessary server upload. Review important outputs before using them in production."
+    },
+    {
       "slug": "protect-pdf",
       "name": "Protect PDF",
       "toolName": "Protect PDF",
@@ -3086,6 +3252,61 @@
       ],
       "lastReviewed": "2026-06-05",
       "answerReadySummary": "SimpleToolset QR Code Generator is a browser-based tool to create QR codes for URLs. It accepts image files selected in the browser and returns generated value, code, QR image, or copyable result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for event check-ins. Use it for quick checks and exports; review important results before relying on them."
+    },
+    {
+      "slug": "barcode-generator",
+      "name": "Barcode Generator",
+      "toolName": "Barcode Generator",
+      "title": "Barcode Generator",
+      "category": "utility-tools",
+      "url": "https://simpletoolset.com/en/utility-tools/barcode-generator/",
+      "canonicalUrl": "https://simpletoolset.com/en/utility-tools/barcode-generator/",
+      "description": "Barcode Generator is a browser-based SimpleToolset tool for generate code 128 and ean/upc-style barcodes as svg or png. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast utility tools tasks without an account or unnecessary server upload. Review important outputs before using them in production.",
+      "primaryUseCase": "Generate Code 128 and EAN/UPC-style barcodes as SVG or PNG",
+      "inputs": [
+        "Text, file, image, document, or settings entered in the browser"
+      ],
+      "outputs": [
+        "Cleaned, converted, generated, previewed, or downloadable result"
+      ],
+      "runsLocally": true,
+      "uploadsToServer": false,
+      "bestFor": [
+        "Generate Code 128 and EAN/UPC-style barcodes as SVG or PNG",
+        "Quick browser-side work without signing in"
+      ],
+      "limitations": [
+        "Browser support, file size, and device performance can affect results",
+        "Review outputs before using them in sensitive or high-stakes workflows"
+      ],
+      "relatedTools": [
+        {
+          "name": "QR Code Generator",
+          "canonicalUrl": "https://simpletoolset.com/en/utility-tools/qr-generator/"
+        },
+        {
+          "name": "Random Number Generator",
+          "canonicalUrl": "https://simpletoolset.com/en/utility-tools/random-number/"
+        },
+        {
+          "name": "Random Name Generator",
+          "canonicalUrl": "https://simpletoolset.com/en/utility-tools/random-name/"
+        },
+        {
+          "name": "UUID Generator",
+          "canonicalUrl": "https://simpletoolset.com/en/utility-tools/uuid-generator/"
+        },
+        {
+          "name": "Basic Calculator",
+          "canonicalUrl": "https://simpletoolset.com/en/utility-tools/calculator/"
+        },
+        {
+          "name": "Password Strength Meter",
+          "canonicalUrl": "https://simpletoolset.com/en/utility-tools/password-strength/"
+        }
+      ],
+      "lastReviewed": "2026-08-12",
+      "answerReadySummary": "Barcode Generator is a browser-based SimpleToolset tool for generate code 128 and ean/upc-style barcodes as svg or png. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast utility tools tasks without an account or unnecessary server upload. Review important outputs before using them in production."
     },
     {
       "slug": "random-number",
@@ -6424,6 +6645,61 @@
       "answerReadySummary": "SimpleToolset YAML to JSON Converter is a browser-based tool to convert data between YAML and JSON formats. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for CI pipelines. Use it for quick checks and exports; review important results before relying on them."
     },
     {
+      "slug": "json-formatter-validator",
+      "name": "JSON Formatter",
+      "toolName": "JSON Formatter",
+      "title": "JSON Formatter",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/json-formatter-validator/",
+      "canonicalUrl": "https://simpletoolset.com/en/developer-tools/json-formatter-validator/",
+      "description": "JSON Formatter is a browser-based SimpleToolset tool for format, minify, and validate json with line and column error hints. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast developer tools tasks without an account or unnecessary server upload. Review important outputs before using them in production.",
+      "primaryUseCase": "Format, minify, and validate JSON with line and column error hints",
+      "inputs": [
+        "Text, file, image, document, or settings entered in the browser"
+      ],
+      "outputs": [
+        "Cleaned, converted, generated, previewed, or downloadable result"
+      ],
+      "runsLocally": true,
+      "uploadsToServer": false,
+      "bestFor": [
+        "Format, minify, and validate JSON with line and column error hints",
+        "Quick browser-side work without signing in"
+      ],
+      "limitations": [
+        "Browser support, file size, and device performance can affect results",
+        "Review outputs before using them in sensitive or high-stakes workflows"
+      ],
+      "relatedTools": [
+        {
+          "name": "XML Formatter",
+          "canonicalUrl": "https://simpletoolset.com/en/developer-tools/xml-formatter/"
+        },
+        {
+          "name": "YAML to JSON Converter",
+          "canonicalUrl": "https://simpletoolset.com/en/developer-tools/yaml-to-json/"
+        },
+        {
+          "name": "SQL Formatter",
+          "canonicalUrl": "https://simpletoolset.com/en/developer-tools/sql-formatter/"
+        },
+        {
+          "name": "JavaScript Obfuscator",
+          "canonicalUrl": "https://simpletoolset.com/en/developer-tools/js-obfuscator/"
+        },
+        {
+          "name": "Regex Tester",
+          "canonicalUrl": "https://simpletoolset.com/en/developer-tools/regex-tester/"
+        },
+        {
+          "name": "JWT Decoder",
+          "canonicalUrl": "https://simpletoolset.com/en/developer-tools/jwt-decoder/"
+        }
+      ],
+      "lastReviewed": "2026-08-12",
+      "answerReadySummary": "JSON Formatter is a browser-based SimpleToolset tool for format, minify, and validate json with line and column error hints. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast developer tools tasks without an account or unnecessary server upload. Review important outputs before using them in production."
+    },
+    {
       "slug": "sql-formatter",
       "name": "SQL Formatter",
       "toolName": "SQL Formatter",
@@ -7202,6 +7478,116 @@
       ],
       "lastReviewed": "2026-06-05",
       "answerReadySummary": "SimpleToolset Client-Side CSV to SQL helps you convert CSV files into SQL and SQLite locally in your browser for private ETL and analysis. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload. It is best for secure bank statement to SQL conversion. Review important outputs before relying on them."
+    },
+    {
+      "slug": "csv-cleaner-delimiter-converter",
+      "name": "CSV Cleaner",
+      "toolName": "CSV Cleaner",
+      "title": "CSV Cleaner",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/csv-cleaner-delimiter-converter/",
+      "canonicalUrl": "https://simpletoolset.com/en/developer-tools/csv-cleaner-delimiter-converter/",
+      "description": "CSV Cleaner is a browser-based SimpleToolset tool for clean csv tables, trim cells, remove empty rows, and switch delimiters. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast developer tools tasks without an account or unnecessary server upload. Review important outputs before using them in production.",
+      "primaryUseCase": "Clean CSV tables, trim cells, remove empty rows, and switch delimiters",
+      "inputs": [
+        "Text, file, image, document, or settings entered in the browser"
+      ],
+      "outputs": [
+        "Cleaned, converted, generated, previewed, or downloadable result"
+      ],
+      "runsLocally": true,
+      "uploadsToServer": false,
+      "bestFor": [
+        "Clean CSV tables, trim cells, remove empty rows, and switch delimiters",
+        "Quick browser-side work without signing in"
+      ],
+      "limitations": [
+        "Browser support, file size, and device performance can affect results",
+        "Review outputs before using them in sensitive or high-stakes workflows"
+      ],
+      "relatedTools": [
+        {
+          "name": "XML Formatter",
+          "canonicalUrl": "https://simpletoolset.com/en/developer-tools/xml-formatter/"
+        },
+        {
+          "name": "YAML to JSON Converter",
+          "canonicalUrl": "https://simpletoolset.com/en/developer-tools/yaml-to-json/"
+        },
+        {
+          "name": "JSON Formatter",
+          "canonicalUrl": "https://simpletoolset.com/en/developer-tools/json-formatter-validator/"
+        },
+        {
+          "name": "SQL Formatter",
+          "canonicalUrl": "https://simpletoolset.com/en/developer-tools/sql-formatter/"
+        },
+        {
+          "name": "JavaScript Obfuscator",
+          "canonicalUrl": "https://simpletoolset.com/en/developer-tools/js-obfuscator/"
+        },
+        {
+          "name": "Regex Tester",
+          "canonicalUrl": "https://simpletoolset.com/en/developer-tools/regex-tester/"
+        }
+      ],
+      "lastReviewed": "2026-08-12",
+      "answerReadySummary": "CSV Cleaner is a browser-based SimpleToolset tool for clean csv tables, trim cells, remove empty rows, and switch delimiters. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast developer tools tasks without an account or unnecessary server upload. Review important outputs before using them in production."
+    },
+    {
+      "slug": "excel-csv-converter",
+      "name": "Excel CSV Converter",
+      "toolName": "Excel CSV Converter",
+      "title": "Excel CSV Converter",
+      "category": "developer-tools",
+      "url": "https://simpletoolset.com/en/developer-tools/excel-csv-converter/",
+      "canonicalUrl": "https://simpletoolset.com/en/developer-tools/excel-csv-converter/",
+      "description": "Excel CSV Converter is a browser-based SimpleToolset tool for convert excel workbooks and csv files locally with spreadsheet previews. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast developer tools tasks without an account or unnecessary server upload. Review important outputs before using them in production.",
+      "primaryUseCase": "Convert Excel workbooks and CSV files locally with spreadsheet previews",
+      "inputs": [
+        "Text, file, image, document, or settings entered in the browser"
+      ],
+      "outputs": [
+        "Cleaned, converted, generated, previewed, or downloadable result"
+      ],
+      "runsLocally": true,
+      "uploadsToServer": false,
+      "bestFor": [
+        "Convert Excel workbooks and CSV files locally with spreadsheet previews",
+        "Quick browser-side work without signing in"
+      ],
+      "limitations": [
+        "Browser support, file size, and device performance can affect results",
+        "Review outputs before using them in sensitive or high-stakes workflows"
+      ],
+      "relatedTools": [
+        {
+          "name": "XML Formatter",
+          "canonicalUrl": "https://simpletoolset.com/en/developer-tools/xml-formatter/"
+        },
+        {
+          "name": "YAML to JSON Converter",
+          "canonicalUrl": "https://simpletoolset.com/en/developer-tools/yaml-to-json/"
+        },
+        {
+          "name": "JSON Formatter",
+          "canonicalUrl": "https://simpletoolset.com/en/developer-tools/json-formatter-validator/"
+        },
+        {
+          "name": "SQL Formatter",
+          "canonicalUrl": "https://simpletoolset.com/en/developer-tools/sql-formatter/"
+        },
+        {
+          "name": "JavaScript Obfuscator",
+          "canonicalUrl": "https://simpletoolset.com/en/developer-tools/js-obfuscator/"
+        },
+        {
+          "name": "Regex Tester",
+          "canonicalUrl": "https://simpletoolset.com/en/developer-tools/regex-tester/"
+        }
+      ],
+      "lastReviewed": "2026-08-12",
+      "answerReadySummary": "Excel CSV Converter is a browser-based SimpleToolset tool for convert excel workbooks and csv files locally with spreadsheet previews. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast developer tools tasks without an account or unnecessary server upload. Review important outputs before using them in production."
     },
     {
       "slug": "image-to-base64",
@@ -8529,6 +8915,61 @@
       "answerReadySummary": "SimpleToolset UTM Link Builder is a browser-based tool to generate tracking URLs for Google Analytics marketing campaigns. It accepts URLs, links, IPs, user-agent strings, or network values and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for paid social ads. Use it for quick checks and exports; review important results before relying on them."
     },
     {
+      "slug": "open-graph-meta-preview",
+      "name": "Open Graph Previewer",
+      "toolName": "Open Graph Previewer",
+      "title": "Open Graph Previewer",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/open-graph-meta-preview/",
+      "canonicalUrl": "https://simpletoolset.com/en/social-tools/open-graph-meta-preview/",
+      "description": "Open Graph Previewer is a browser-based SimpleToolset tool for preview google and social snippets, then export open graph and twitter meta tags. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast social tools tasks without an account or unnecessary server upload. Review important outputs before using them in production.",
+      "primaryUseCase": "Preview Google and social snippets, then export Open Graph and Twitter meta tags",
+      "inputs": [
+        "Text, file, image, document, or settings entered in the browser"
+      ],
+      "outputs": [
+        "Cleaned, converted, generated, previewed, or downloadable result"
+      ],
+      "runsLocally": true,
+      "uploadsToServer": false,
+      "bestFor": [
+        "Preview Google and social snippets, then export Open Graph and Twitter meta tags",
+        "Quick browser-side work without signing in"
+      ],
+      "limitations": [
+        "Browser support, file size, and device performance can affect results",
+        "Review outputs before using them in sensitive or high-stakes workflows"
+      ],
+      "relatedTools": [
+        {
+          "name": "Instagram Caption Spacer",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/instagram-caption-spacer/"
+        },
+        {
+          "name": "YouTube Thumbnail Downloader",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/youtube-thumbnail-downloader/"
+        },
+        {
+          "name": "Twitter/X Character Counter",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/twitter-character-counter/"
+        },
+        {
+          "name": "Word Cloud Generator",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/word-cloud-generator/"
+        },
+        {
+          "name": "UTM Link Builder",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/utm-link-builder/"
+        },
+        {
+          "name": "Hashtag Generator (Basic)",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/hashtag-generator-basic/"
+        }
+      ],
+      "lastReviewed": "2026-08-12",
+      "answerReadySummary": "Open Graph Previewer is a browser-based SimpleToolset tool for preview google and social snippets, then export open graph and twitter meta tags. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast social tools tasks without an account or unnecessary server upload. Review important outputs before using them in production."
+    },
+    {
       "slug": "hashtag-generator-basic",
       "name": "Hashtag Generator (Basic)",
       "toolName": "Hashtag Generator (Basic)",
@@ -9014,6 +9455,61 @@
       "answerReadySummary": "SimpleToolset Social Post Scheduler Helper is a browser-based tool to generate a posting schedule from a start date and interval. It accepts text pasted or typed into the browser and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for campaign planning. Use it for quick checks and exports; review important results before relying on them."
     },
     {
+      "slug": "subtitle-srt-vtt-converter",
+      "name": "SRT/VTT Converter",
+      "toolName": "SRT/VTT Converter",
+      "title": "SRT/VTT Converter",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/subtitle-srt-vtt-converter/",
+      "canonicalUrl": "https://simpletoolset.com/en/social-tools/subtitle-srt-vtt-converter/",
+      "description": "SRT/VTT Converter is a browser-based SimpleToolset tool for convert subtitles between srt and webvtt, shift timestamps, and fix numbering. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast social tools tasks without an account or unnecessary server upload. Review important outputs before using them in production.",
+      "primaryUseCase": "Convert subtitles between SRT and WebVTT, shift timestamps, and fix numbering",
+      "inputs": [
+        "Text, file, image, document, or settings entered in the browser"
+      ],
+      "outputs": [
+        "Cleaned, converted, generated, previewed, or downloadable result"
+      ],
+      "runsLocally": true,
+      "uploadsToServer": false,
+      "bestFor": [
+        "Convert subtitles between SRT and WebVTT, shift timestamps, and fix numbering",
+        "Quick browser-side work without signing in"
+      ],
+      "limitations": [
+        "Browser support, file size, and device performance can affect results",
+        "Review outputs before using them in sensitive or high-stakes workflows"
+      ],
+      "relatedTools": [
+        {
+          "name": "Instagram Caption Spacer",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/instagram-caption-spacer/"
+        },
+        {
+          "name": "YouTube Thumbnail Downloader",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/youtube-thumbnail-downloader/"
+        },
+        {
+          "name": "Twitter/X Character Counter",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/twitter-character-counter/"
+        },
+        {
+          "name": "Word Cloud Generator",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/word-cloud-generator/"
+        },
+        {
+          "name": "UTM Link Builder",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/utm-link-builder/"
+        },
+        {
+          "name": "Open Graph Previewer",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/open-graph-meta-preview/"
+        }
+      ],
+      "lastReviewed": "2026-08-12",
+      "answerReadySummary": "SRT/VTT Converter is a browser-based SimpleToolset tool for convert subtitles between srt and webvtt, shift timestamps, and fix numbering. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast social tools tasks without an account or unnecessary server upload. Review important outputs before using them in production."
+    },
+    {
       "slug": "rednote-video-downloader",
       "name": "Rednote Video Downloader",
       "toolName": "Rednote Video Downloader",
@@ -9021,25 +9517,25 @@
       "category": "social-tools",
       "url": "https://simpletoolset.com/en/social-tools/rednote-video-downloader/",
       "canonicalUrl": "https://simpletoolset.com/en/social-tools/rednote-video-downloader/",
-      "description": "SimpleToolset Rednote Video Downloader is a browser-based tool to fetch download-ready video links from Rednote/Xiaohongshu posts. It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator backups. Use it for quick checks and exports; review important results before relying on them.",
+      "description": "SimpleToolset Rednote Video Downloader is a browser-based tool to fetch download-ready video links from Rednote/Xiaohongshu posts. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator archive. Use it for quick checks and exports; review important results before relying on them.",
       "primaryUseCase": "Fetch download-ready video links from Rednote/Xiaohongshu posts.",
       "inputs": [
+        "Image files selected in the browser",
         "Video files, media settings, or public media URLs",
-        "URLs, links, IPs, user-agent strings, or network values",
-        "Text pasted or typed into the browser"
+        "URLs, links, IPs, user-agent strings, or network values"
       ],
       "outputs": [
+        "Processed image preview and downloadable image file",
         "Parsed URL parts, diagnostics, tracking link, or lookup result",
-        "Cleaned, generated, counted, or reformatted text",
-        "Formatted social copy, title ideas, tags, or downloadable public media"
+        "Cleaned, generated, counted, or reformatted text"
       ],
       "runsLocally": false,
       "uploadsToServer": false,
       "bestFor": [
-        "Creator backups",
-        "Archive your own published videos",
-        "Content repurposing",
-        "Prepare edits for other platforms"
+        "Creator archive",
+        "Save your own Rednote video notes before reorganizing campaigns or deleting drafts",
+        "Influencer deliverables",
+        "Collect approved public clips with original post URLs for client review folders"
       ],
       "limitations": [
         "Public media or platform data can be restricted by the source site or network access",
@@ -9048,32 +9544,28 @@
       ],
       "relatedTools": [
         {
-          "name": "AcFun Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/acfun-video-downloader/"
-        },
-        {
           "name": "Xigua Video Downloader",
           "canonicalUrl": "https://simpletoolset.com/en/social-tools/xigua-video-downloader/"
-        },
-        {
-          "name": "Kuaishou Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/kuaishou-video-downloader/"
-        },
-        {
-          "name": "Haokan Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/haokan-video-downloader/"
         },
         {
           "name": "Bilibili Video Downloader",
           "canonicalUrl": "https://simpletoolset.com/en/social-tools/bilibili-video-downloader/"
         },
         {
-          "name": "YouTube Thumbnail Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/youtube-thumbnail-downloader/"
+          "name": "Video MD5 Changer",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/video-md5-changer/"
+        },
+        {
+          "name": "UTM Link Builder",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/utm-link-builder/"
+        },
+        {
+          "name": "URL Parser",
+          "canonicalUrl": "https://simpletoolset.com/en/network-tools/url-parser/"
         }
       ],
       "lastReviewed": "2026-06-05",
-      "answerReadySummary": "SimpleToolset Rednote Video Downloader is a browser-based tool to fetch download-ready video links from Rednote/Xiaohongshu posts. It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator backups. Use it for quick checks and exports; review important results before relying on them."
+      "answerReadySummary": "SimpleToolset Rednote Video Downloader is a browser-based tool to fetch download-ready video links from Rednote/Xiaohongshu posts. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator archive. Use it for quick checks and exports; review important results before relying on them."
     },
     {
       "slug": "acfun-video-downloader",
@@ -9083,25 +9575,25 @@
       "category": "social-tools",
       "url": "https://simpletoolset.com/en/social-tools/acfun-video-downloader/",
       "canonicalUrl": "https://simpletoolset.com/en/social-tools/acfun-video-downloader/",
-      "description": "SimpleToolset AcFun Video Downloader is a browser-based tool to get download links from AcFun video posts (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator backups. Use it for quick checks and exports; review important results before relying on them.",
+      "description": "SimpleToolset AcFun Video Downloader is a browser-based tool to get download links from AcFun video posts (best-effort). It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for anime clip review. Use it for quick checks and exports; review important results before relying on them.",
       "primaryUseCase": "Get download links from AcFun video posts (best-effort).",
       "inputs": [
+        "GIF or animation files and size targets",
         "Video files, media settings, or public media URLs",
-        "URLs, links, IPs, user-agent strings, or network values",
-        "Text pasted or typed into the browser"
+        "URLs, links, IPs, user-agent strings, or network values"
       ],
       "outputs": [
+        "Optimized or converted animation file",
         "Parsed URL parts, diagnostics, tracking link, or lookup result",
-        "Cleaned, generated, counted, or reformatted text",
-        "Formatted social copy, title ideas, tags, or downloadable public media"
+        "Cleaned, generated, counted, or reformatted text"
       ],
       "runsLocally": false,
       "uploadsToServer": false,
       "bestFor": [
-        "Creator backups",
-        "Archive your own public videos",
-        "Content repurposing",
-        "Prepare edits for other platforms"
+        "Anime clip review",
+        "Collect public clips for internal notes while preserving the AcFun source page",
+        "Creator backup",
+        "Save your own public AcFun uploads before editing or reorganizing assets"
       ],
       "limitations": [
         "Public media or platform data can be restricted by the source site or network access",
@@ -9110,28 +9602,28 @@
       ],
       "relatedTools": [
         {
-          "name": "Xigua Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/xigua-video-downloader/"
-        },
-        {
-          "name": "Kuaishou Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/kuaishou-video-downloader/"
-        },
-        {
-          "name": "Haokan Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/haokan-video-downloader/"
-        },
-        {
           "name": "Bilibili Video Downloader",
           "canonicalUrl": "https://simpletoolset.com/en/social-tools/bilibili-video-downloader/"
         },
         {
-          "name": "Rednote Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/rednote-video-downloader/"
+          "name": "Xigua Video Downloader",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/xigua-video-downloader/"
+        },
+        {
+          "name": "Video to GIF",
+          "canonicalUrl": "https://simpletoolset.com/en/gif-tools/video-to-gif/"
+        },
+        {
+          "name": "URL Parser",
+          "canonicalUrl": "https://simpletoolset.com/en/network-tools/url-parser/"
+        },
+        {
+          "name": "In-Browser Video Transcoder",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/in-browser-video-transcoder/"
         }
       ],
       "lastReviewed": "2026-06-05",
-      "answerReadySummary": "SimpleToolset AcFun Video Downloader is a browser-based tool to get download links from AcFun video posts (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator backups. Use it for quick checks and exports; review important results before relying on them."
+      "answerReadySummary": "SimpleToolset AcFun Video Downloader is a browser-based tool to get download links from AcFun video posts (best-effort). It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for anime clip review. Use it for quick checks and exports; review important results before relying on them."
     },
     {
       "slug": "xigua-video-downloader",
@@ -9141,7 +9633,7 @@
       "category": "social-tools",
       "url": "https://simpletoolset.com/en/social-tools/xigua-video-downloader/",
       "canonicalUrl": "https://simpletoolset.com/en/social-tools/xigua-video-downloader/",
-      "description": "SimpleToolset Xigua Video Downloader is a browser-based tool to get download links from Xigua Video posts (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator backups. Use it for quick checks and exports; review important results before relying on them.",
+      "description": "SimpleToolset Xigua Video Downloader is a browser-based tool to get download links from Xigua Video posts (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for regional campaign QA. Use it for quick checks and exports; review important results before relying on them.",
       "primaryUseCase": "Get download links from Xigua Video posts (best-effort).",
       "inputs": [
         "Video files, media settings, or public media URLs",
@@ -9156,10 +9648,10 @@
       "runsLocally": false,
       "uploadsToServer": false,
       "bestFor": [
-        "Creator backups",
-        "Archive your own public videos",
-        "Content repurposing",
-        "Prepare edits for other platforms"
+        "Regional campaign QA",
+        "Check public Xigua assets against a launch tracker before handoff",
+        "Editorial archive",
+        "Save approved long-form video references with original URLs"
       ],
       "limitations": [
         "Public media or platform data can be restricted by the source site or network access",
@@ -9168,28 +9660,28 @@
       ],
       "relatedTools": [
         {
-          "name": "AcFun Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/acfun-video-downloader/"
-        },
-        {
-          "name": "Kuaishou Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/kuaishou-video-downloader/"
-        },
-        {
           "name": "Haokan Video Downloader",
           "canonicalUrl": "https://simpletoolset.com/en/social-tools/haokan-video-downloader/"
         },
         {
-          "name": "Bilibili Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/bilibili-video-downloader/"
-        },
-        {
           "name": "Rednote Video Downloader",
           "canonicalUrl": "https://simpletoolset.com/en/social-tools/rednote-video-downloader/"
+        },
+        {
+          "name": "In-Browser Video Transcoder",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/in-browser-video-transcoder/"
+        },
+        {
+          "name": "Video MD5 Changer",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/video-md5-changer/"
+        },
+        {
+          "name": "URL Parser",
+          "canonicalUrl": "https://simpletoolset.com/en/network-tools/url-parser/"
         }
       ],
       "lastReviewed": "2026-06-05",
-      "answerReadySummary": "SimpleToolset Xigua Video Downloader is a browser-based tool to get download links from Xigua Video posts (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator backups. Use it for quick checks and exports; review important results before relying on them."
+      "answerReadySummary": "SimpleToolset Xigua Video Downloader is a browser-based tool to get download links from Xigua Video posts (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for regional campaign QA. Use it for quick checks and exports; review important results before relying on them."
     },
     {
       "slug": "kuaishou-video-downloader",
@@ -9199,7 +9691,7 @@
       "category": "social-tools",
       "url": "https://simpletoolset.com/en/social-tools/kuaishou-video-downloader/",
       "canonicalUrl": "https://simpletoolset.com/en/social-tools/kuaishou-video-downloader/",
-      "description": "SimpleToolset Kuaishou Video Downloader is a browser-based tool to get download links from Kuaishou videos (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator backups. Use it for quick checks and exports; review important results before relying on them.",
+      "description": "SimpleToolset Kuaishou Video Downloader is a browser-based tool to get download links from Kuaishou videos (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator-owned backup. Use it for quick checks and exports; review important results before relying on them.",
       "primaryUseCase": "Get download links from Kuaishou videos (best-effort).",
       "inputs": [
         "Video files, media settings, or public media URLs",
@@ -9214,10 +9706,10 @@
       "runsLocally": false,
       "uploadsToServer": false,
       "bestFor": [
-        "Creator backups",
-        "Archive your own public videos",
-        "Content repurposing",
-        "Prepare edits for other platforms"
+        "Creator-owned backup",
+        "Save your own short posts before deleting drafts or rebuilding campaigns",
+        "UGC approval folders",
+        "Collect permitted creator clips with source URLs and usage notes"
       ],
       "limitations": [
         "Public media or platform data can be restricted by the source site or network access",
@@ -9226,28 +9718,28 @@
       ],
       "relatedTools": [
         {
-          "name": "AcFun Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/acfun-video-downloader/"
-        },
-        {
-          "name": "Xigua Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/xigua-video-downloader/"
-        },
-        {
-          "name": "Haokan Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/haokan-video-downloader/"
-        },
-        {
-          "name": "Bilibili Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/bilibili-video-downloader/"
-        },
-        {
           "name": "Rednote Video Downloader",
           "canonicalUrl": "https://simpletoolset.com/en/social-tools/rednote-video-downloader/"
+        },
+        {
+          "name": "Video MD5 Changer",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/video-md5-changer/"
+        },
+        {
+          "name": "In-Browser Video Transcoder",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/in-browser-video-transcoder/"
+        },
+        {
+          "name": "Social Bio Generator",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/social-bio-generator/"
+        },
+        {
+          "name": "URL Parser",
+          "canonicalUrl": "https://simpletoolset.com/en/network-tools/url-parser/"
         }
       ],
       "lastReviewed": "2026-06-05",
-      "answerReadySummary": "SimpleToolset Kuaishou Video Downloader is a browser-based tool to get download links from Kuaishou videos (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator backups. Use it for quick checks and exports; review important results before relying on them."
+      "answerReadySummary": "SimpleToolset Kuaishou Video Downloader is a browser-based tool to get download links from Kuaishou videos (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator-owned backup. Use it for quick checks and exports; review important results before relying on them."
     },
     {
       "slug": "haokan-video-downloader",
@@ -9257,7 +9749,7 @@
       "category": "social-tools",
       "url": "https://simpletoolset.com/en/social-tools/haokan-video-downloader/",
       "canonicalUrl": "https://simpletoolset.com/en/social-tools/haokan-video-downloader/",
-      "description": "SimpleToolset Haokan Video Downloader is a browser-based tool to get download links from Haokan Video posts (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator backups. Use it for quick checks and exports; review important results before relying on them.",
+      "description": "SimpleToolset Haokan Video Downloader is a browser-based tool to get download links from Haokan Video posts (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for knowledge-base media. Use it for quick checks and exports; review important results before relying on them.",
       "primaryUseCase": "Get download links from Haokan Video posts (best-effort).",
       "inputs": [
         "Video files, media settings, or public media URLs",
@@ -9272,10 +9764,10 @@
       "runsLocally": false,
       "uploadsToServer": false,
       "bestFor": [
-        "Creator backups",
-        "Archive your own public videos",
-        "Content repurposing",
-        "Prepare edits for other platforms"
+        "Knowledge-base media",
+        "Collect approved explainer clips for help docs or internal training",
+        "Editorial reference",
+        "Verify the exact Haokan source before citing or reviewing a clip"
       ],
       "limitations": [
         "Public media or platform data can be restricted by the source site or network access",
@@ -9284,28 +9776,28 @@
       ],
       "relatedTools": [
         {
-          "name": "AcFun Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/acfun-video-downloader/"
-        },
-        {
           "name": "Xigua Video Downloader",
           "canonicalUrl": "https://simpletoolset.com/en/social-tools/xigua-video-downloader/"
-        },
-        {
-          "name": "Kuaishou Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/kuaishou-video-downloader/"
         },
         {
           "name": "Bilibili Video Downloader",
           "canonicalUrl": "https://simpletoolset.com/en/social-tools/bilibili-video-downloader/"
         },
         {
-          "name": "Rednote Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/rednote-video-downloader/"
+          "name": "URL Parser",
+          "canonicalUrl": "https://simpletoolset.com/en/network-tools/url-parser/"
+        },
+        {
+          "name": "Private Voice-to-Text (Whisper Web)",
+          "canonicalUrl": "https://simpletoolset.com/en/ai-local-tools/private-voice-to-text/"
+        },
+        {
+          "name": "In-Browser Video Transcoder",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/in-browser-video-transcoder/"
         }
       ],
       "lastReviewed": "2026-06-05",
-      "answerReadySummary": "SimpleToolset Haokan Video Downloader is a browser-based tool to get download links from Haokan Video posts (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator backups. Use it for quick checks and exports; review important results before relying on them."
+      "answerReadySummary": "SimpleToolset Haokan Video Downloader is a browser-based tool to get download links from Haokan Video posts (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for knowledge-base media. Use it for quick checks and exports; review important results before relying on them."
     },
     {
       "slug": "bilibili-video-downloader",
@@ -9315,7 +9807,7 @@
       "category": "social-tools",
       "url": "https://simpletoolset.com/en/social-tools/bilibili-video-downloader/",
       "canonicalUrl": "https://simpletoolset.com/en/social-tools/bilibili-video-downloader/",
-      "description": "SimpleToolset Bilibili Video Downloader is a browser-based tool to get download links from Bilibili videos (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator backups. Use it for quick checks and exports; review important results before relying on them.",
+      "description": "SimpleToolset Bilibili Video Downloader is a browser-based tool to get download links from Bilibili videos (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator backup. Use it for quick checks and exports; review important results before relying on them.",
       "primaryUseCase": "Get download links from Bilibili videos (best-effort).",
       "inputs": [
         "Video files, media settings, or public media URLs",
@@ -9330,10 +9822,10 @@
       "runsLocally": false,
       "uploadsToServer": false,
       "bestFor": [
-        "Creator backups",
-        "Archive your own public videos",
-        "Content repurposing",
-        "Prepare edits for other platforms"
+        "Creator backup",
+        "Archive your own public Bilibili uploads with page IDs attached",
+        "Subtitle timing",
+        "Prepare the exact public video version for caption synchronization"
       ],
       "limitations": [
         "Public media or platform data can be restricted by the source site or network access",
@@ -9346,24 +9838,130 @@
           "canonicalUrl": "https://simpletoolset.com/en/social-tools/acfun-video-downloader/"
         },
         {
-          "name": "Xigua Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/xigua-video-downloader/"
-        },
-        {
-          "name": "Kuaishou Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/kuaishou-video-downloader/"
-        },
-        {
           "name": "Haokan Video Downloader",
           "canonicalUrl": "https://simpletoolset.com/en/social-tools/haokan-video-downloader/"
         },
         {
-          "name": "Rednote Video Downloader",
-          "canonicalUrl": "https://simpletoolset.com/en/social-tools/rednote-video-downloader/"
+          "name": "Private Voice-to-Text (Whisper Web)",
+          "canonicalUrl": "https://simpletoolset.com/en/ai-local-tools/private-voice-to-text/"
+        },
+        {
+          "name": "In-Browser Video Transcoder",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/in-browser-video-transcoder/"
+        },
+        {
+          "name": "Video to GIF",
+          "canonicalUrl": "https://simpletoolset.com/en/gif-tools/video-to-gif/"
         }
       ],
       "lastReviewed": "2026-06-05",
-      "answerReadySummary": "SimpleToolset Bilibili Video Downloader is a browser-based tool to get download links from Bilibili videos (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator backups. Use it for quick checks and exports; review important results before relying on them."
+      "answerReadySummary": "SimpleToolset Bilibili Video Downloader is a browser-based tool to get download links from Bilibili videos (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator backup. Use it for quick checks and exports; review important results before relying on them."
+    },
+    {
+      "slug": "video-md5-changer",
+      "name": "Video MD5 Changer",
+      "toolName": "Video MD5 Changer",
+      "title": "Video MD5 Changer - Change Video Hash Online",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/video-md5-changer/",
+      "canonicalUrl": "https://simpletoolset.com/en/social-tools/video-md5-changer/",
+      "description": "SimpleToolset Video MD5 Changer is a browser-based tool to change video file hash without affecting playback. It accepts video files, media settings, or public media URLs and returns formatted social copy, title ideas, tags, or downloadable public media. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for storage testing. Use it for quick checks and exports; review important results before relying on them.",
+      "primaryUseCase": "Change video file hash without affecting playback.",
+      "inputs": [
+        "Video files, media settings, or public media URLs",
+        "Caption, post idea, platform settings, or public media URL"
+      ],
+      "outputs": [
+        "Formatted social copy, title ideas, tags, or downloadable public media"
+      ],
+      "runsLocally": true,
+      "uploadsToServer": false,
+      "bestFor": [
+        "Storage testing",
+        "Validate deduping behavior in systems",
+        "Asset management",
+        "Create distinct files for tracking"
+      ],
+      "limitations": [
+        "Public media or platform data can be restricted by the source site or network access",
+        "Very large inputs can be limited by browser memory, device speed, or file support",
+        "Review outputs before using them in sensitive, regulated, or high-stakes workflows"
+      ],
+      "relatedTools": [
+        {
+          "name": "Hashtag Generator (Basic)",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/hashtag-generator-basic/"
+        },
+        {
+          "name": "Line Break Formatter",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/line-break-formatter/"
+        },
+        {
+          "name": "Emoji Text Decorator",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/emoji-text-decorator/"
+        },
+        {
+          "name": "Social Post Scheduler Helper",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/social-post-scheduler-helper/"
+        }
+      ],
+      "lastReviewed": "2026-06-05",
+      "answerReadySummary": "SimpleToolset Video MD5 Changer is a browser-based tool to change video file hash without affecting playback. It accepts video files, media settings, or public media URLs and returns formatted social copy, title ideas, tags, or downloadable public media. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for storage testing. Use it for quick checks and exports; review important results before relying on them."
+    },
+    {
+      "slug": "video-compressor-for-social",
+      "name": "Social Video Compressor",
+      "toolName": "Social Video Compressor",
+      "title": "Social Video Compressor",
+      "category": "social-tools",
+      "url": "https://simpletoolset.com/en/social-tools/video-compressor-for-social/",
+      "canonicalUrl": "https://simpletoolset.com/en/social-tools/video-compressor-for-social/",
+      "description": "Social Video Compressor is a browser-based SimpleToolset tool for compress videos locally with size-minded presets for social sharing. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast social tools tasks without an account or unnecessary server upload. Review important outputs before using them in production.",
+      "primaryUseCase": "Compress videos locally with size-minded presets for social sharing",
+      "inputs": [
+        "Text, file, image, document, or settings entered in the browser"
+      ],
+      "outputs": [
+        "Cleaned, converted, generated, previewed, or downloadable result"
+      ],
+      "runsLocally": true,
+      "uploadsToServer": false,
+      "bestFor": [
+        "Compress videos locally with size-minded presets for social sharing",
+        "Quick browser-side work without signing in"
+      ],
+      "limitations": [
+        "Browser support, file size, and device performance can affect results",
+        "Review outputs before using them in sensitive or high-stakes workflows"
+      ],
+      "relatedTools": [
+        {
+          "name": "Instagram Caption Spacer",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/instagram-caption-spacer/"
+        },
+        {
+          "name": "YouTube Thumbnail Downloader",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/youtube-thumbnail-downloader/"
+        },
+        {
+          "name": "Twitter/X Character Counter",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/twitter-character-counter/"
+        },
+        {
+          "name": "Word Cloud Generator",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/word-cloud-generator/"
+        },
+        {
+          "name": "UTM Link Builder",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/utm-link-builder/"
+        },
+        {
+          "name": "Open Graph Previewer",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/open-graph-meta-preview/"
+        }
+      ],
+      "lastReviewed": "2026-08-12",
+      "answerReadySummary": "Social Video Compressor is a browser-based SimpleToolset tool for compress videos locally with size-minded presets for social sharing. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast social tools tasks without an account or unnecessary server upload. Review important outputs before using them in production."
     },
     {
       "slug": "in-browser-video-transcoder",
@@ -9399,6 +9997,10 @@
         "Review outputs before using them in sensitive, regulated, or high-stakes workflows"
       ],
       "relatedTools": [
+        {
+          "name": "Video MD5 Changer",
+          "canonicalUrl": "https://simpletoolset.com/en/social-tools/video-md5-changer/"
+        },
         {
           "name": "Video to GIF",
           "canonicalUrl": "https://simpletoolset.com/en/gif-tools/video-to-gif/"

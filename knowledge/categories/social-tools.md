@@ -4,7 +4,7 @@ description: "Free social media tools for creators and marketers. Format caption
 canonical: "https://simpletoolset.com/en/social-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Social Media Tools
@@ -43,9 +43,9 @@ This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - [Twitter/X Character Counter](../tools/twitter-character-counter.md)
 - [Word Cloud Generator](../tools/word-cloud-generator.md)
 - [UTM Link Builder](../tools/utm-link-builder.md)
+- [Open Graph Previewer](../tools/open-graph-meta-preview.md)
 - [Hashtag Generator (Basic)](../tools/hashtag-generator-basic.md)
 - [Hashtag Counter](../tools/hashtag-counter.md)
-- [Social Bio Generator](../tools/social-bio-generator.md)
 
 ## Internal links
 

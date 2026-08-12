@@ -9,7 +9,7 @@ cluster_id: "image-optimization"
 cluster_title: "Image optimization"
 intent: "website image compression"
 audience: "site owners, bloggers, and web teams"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Compress Images for Web Performance
@@ -30,7 +30,9 @@ This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - WebP: best all-around compression
 - JPEG: good for photos
 - PNG: use only when transparency is required
-- Use a predictable workflow
+- Resize the image to the smallest dimensions it will visibly need on the page.
+- Compress the resized file and preview it at the target quality level.
+- Convert to WebP when browser support and publishing workflow allow it.
 
 ## How to use
 

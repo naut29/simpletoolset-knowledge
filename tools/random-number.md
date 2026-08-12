@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "utility-tools"
 tool_slug: "random-number"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Random Number Generator - Generate Random Numbers Free

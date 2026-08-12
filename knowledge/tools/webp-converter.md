@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "design-tools"
 tool_slug: "webp-converter"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # WebP Converter - Convert WebP to PNG/JPG Free

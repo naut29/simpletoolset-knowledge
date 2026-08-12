@@ -9,7 +9,7 @@ cluster_id: "pdf-workflows"
 cluster_title: "PDF workflows"
 intent: "email-ready PDF splitting"
 audience: "office teams, client services, and document reviewers"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Split PDFs to Meet Email Size Limits Online

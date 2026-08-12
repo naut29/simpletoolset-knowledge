@@ -4,7 +4,7 @@ description: "Free online PDF tools. Merge, split, rotate PDFs and convert betwe
 canonical: "https://simpletoolset.com/en/pdf-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # PDF Tools

@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "strikethrough-text"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Strikethrough Text Generator - Cross Out Text Free
@@ -27,6 +27,7 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - One-click copy
 - Preserves original characters
 - No login required
+- Handles words, captions, jokes, edits, or short notes that need crossed-out styling.
 
 ## How to use
 

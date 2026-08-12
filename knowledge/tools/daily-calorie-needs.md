@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "health-fitness"
 tool_slug: "daily-calorie-needs"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Daily Calorie Needs Calculator (TDEE)

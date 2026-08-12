@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "upside-down-text"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Upside Down Text Generator - Flip Text Online Free
@@ -27,6 +27,7 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - One-click copy
 - No sign-up required
 - Works in modern browsers
+- Handles short phrases, captions, usernames, jokes, or decorative messages.
 
 ## How to use
 

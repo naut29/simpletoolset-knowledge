@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "design-tools"
 tool_slug: "css-gradient-generator"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # CSS Gradient Generator - Create Beautiful Gradients

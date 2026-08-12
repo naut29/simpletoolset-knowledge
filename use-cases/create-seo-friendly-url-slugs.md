@@ -9,7 +9,7 @@ cluster_id: "marketing-links"
 cluster_title: "Marketing links"
 intent: "search-friendly URL preparation"
 audience: "SEO editors, publishers, and developers"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Create SEO-Friendly URL Slugs Online - Free Browser Tools

@@ -1,12 +1,12 @@
 ---
 title: "Google SERP Simulator - Preview Titles & Descriptions Free"
-description: "SimpleToolset Google SERP Simulator is a browser-based tool to preview how Meta Titles and Descriptions appear on Google Search results. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for content launches. Use it for quick checks and exports; review important results before relying on them."
+description: "SimpleToolset Google SERP Simulator is a browser-based tool to preview how Meta Titles and Descriptions appear on Google Search results. It accepts URLs, links, IPs, user-agent strings, or network values and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for content launches. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/text-tools/serp-simulator/"
 lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "serp-simulator"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Google SERP Simulator - Preview Titles & Descriptions Free
@@ -27,6 +27,7 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - Clean SERP-style layout
 - Copy-ready output
 - No account required
+- Handles SEO title, meta description, URL, and page context for a search result preview.
 
 ## How to use
 

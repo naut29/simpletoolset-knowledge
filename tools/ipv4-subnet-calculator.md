@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "network-tools"
 tool_slug: "ipv4-subnet-calculator"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # IPv4 Subnet Calculator - Network & Broadcast Details

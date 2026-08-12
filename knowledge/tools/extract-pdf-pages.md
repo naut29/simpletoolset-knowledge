@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "extract-pdf-pages"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Extract PDF Pages - Save Selected Pages Free

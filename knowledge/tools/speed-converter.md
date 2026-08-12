@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "unit-converters"
 tool_slug: "speed-converter"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Speed Converter - m/s, km/h, mph, knot
@@ -27,6 +27,7 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - Swap and reset controls
 - Instant results
 - Client-side conversions
+- Handles kilometers per hour, miles per hour, meters per second, knots, or other speed units.
 
 ## How to use
 

@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "developer-tools"
 tool_slug: "sql-formatter"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # SQL Formatter - Beautify SQL Queries Free
@@ -25,6 +25,9 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - Smart indentation
 - Multi-statement support
 - Quick formatting
+- Handles SQL queries, joins, filters, subqueries, or copied database statements.
+- Produces formatted SQL with indentation and line breaks that make the query easier to review.
+- Includes workflow checks for sql and formatter use cases.
 
 ## How to use
 

@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "developer-tools"
 tool_slug: "js-obfuscator"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # JavaScript Obfuscator - Protect Your JS Code
@@ -25,6 +25,9 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - Code minification
 - Comment removal
 - Whitespace compression
+- Handles JavaScript code snippets or browser-side scripts prepared for light source hiding.
+- Produces obfuscated JavaScript that is harder to read while preserving intended behavior.
+- Includes workflow checks for javascript and obfuscator use cases.
 
 ## How to use
 

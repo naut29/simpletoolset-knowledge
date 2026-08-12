@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "markdown-to-html"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Markdown to HTML Converter - Free Online Tool
@@ -27,6 +27,7 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - One-click copy
 - Fast text processing for daily cleanup tasks
 - Flexible formatting and conversion options
+- Handles Markdown headings, lists, links, code fences, tables, and formatted notes.
 
 ## How to use
 

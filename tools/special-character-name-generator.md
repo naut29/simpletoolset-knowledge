@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "special-character-name-generator"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Special Character Name Generator - Fancy Nicknames for Games
@@ -27,6 +27,7 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - 120+ presets with game and style filters
 - Search, random pick, and copy-all actions
 - Runs entirely in your browser
+- Handles names, handles, profile labels, captions, and plain text that needs decorative characters.
 
 ## How to use
 

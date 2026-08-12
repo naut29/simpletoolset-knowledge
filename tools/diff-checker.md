@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "diff-checker"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Diff Checker - Compare Two Texts Online Free
@@ -27,6 +27,7 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - Swap text feature
 - Fast text processing for daily cleanup tasks
 - Flexible formatting and conversion options
+- Handles two text blocks, drafts, configuration snippets, or copied document sections.
 
 ## How to use
 

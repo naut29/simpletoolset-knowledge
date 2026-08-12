@@ -1,12 +1,12 @@
 ---
 title: "GIF Resizer - Change GIF Dimensions Online"
-description: "SimpleToolset GIF Resizer is a browser-based tool to resize animated GIFs to any dimensions. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Discord. Use it for quick checks and exports; review important results before relying on them."
+description: "SimpleToolset GIF Resizer is a browser-based tool to resize animated GIFs to any dimensions. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for social publishing. Use it for quick checks and exports; review important results before relying on them."
 canonical: "https://simpletoolset.com/en/gif-tools/gif-resizer/"
 lang: "en"
 type: "tool"
 category: "gif-tools"
 tool_slug: "gif-resizer"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # GIF Resizer - Change GIF Dimensions Online

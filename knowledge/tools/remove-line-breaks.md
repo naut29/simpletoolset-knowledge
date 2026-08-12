@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "remove-line-breaks"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Remove Line Breaks - Clean Up Text Online Free
@@ -27,6 +27,7 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - Statistics display
 - Fast text processing for daily cleanup tasks
 - Flexible formatting and conversion options
+- Handles pasted text with unwanted newlines from PDFs, emails, forms, or copied documents.
 
 ## How to use
 

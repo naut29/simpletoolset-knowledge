@@ -4,7 +4,7 @@ description: "Free online developer tools. Format XML, JSON, SQL, test regex, de
 canonical: "https://simpletoolset.com/en/developer-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Developer Tools
@@ -41,12 +41,12 @@ This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 
 - [XML Formatter](../tools/xml-formatter.md)
 - [YAML to JSON Converter](../tools/yaml-to-json.md)
+- [JSON Formatter](../tools/json-formatter-validator.md)
 - [SQL Formatter](../tools/sql-formatter.md)
 - [JavaScript Obfuscator](../tools/js-obfuscator.md)
 - [Regex Tester](../tools/regex-tester.md)
 - [JWT Decoder](../tools/jwt-decoder.md)
 - [Crontab Generator](../tools/crontab-generator.md)
-- [JSON to CSV Converter](../tools/json-to-csv.md)
 
 ## Internal links
 

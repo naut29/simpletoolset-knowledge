@@ -9,7 +9,7 @@ cluster_id: "image-optimization"
 cluster_title: "Image optimization"
 intent: "product image preparation"
 audience: "ecommerce teams, marketplace sellers, and catalog managers"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Prepare Product Images for Ecommerce Online

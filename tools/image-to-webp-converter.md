@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "image-to-webp-converter"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Image to WebP Converter - Fast WebP Export
@@ -26,6 +26,8 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - Instant preview and download
 - Client-side processing
 - No file size limits
+- Handles JPG, PNG, or other web images that need modern browser-friendly output.
+- Produces a WebP image file optimized for web delivery and smaller payloads.
 
 ## How to use
 

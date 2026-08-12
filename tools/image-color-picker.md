@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "image-color-picker"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Image Color Picker - Get HEX & RGB from Images
@@ -26,6 +26,8 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - Works with any image
 - Instant results
 - Client-side privacy
+- Handles an uploaded image, screenshot, product photo, or design reference.
+- Produces sampled color values such as HEX or RGB that can be reused in design work.
 
 ## How to use
 

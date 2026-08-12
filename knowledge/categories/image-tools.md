@@ -4,7 +4,7 @@ description: "Free online image tools. Compress, resize, and crop images without
 canonical: "https://simpletoolset.com/en/image-tools/"
 lang: "en"
 type: "category"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Image Tools
@@ -45,8 +45,8 @@ This page is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - [Text to Image Generator](../tools/text-to-image.md)
 - [Image Format Converter](../tools/image-format-converter.md)
 - [Image to WebP Converter](../tools/image-to-webp-converter.md)
-- [Image Background Remover (Basic)](../tools/image-background-remover-basic.md)
-- [Image Color Picker](../tools/image-color-picker.md)
+- [HEIC to JPG/PNG Converter](../tools/heic-to-jpg-png.md)
+- [AVIF Converter](../tools/avif-converter.md)
 
 ## Internal links
 

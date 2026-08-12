@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "twitter-x-thread-splitter"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # Twitter/X Thread Splitter - Split Long Posts

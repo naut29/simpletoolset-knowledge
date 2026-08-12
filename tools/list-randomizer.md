@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "list-randomizer"
-date_generated: "2026-06-05T07:19:39.009Z"
+date_generated: "2026-08-12T09:07:37.917Z"
 ---
 
 # List Randomizer - Shuffle Lists Online Free
@@ -27,6 +27,7 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 - One-click copy
 - No sign-up required
 - Browser-based privacy
+- Handles names, tasks, ideas, teams, rows, or any newline-separated list.
 
 ## How to use
 
