@@ -1,12 +1,12 @@
 ---
 title: "PDF Page Numbering - Add Page Numbers Online Free"
 description: "SimpleToolset PDF Page Numbering is a browser-based tool to add page numbers to your PDF document. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for legal packets. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/pdf-tools/pdf-page-numbering/"
+canonical: "https://simpletoolset.com/en/pdf-tools/pdf-page-numbering"
 lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "pdf-page-numbering"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # PDF Page Numbering - Add Page Numbers Online Free

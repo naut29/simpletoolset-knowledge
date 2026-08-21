@@ -1,12 +1,12 @@
 ---
 title: "Local AI Spam & Phishing Detector - Free Online Tool"
 description: "SimpleToolset Local AI Spam & Phishing Detector helps you analyze suspicious emails and messages locally in your browser with a BERT-based phishing classifier and private link checks. It accepts URLs, links, IPs, user-agent strings, or network values and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow runs locally in the browser and does not require an account or app-server upload. It is best for inbox triage. Review important outputs before relying on them."
-canonical: "https://simpletoolset.com/en/ai-local-tools/local-ai-spam-phishing-detector/"
+canonical: "https://simpletoolset.com/en/ai-local-tools/local-ai-spam-phishing-detector"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "local-ai-spam-phishing-detector"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Local AI Spam & Phishing Detector - Free Online Tool

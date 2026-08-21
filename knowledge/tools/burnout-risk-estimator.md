@@ -1,12 +1,12 @@
 ---
 title: "Burnout Risk Estimator - Risk % and Warning Level"
 description: "SimpleToolset Burnout Risk Estimator is a browser-based tool to estimate burnout risk using weekly hours. It accepts self-assessment answers, lifestyle notes, or planning inputs and returns personalized analysis, score, or structured checklist. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for project deadline check. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/life-tools/burnout-risk-estimator/"
+canonical: "https://simpletoolset.com/en/life-tools/burnout-risk-estimator"
 lang: "en"
 type: "tool"
 category: "life-tools"
 tool_slug: "burnout-risk-estimator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Burnout Risk Estimator - Risk % and Warning Level

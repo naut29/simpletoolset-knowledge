@@ -1,12 +1,12 @@
 ---
 title: "Local AI Grammar Checker - Private Browser Proofreading with FLAN-T5"
 description: "SimpleToolset Local AI Grammar Checker is a browser-based tool to fix grammar. It accepts text pasted or typed into the browser and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for private email cleanup. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/ai-local-tools/local-ai-grammar-checker/"
+canonical: "https://simpletoolset.com/en/ai-local-tools/local-ai-grammar-checker"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "local-ai-grammar-checker"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Local AI Grammar Checker - Private Browser Proofreading with FLAN-T5

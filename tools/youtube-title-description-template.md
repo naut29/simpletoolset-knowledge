@@ -1,12 +1,12 @@
 ---
 title: "YouTube Title & Description Template - Quick Ideas"
 description: "SimpleToolset YouTube Title & Description Template is a browser-based tool to generate title ideas and description blocks from a topic. It accepts video files, media settings, or public media URLs and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for channel consistency. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/social-tools/youtube-title-description-template/"
+canonical: "https://simpletoolset.com/en/social-tools/youtube-title-description-template"
 lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "youtube-title-description-template"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # YouTube Title & Description Template - Quick Ideas

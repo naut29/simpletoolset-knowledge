@@ -1,10 +1,10 @@
 ---
 title: "Image Tools"
 description: "Free online image tools. Compress, resize, and crop images without losing quality. No upload to servers - all processing in your browser. Explore tools and guides that"
-canonical: "https://simpletoolset.com/en/image-tools/"
+canonical: "https://simpletoolset.com/en/image-tools"
 lang: "en"
 type: "category"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Image Tools

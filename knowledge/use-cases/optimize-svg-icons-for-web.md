@@ -1,7 +1,7 @@
 ---
 title: "Optimize SVG Icons for the Web Online - Free Browser Tools"
 description: "Optimize SVG icons, check contrast, convert inline assets, and prepare consistent icon dimensions for web interfaces with free browser tools."
-canonical: "https://simpletoolset.com/en/use-cases/optimize-svg-icons-for-web/"
+canonical: "https://simpletoolset.com/en/use-cases/optimize-svg-icons-for-web"
 lang: "en"
 type: "use-case"
 category: "design-tools"
@@ -9,7 +9,7 @@ cluster_id: "design-assets"
 cluster_title: "Design assets"
 intent: "SVG icon optimization"
 audience: "frontend developers, designers, and design system teams"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Optimize SVG Icons for the Web Online - Free Browser Tools

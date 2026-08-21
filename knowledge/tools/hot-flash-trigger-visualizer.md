@@ -1,12 +1,12 @@
 ---
 title: "Hot Flash Trigger Visualizer - Private Local Hot Flash Tracker"
 description: "SimpleToolset Hot Flash Trigger Visualizer is a browser-based tool to track hot flashes and review caffeine. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for private menopause trigger journal. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/health-fitness/hot-flash-trigger-visualizer/"
+canonical: "https://simpletoolset.com/en/health-fitness/hot-flash-trigger-visualizer"
 lang: "en"
 type: "tool"
 category: "health-fitness"
 tool_slug: "hot-flash-trigger-visualizer"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Hot Flash Trigger Visualizer - Private Local Hot Flash Tracker

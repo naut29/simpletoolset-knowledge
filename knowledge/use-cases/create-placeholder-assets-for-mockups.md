@@ -1,7 +1,7 @@
 ---
 title: "Create Placeholder Assets for Mockups Online"
 description: "Generate placeholder images, lorem ipsum text, gradients, and color shades for wireframes, mockups, and prototypes with free browser tools. Use this guide with related"
-canonical: "https://simpletoolset.com/en/use-cases/create-placeholder-assets-for-mockups/"
+canonical: "https://simpletoolset.com/en/use-cases/create-placeholder-assets-for-mockups"
 lang: "en"
 type: "use-case"
 category: "design-tools"
@@ -9,7 +9,7 @@ cluster_id: "design-assets"
 cluster_title: "Design assets"
 intent: "mockup asset preparation"
 audience: "designers, product managers, and frontend teams"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Create Placeholder Assets for Mockups Online

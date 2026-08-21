@@ -1,12 +1,12 @@
 ---
 title: "In-Browser AI Translator - Private Local Translation with M2M100"
 description: "SimpleToolset In-Browser AI Translator is a browser-based tool to translate text and lightweight documents locally in your browser with a private M2M100 workflow. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for private internal translation. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/ai-local-tools/in-browser-ai-translator/"
+canonical: "https://simpletoolset.com/en/ai-local-tools/in-browser-ai-translator"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "in-browser-ai-translator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # In-Browser AI Translator - Private Local Translation with M2M100

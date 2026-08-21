@@ -1,12 +1,12 @@
 ---
 title: "Remove Duplicate Lines - Free Online Dedupe Tool"
 description: "SimpleToolset Remove Duplicate Lines is a browser-based tool to remove duplicate lines from your text instantly. It accepts text pasted or typed into the browser and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for email lists. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/text-tools/remove-duplicates/"
+canonical: "https://simpletoolset.com/en/text-tools/remove-duplicates"
 lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "remove-duplicates"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Remove Duplicate Lines - Free Online Dedupe Tool

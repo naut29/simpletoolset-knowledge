@@ -1,12 +1,12 @@
 ---
 title: "Motivation Level Estimator - Motivation Index"
 description: "SimpleToolset Motivation Level Estimator is a browser-based tool to estimate motivation from goal clarity. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for study motivation check. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/life-tools/motivation-level-estimator/"
+canonical: "https://simpletoolset.com/en/life-tools/motivation-level-estimator"
 lang: "en"
 type: "tool"
 category: "life-tools"
 tool_slug: "motivation-level-estimator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Motivation Level Estimator - Motivation Index

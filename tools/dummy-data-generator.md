@@ -1,12 +1,12 @@
 ---
 title: "Dummy Data Generator - Create Test Data Fast"
 description: "SimpleToolset Dummy Data Generator is a browser-based tool to generate bulk test data including Names. It accepts text, numbers, links, or settings entered in the browser and returns generated code, random value, QR code, or calculation result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for form testing. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/utility-tools/dummy-data-generator/"
+canonical: "https://simpletoolset.com/en/utility-tools/dummy-data-generator"
 lang: "en"
 type: "tool"
 category: "utility-tools"
 tool_slug: "dummy-data-generator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Dummy Data Generator - Create Test Data Fast

@@ -1,12 +1,12 @@
 ---
 title: "Color Shade Generator - Create Color Palettes"
 description: "SimpleToolset Color Shade Generator is a browser-based tool to generate monochromatic palettes from a base color. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for design system setup. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/design-tools/color-shade-generator/"
+canonical: "https://simpletoolset.com/en/design-tools/color-shade-generator"
 lang: "en"
 type: "tool"
 category: "design-tools"
 tool_slug: "color-shade-generator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Color Shade Generator - Create Color Palettes

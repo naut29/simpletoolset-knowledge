@@ -1,12 +1,12 @@
 ---
 title: "Biological Age Calculator - Longevity Predictor Without Blood Test"
 description: "SimpleToolset Biological Age & Longevity Predictor is a browser-based tool to estimate biological age from resting heart rate. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for monthly fitness check-in. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/health-fitness/biological-age-longevity-predictor/"
+canonical: "https://simpletoolset.com/en/health-fitness/biological-age-longevity-predictor"
 lang: "en"
 type: "tool"
 category: "health-fitness"
 tool_slug: "biological-age-longevity-predictor"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Biological Age Calculator - Longevity Predictor Without Blood Test

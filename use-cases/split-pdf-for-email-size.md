@@ -1,7 +1,7 @@
 ---
 title: "Split PDFs to Meet Email Size Limits Online"
 description: "Split large PDFs, rebuild smaller attachments, convert pages when needed, and package documents for email delivery with free browser tools. Use this guide with related"
-canonical: "https://simpletoolset.com/en/use-cases/split-pdf-for-email-size/"
+canonical: "https://simpletoolset.com/en/use-cases/split-pdf-for-email-size"
 lang: "en"
 type: "use-case"
 category: "pdf-tools"
@@ -9,7 +9,7 @@ cluster_id: "pdf-workflows"
 cluster_title: "PDF workflows"
 intent: "email-ready PDF splitting"
 audience: "office teams, client services, and document reviewers"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Split PDFs to Meet Email Size Limits Online

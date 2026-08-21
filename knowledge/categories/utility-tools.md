@@ -1,10 +1,10 @@
 ---
 title: "Utility & Generators"
 description: "Free online utility tools. Generate QR codes, random numbers, names, UUIDs, and use our basic calculator. Simple tools for everyday needs. Explore tools and guides that"
-canonical: "https://simpletoolset.com/en/utility-tools/"
+canonical: "https://simpletoolset.com/en/utility-tools"
 lang: "en"
 type: "category"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Utility & Generators

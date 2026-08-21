@@ -1,12 +1,12 @@
 ---
 title: "Metric to Imperial Converter - Length, Mass & Volume"
 description: "SimpleToolset Metric to Imperial Converter is a browser-based tool to convert metric and imperial units for length. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for manufacturing drawings. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/unit-converters/metric-to-imperial-converter/"
+canonical: "https://simpletoolset.com/en/unit-converters/metric-to-imperial-converter"
 lang: "en"
 type: "tool"
 category: "unit-converters"
 tool_slug: "metric-to-imperial-converter"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Metric to Imperial Converter - Length, Mass & Volume

@@ -1,12 +1,12 @@
 ---
 title: "GIF Size Checker - Check GIF File Size Online"
 description: "SimpleToolset GIF Size Checker is a browser-based tool to check GIF file size and limits quickly. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for upload preflight. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/gif-tools/gif-size-checker/"
+canonical: "https://simpletoolset.com/en/gif-tools/gif-size-checker"
 lang: "en"
 type: "tool"
 category: "gif-tools"
 tool_slug: "gif-size-checker"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # GIF Size Checker - Check GIF File Size Online

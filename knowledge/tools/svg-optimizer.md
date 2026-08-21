@@ -1,12 +1,12 @@
 ---
 title: "SVG Optimizer - Compress SVG Files Online"
 description: "SimpleToolset SVG Optimizer is a browser-based tool to compress and clean up SVG vector files. It accepts image files, colors, dimensions, or visual settings and returns processed image, preview, CSS, or downloadable visual asset. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for icon libraries. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/design-tools/svg-optimizer/"
+canonical: "https://simpletoolset.com/en/design-tools/svg-optimizer"
 lang: "en"
 type: "tool"
 category: "design-tools"
 tool_slug: "svg-optimizer"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # SVG Optimizer - Compress SVG Files Online

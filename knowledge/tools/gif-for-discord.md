@@ -1,12 +1,12 @@
 ---
 title: "GIF for Discord - Prepare GIFs for Uploads"
 description: "SimpleToolset GIF for Discord is a browser-based tool to prepare GIFs that fit Discord upload limits. It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Discord sharing. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/gif-tools/gif-for-discord/"
+canonical: "https://simpletoolset.com/en/gif-tools/gif-for-discord"
 lang: "en"
 type: "tool"
 category: "gif-tools"
 tool_slug: "gif-for-discord"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # GIF for Discord - Prepare GIFs for Uploads

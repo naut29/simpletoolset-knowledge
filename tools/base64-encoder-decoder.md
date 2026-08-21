@@ -1,12 +1,12 @@
 ---
 title: "Base64 Encoder Decoder - Encode & Decode Text"
 description: "SimpleToolset Base64 Encoder / Decoder is a browser-based tool to convert text to Base64 or decode Base64 strings. It accepts URLs, links, IPs, user-agent strings, or network values and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for JWT inspection. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/network-tools/base64-encoder-decoder/"
+canonical: "https://simpletoolset.com/en/network-tools/base64-encoder-decoder"
 lang: "en"
 type: "tool"
 category: "network-tools"
 tool_slug: "base64-encoder-decoder"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Base64 Encoder Decoder - Encode & Decode Text

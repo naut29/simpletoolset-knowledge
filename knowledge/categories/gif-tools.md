@@ -1,10 +1,10 @@
 ---
 title: "GIF Tools"
 description: "Compress, convert, resize, and optimize GIF files online. Free, fast, and privacy-friendly. Explore tools and guides that help you get results faster on SimpleToolset."
-canonical: "https://simpletoolset.com/en/gif-tools/"
+canonical: "https://simpletoolset.com/en/gif-tools"
 lang: "en"
 type: "category"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # GIF Tools

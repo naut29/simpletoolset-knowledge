@@ -1,7 +1,7 @@
 ---
 title: "Create Social Media Graphics Quickly Online"
 description: "Create image-based social posts by generating visuals, resizing for channels, cropping, and compressing final assets with free browser tools."
-canonical: "https://simpletoolset.com/en/use-cases/create-social-media-graphics/"
+canonical: "https://simpletoolset.com/en/use-cases/create-social-media-graphics"
 lang: "en"
 type: "use-case"
 category: "image-tools"
@@ -9,7 +9,7 @@ cluster_id: "social-content"
 cluster_title: "Social content"
 intent: "social visual preparation"
 audience: "creators, marketers, and small business teams"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Create Social Media Graphics Quickly Online

@@ -1,7 +1,7 @@
 ---
 title: "Debug Web Requests and Identifiers Online"
 description: "Inspect URLs, decode JWTs, parse user agents, and look up IP information while debugging web requests with free browser tools. Use this guide with related tools on"
-canonical: "https://simpletoolset.com/en/use-cases/debug-web-requests-and-identifiers/"
+canonical: "https://simpletoolset.com/en/use-cases/debug-web-requests-and-identifiers"
 lang: "en"
 type: "use-case"
 category: "network-tools"
@@ -9,7 +9,7 @@ cluster_id: "developer-data"
 cluster_title: "Developer data"
 intent: "web request inspection"
 audience: "developers, support engineers, and QA teams"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Debug Web Requests and Identifiers Online

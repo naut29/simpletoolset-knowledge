@@ -1,12 +1,12 @@
 ---
 title: "Sentence Counter - Count Sentences Online Free"
 description: "SimpleToolset Sentence Counter is a browser-based tool to calculate the total number of sentences in a block of text. It accepts text pasted or typed into the browser and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for academic writing. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/text-tools/sentence-counter/"
+canonical: "https://simpletoolset.com/en/text-tools/sentence-counter"
 lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "sentence-counter"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Sentence Counter - Count Sentences Online Free

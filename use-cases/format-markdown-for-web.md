@@ -1,7 +1,7 @@
 ---
 title: "Format Markdown for Web Publishing Online"
 description: "Prepare Markdown for web pages by converting to HTML, encoding entities, checking casing, and measuring content length with free browser tools."
-canonical: "https://simpletoolset.com/en/use-cases/format-markdown-for-web/"
+canonical: "https://simpletoolset.com/en/use-cases/format-markdown-for-web"
 lang: "en"
 type: "use-case"
 category: "text-tools"
@@ -9,7 +9,7 @@ cluster_id: "text-cleanup"
 cluster_title: "Text cleanup"
 intent: "web publishing cleanup"
 audience: "technical writers, developers, and content teams"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Format Markdown for Web Publishing Online

@@ -1,12 +1,12 @@
 ---
 title: "AI Background Blur for Sensitive Photos - Free Online Tool"
 description: "SimpleToolset AI Background Blur for Sensitive Photos is a browser-based tool to blur photo backgrounds or the detected subject locally with AI segmentation. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for home office screenshots. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/image-tools/ai-background-blur-sensitive-photos/"
+canonical: "https://simpletoolset.com/en/image-tools/ai-background-blur-sensitive-photos"
 lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "ai-background-blur-sensitive-photos"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # AI Background Blur for Sensitive Photos - Free Online Tool

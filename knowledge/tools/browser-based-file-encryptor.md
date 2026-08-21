@@ -1,12 +1,12 @@
 ---
 title: "Browser-Based File Encryptor - Free Online Tool"
 description: "SimpleToolset Browser-Based File Encryptor helps you encrypt files with AES-256 in your browser and unlock them later with the same password. It accepts password rules, password text, or phrase options entered in the browser and returns generated value, code, QR image, or copyable result. The workflow runs locally in the browser and does not require an account or app-server upload. It is best for client-side file locker. Review important outputs before relying on them."
-canonical: "https://simpletoolset.com/en/developer-tools/browser-based-file-encryptor/"
+canonical: "https://simpletoolset.com/en/developer-tools/browser-based-file-encryptor"
 lang: "en"
 type: "tool"
 category: "developer-tools"
 tool_slug: "browser-based-file-encryptor"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Browser-Based File Encryptor - Free Online Tool

@@ -1,12 +1,12 @@
 ---
 title: "Online Calculator - Free Basic Math Calculator"
 description: "SimpleToolset Basic Calculator is a browser-based tool to perform basic mathematical calculations. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for invoice checks. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/utility-tools/calculator/"
+canonical: "https://simpletoolset.com/en/utility-tools/calculator"
 lang: "en"
 type: "tool"
 category: "utility-tools"
 tool_slug: "calculator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Online Calculator - Free Basic Math Calculator

@@ -1,7 +1,7 @@
 ---
 title: "Merge, Split, and Rotate PDF Files Online"
 description: "Organize PDFs quickly: combine multiple files, split pages, or rotate documents. Use free in-browser tools that keep files private. Use this guide with related tools on"
-canonical: "https://simpletoolset.com/en/use-cases/merge-split-rotate-pdf-files/"
+canonical: "https://simpletoolset.com/en/use-cases/merge-split-rotate-pdf-files"
 lang: "en"
 type: "use-case"
 category: "pdf-tools"
@@ -9,7 +9,7 @@ cluster_id: "pdf-workflows"
 cluster_title: "PDF workflows"
 intent: "PDF file organization"
 audience: "office teams, students, and document-heavy workflows"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Merge, Split, and Rotate PDF Files Online

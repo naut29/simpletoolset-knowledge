@@ -1,12 +1,12 @@
 ---
 title: "UTM Link Builder - Create Campaign Tracking URLs Free"
 description: "SimpleToolset UTM Link Builder is a browser-based tool to generate tracking URLs for Google Analytics marketing campaigns. It accepts URLs, links, IPs, user-agent strings, or network values and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for paid social ads. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/social-tools/utm-link-builder/"
+canonical: "https://simpletoolset.com/en/social-tools/utm-link-builder"
 lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "utm-link-builder"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # UTM Link Builder - Create Campaign Tracking URLs Free

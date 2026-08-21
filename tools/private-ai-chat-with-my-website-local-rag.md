@@ -1,12 +1,12 @@
 ---
 title: "Private AI Chat With My Website - Local Website RAG"
 description: "SimpleToolset Private AI Chat with My Website is a browser-based tool to analyze a website locally in your browser. It accepts website URLs, local notes, PDFs, or document text and returns private chat answers, source references, or searchable local index. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for documentation lookup. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/ai-local-tools/private-ai-chat-with-my-website-local-rag/"
+canonical: "https://simpletoolset.com/en/ai-local-tools/private-ai-chat-with-my-website-local-rag"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "private-ai-chat-with-my-website-local-rag"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Private AI Chat With My Website - Local Website RAG

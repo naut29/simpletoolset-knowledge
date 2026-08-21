@@ -1,12 +1,12 @@
 ---
 title: "Remove Line Breaks - Clean Up Text Online Free"
 description: "SimpleToolset Remove Line Breaks is a browser-based tool to eliminate unnecessary line breaks to clean up text. It accepts text pasted or typed into the browser and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for PDF cleanup. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/text-tools/remove-line-breaks/"
+canonical: "https://simpletoolset.com/en/text-tools/remove-line-breaks"
 lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "remove-line-breaks"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Remove Line Breaks - Clean Up Text Online Free

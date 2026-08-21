@@ -1,12 +1,12 @@
 ---
 title: "In-Browser Video Transcoder - Private FFmpeg Video Converter"
 description: "SimpleToolset In-Browser Video Transcoder is a browser-based tool to convert MP4. It accepts local audio files, speech, or transcript text and returns optimized or converted animation file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for private creator exports. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/social-tools/in-browser-video-transcoder/"
+canonical: "https://simpletoolset.com/en/social-tools/in-browser-video-transcoder"
 lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "in-browser-video-transcoder"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # In-Browser Video Transcoder - Private FFmpeg Video Converter

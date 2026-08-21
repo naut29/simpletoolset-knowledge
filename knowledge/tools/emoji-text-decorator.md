@@ -1,12 +1,12 @@
 ---
 title: "Emoji Text Decorator - Add Emoji Styles to Text"
 description: "SimpleToolset Emoji Text Decorator is a browser-based tool to add emoji prefixes. It accepts text pasted or typed into the browser and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Instagram captions. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/social-tools/emoji-text-decorator/"
+canonical: "https://simpletoolset.com/en/social-tools/emoji-text-decorator"
 lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "emoji-text-decorator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Emoji Text Decorator - Add Emoji Styles to Text

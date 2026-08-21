@@ -1,12 +1,12 @@
 ---
 title: "AI Local Code Repair for Non-Devs - Free Online Tool"
 description: "SimpleToolset AI Local Code Repair for Non-Devs is a browser-based tool to repair broken HTML. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for broken HTML embeds. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/ai-local-tools/local-ai-code-repair/"
+canonical: "https://simpletoolset.com/en/ai-local-tools/local-ai-code-repair"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "local-ai-code-repair"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # AI Local Code Repair for Non-Devs - Free Online Tool

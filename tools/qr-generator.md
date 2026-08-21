@@ -1,12 +1,12 @@
 ---
 title: "QR Code Generator - Create QR Codes Free Online"
 description: "SimpleToolset QR Code Generator is a browser-based tool to create QR codes for URLs. It accepts image files selected in the browser and returns generated value, code, QR image, or copyable result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for event check-ins. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/utility-tools/qr-generator/"
+canonical: "https://simpletoolset.com/en/utility-tools/qr-generator"
 lang: "en"
 type: "tool"
 category: "utility-tools"
 tool_slug: "qr-generator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # QR Code Generator - Create QR Codes Free Online

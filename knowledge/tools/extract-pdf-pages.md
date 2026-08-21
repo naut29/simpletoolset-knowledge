@@ -1,12 +1,12 @@
 ---
 title: "Extract PDF Pages - Save Selected Pages Free"
 description: "SimpleToolset Extract PDF Pages is a browser-based tool to extract selected pages into a new PDF. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for client excerpts. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/pdf-tools/extract-pdf-pages/"
+canonical: "https://simpletoolset.com/en/pdf-tools/extract-pdf-pages"
 lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "extract-pdf-pages"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Extract PDF Pages - Save Selected Pages Free

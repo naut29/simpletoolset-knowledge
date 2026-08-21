@@ -1,12 +1,12 @@
 ---
 title: "Secure Invoice-to-Accounting Agent - Free Online Tool"
 description: "SimpleToolset Secure Invoice-to-Accounting Agent is a browser-based tool to extract invoice fields from local PDFs and receipt images. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for monthly invoice import prep. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/ai-local-tools/secure-invoice-to-accounting-agent/"
+canonical: "https://simpletoolset.com/en/ai-local-tools/secure-invoice-to-accounting-agent"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "secure-invoice-to-accounting-agent"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Secure Invoice-to-Accounting Agent - Free Online Tool

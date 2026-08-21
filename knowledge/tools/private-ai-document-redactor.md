@@ -1,12 +1,12 @@
 ---
 title: "Private AI Document Redactor (Sensitive Data Masker) Online"
 description: "SimpleToolset Private AI Document Redactor is a browser-based tool to detect names. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for contract cleanup before sharing. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/ai-local-tools/private-ai-document-redactor/"
+canonical: "https://simpletoolset.com/en/ai-local-tools/private-ai-document-redactor"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "private-ai-document-redactor"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Private AI Document Redactor (Sensitive Data Masker) Online

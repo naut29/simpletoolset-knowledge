@@ -1,12 +1,12 @@
 ---
 title: "BIP39 Generator - Create Mnemonic Seed Phrases"
 description: "SimpleToolset BIP39 Seed Phrase Generator is a browser-based tool to generate secure mnemonic seed phrases for crypto-wallet testing. It accepts password rules, password text, or phrase options entered in the browser and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for wallet setup. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/utility-tools/bip39-generator/"
+canonical: "https://simpletoolset.com/en/utility-tools/bip39-generator"
 lang: "en"
 type: "tool"
 category: "utility-tools"
 tool_slug: "bip39-generator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # BIP39 Generator - Create Mnemonic Seed Phrases

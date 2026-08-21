@@ -1,12 +1,12 @@
 ---
 title: "URL Encoder Decoder - Encode & Decode URL Components"
 description: "SimpleToolset URL Encoder / Decoder is a browser-based tool to encode or decode URL components safely. It accepts URLs, links, IPs, user-agent strings, or network values and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for API query building. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/network-tools/url-encoder-decoder/"
+canonical: "https://simpletoolset.com/en/network-tools/url-encoder-decoder"
 lang: "en"
 type: "tool"
 category: "network-tools"
 tool_slug: "url-encoder-decoder"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # URL Encoder Decoder - Encode & Decode URL Components

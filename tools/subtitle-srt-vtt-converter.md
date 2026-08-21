@@ -1,47 +1,49 @@
 ---
-title: "SRT/VTT Converter"
-description: "SRT/VTT Converter is a browser-based SimpleToolset tool for convert subtitles between srt and webvtt, shift timestamps, and fix numbering. It accepts local input in the browser and returns a preview, cleaned result, converted file, or downloadable output depending on the task. The workflow is designed for fast social tools tasks without an account or unnecessary server upload. Review important outputs before using them in production."
-canonical: "https://simpletoolset.com/en/social-tools/subtitle-srt-vtt-converter/"
+title: "SRT & VTT Converter - Free Online Subtitle Tool"
+description: "SimpleToolset SRT/VTT Converter is a browser-based tool to convert subtitles between SRT and WebVTT. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for HTML5 caption delivery. Use it for quick checks and exports; review important results before relying on them."
+canonical: "https://simpletoolset.com/en/social-tools/subtitle-srt-vtt-converter"
 lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "subtitle-srt-vtt-converter"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
-# SRT/VTT Converter
+# SRT & VTT Converter - Free Online Subtitle Tool
 
 ## Overview
 
-Convert subtitles between SRT and WebVTT, shift timestamps, and fix numbering
+Convert and repair subtitle files while reviewing timestamps and cue numbering before download.
 
-Free subtitle SRT and VTT converter. Convert caption files, shift timestamps, fix numbering, and download clean subtitle files locally.
+This converter changes subtitle files between SRT and WebVTT, shifts cue times, and normalizes numbering for a cleaner export.
 
 This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, JA, TH, DE, PT-BR, ES-419, ID, HI, BN, TA, TE, MR).
 
 ## Key features
 
-- Supports fast social tools tasks in the browser
-- Provides a clear preview or downloadable result
-- Does not require an account or unnecessary server upload
+- SRT and WebVTT conversion
+- Timestamp shifting
+- Cue numbering repair
+- Browser-based export
 
 ## How to use
 
-1. Open the tool page.
-2. Paste text or choose a local file, depending on the tool.
-3. Adjust the available settings.
-4. Copy or download the result.
+1. Paste or upload subtitle text
+2. Choose SRT or WebVTT output
+3. Adjust timestamps if needed
+4. Review and download the result
+
+## FAQs
+
+- Is the subtitle converter free?: Yes. It is a free online SRT and WebVTT converter.
+- Can I shift all subtitle timestamps?: Yes. Use the timing controls to move cues by the needed offset.
+- Does it repair cue numbering?: Yes. The converter can normalize cue numbering during conversion.
 
 ## Related tools
 
-- [Instagram Caption Spacer](./instagram-caption-spacer.md)
-- [YouTube Thumbnail Downloader](./youtube-thumbnail-downloader.md)
-- [Twitter/X Character Counter](./twitter-character-counter.md)
-- [Word Cloud Generator](./word-cloud-generator.md)
-- [UTM Link Builder](./utm-link-builder.md)
-- [Open Graph Previewer](./open-graph-meta-preview.md)
-- [Hashtag Generator (Basic)](./hashtag-generator-basic.md)
-- [Hashtag Counter](./hashtag-counter.md)
+- [Video to GIF](./video-to-gif.md)
+- [In-Browser Video Transcoder](./in-browser-video-transcoder.md)
+- [Private Voice-to-Text (Whisper Web)](./private-voice-to-text.md)
 
 ## Internal links
 

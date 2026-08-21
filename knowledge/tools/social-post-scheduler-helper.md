@@ -1,12 +1,12 @@
 ---
 title: "Social Post Scheduler Helper - Quick Schedule Table"
 description: "SimpleToolset Social Post Scheduler Helper is a browser-based tool to generate a posting schedule from a start date and interval. It accepts text pasted or typed into the browser and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for campaign planning. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/social-tools/social-post-scheduler-helper/"
+canonical: "https://simpletoolset.com/en/social-tools/social-post-scheduler-helper"
 lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "social-post-scheduler-helper"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Social Post Scheduler Helper - Quick Schedule Table

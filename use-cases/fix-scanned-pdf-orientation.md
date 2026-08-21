@@ -1,7 +1,7 @@
 ---
 title: "Fix Scanned PDF Orientation Issues Online"
 description: "Rotate scanned PDFs, convert pages to images when needed, rebuild PDFs, and merge corrected files into one document with free browser tools."
-canonical: "https://simpletoolset.com/en/use-cases/fix-scanned-pdf-orientation/"
+canonical: "https://simpletoolset.com/en/use-cases/fix-scanned-pdf-orientation"
 lang: "en"
 type: "use-case"
 category: "pdf-tools"
@@ -9,7 +9,7 @@ cluster_id: "pdf-workflows"
 cluster_title: "PDF workflows"
 intent: "scanned PDF correction"
 audience: "administrators, students, and document operations teams"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Fix Scanned PDF Orientation Issues Online

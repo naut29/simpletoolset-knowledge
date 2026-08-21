@@ -1,12 +1,12 @@
 ---
 title: "Local AI Speech Synthesizer (TTS) - Free Online Tool"
 description: "SimpleToolset Local AI Speech Synthesizer is a browser-based tool to generate private AI voiceovers locally in your browser with a Sherpa-ONNX text-to-speech workflow. It accepts local audio files, speech, or transcript text and returns transcript, audio result, language label, or generated speech. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for private voiceover drafts. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/ai-local-tools/local-ai-speech-synthesizer/"
+canonical: "https://simpletoolset.com/en/ai-local-tools/local-ai-speech-synthesizer"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "local-ai-speech-synthesizer"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Local AI Speech Synthesizer (TTS) - Free Online Tool

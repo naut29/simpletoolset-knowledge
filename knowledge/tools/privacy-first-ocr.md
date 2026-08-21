@@ -1,12 +1,12 @@
 ---
 title: "Privacy-First OCR - Extract Text from Images Without Upload"
 description: "SimpleToolset Privacy-First OCR is a browser-based tool to extract text from images locally with browser-based OCR. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for private receipt scanning. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/image-tools/privacy-first-ocr/"
+canonical: "https://simpletoolset.com/en/image-tools/privacy-first-ocr"
 lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "privacy-first-ocr"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Privacy-First OCR - Extract Text from Images Without Upload

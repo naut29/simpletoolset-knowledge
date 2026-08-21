@@ -1,10 +1,10 @@
 ---
 title: "Social Media Tools"
 description: "Free social media tools for creators and marketers. Format captions, generate hashtags, build threads, and more - all client-side. Explore tools and guides that help you"
-canonical: "https://simpletoolset.com/en/social-tools/"
+canonical: "https://simpletoolset.com/en/social-tools"
 lang: "en"
 type: "category"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Social Media Tools

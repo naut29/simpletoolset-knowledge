@@ -1,7 +1,7 @@
 ---
 title: "Build a UI Color Palette Online - Free Browser Tools"
 description: "Create interface color palettes with shade scales, contrast checks, and CSS gradients for production-ready UI work with free browser tools. Use this guide with related"
-canonical: "https://simpletoolset.com/en/use-cases/build-ui-color-palette/"
+canonical: "https://simpletoolset.com/en/use-cases/build-ui-color-palette"
 lang: "en"
 type: "use-case"
 category: "design-tools"
@@ -9,7 +9,7 @@ cluster_id: "design-assets"
 cluster_title: "Design assets"
 intent: "interface color planning"
 audience: "UI designers, frontend developers, and product teams"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Build a UI Color Palette Online - Free Browser Tools

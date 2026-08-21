@@ -1,12 +1,12 @@
 ---
 title: "Credit Card Generator - Test Card Numbers Online"
 description: "SimpleToolset Random Credit Card Generator is a browser-based tool to generate fake credit card numbers for UI/UX payment flow testing. It accepts text, numbers, links, or settings entered in the browser and returns generated value, code, QR image, or copyable result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for checkout QA. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/utility-tools/credit-card-generator/"
+canonical: "https://simpletoolset.com/en/utility-tools/credit-card-generator"
 lang: "en"
 type: "tool"
 category: "utility-tools"
 tool_slug: "credit-card-generator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Credit Card Generator - Test Card Numbers Online

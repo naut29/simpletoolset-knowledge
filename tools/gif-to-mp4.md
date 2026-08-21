@@ -6,7 +6,7 @@ lang: "en"
 type: "tool"
 category: "gif-tools"
 tool_slug: "gif-to-mp4"
-date_generated: "2026-05-20T07:07:23.607Z"
+date_generated: "2026-05-21T01:37:59.417Z"
 ---
 
 # GIF to MP4 Converter - Smaller, Smoother Videos

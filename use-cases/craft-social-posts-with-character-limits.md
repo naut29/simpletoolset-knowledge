@@ -1,7 +1,7 @@
 ---
 title: "Craft Social Posts with Character Limits Online"
 description: "Draft social posts, count characters, format captions, generate hashtags, and split long copy into thread-ready chunks with free browser tools."
-canonical: "https://simpletoolset.com/en/use-cases/craft-social-posts-with-character-limits/"
+canonical: "https://simpletoolset.com/en/use-cases/craft-social-posts-with-character-limits"
 lang: "en"
 type: "use-case"
 category: "social-tools"
@@ -9,7 +9,7 @@ cluster_id: "social-content"
 cluster_title: "Social content"
 intent: "social copy sizing"
 audience: "social media managers, creators, and marketing teams"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Craft Social Posts with Character Limits Online

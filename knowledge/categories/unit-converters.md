@@ -1,10 +1,10 @@
 ---
 title: "Unit Converters"
 description: "Free online unit converters for length, temperature, data, fuel economy, area, pressure, speed, power, cooking weights, and time zones. Explore tools and guides that"
-canonical: "https://simpletoolset.com/en/unit-converters/"
+canonical: "https://simpletoolset.com/en/unit-converters"
 lang: "en"
 type: "category"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Unit Converters

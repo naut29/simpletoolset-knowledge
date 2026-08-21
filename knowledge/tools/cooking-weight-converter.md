@@ -1,12 +1,12 @@
 ---
 title: "Cooking Weight Converter - g, oz, lb, cups & tsp"
 description: "SimpleToolset Cooking Weight Converter is a browser-based tool to convert kitchen weights and water-based volumes. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for recipe localization. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/unit-converters/cooking-weight-converter/"
+canonical: "https://simpletoolset.com/en/unit-converters/cooking-weight-converter"
 lang: "en"
 type: "tool"
 category: "unit-converters"
 tool_slug: "cooking-weight-converter"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Cooking Weight Converter - g, oz, lb, cups & tsp

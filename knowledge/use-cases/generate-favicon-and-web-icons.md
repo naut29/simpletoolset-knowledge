@@ -1,7 +1,7 @@
 ---
 title: "Generate Favicons and Web App Icons Online"
 description: "Prepare favicons and app icons by checking aspect ratios, converting images, creating Base64 previews, and exporting web-ready assets. Use this guide with related tools"
-canonical: "https://simpletoolset.com/en/use-cases/generate-favicon-and-web-icons/"
+canonical: "https://simpletoolset.com/en/use-cases/generate-favicon-and-web-icons"
 lang: "en"
 type: "use-case"
 category: "design-tools"
@@ -9,7 +9,7 @@ cluster_id: "design-assets"
 cluster_title: "Design assets"
 intent: "web icon preparation"
 audience: "site owners, designers, and frontend developers"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Generate Favicons and Web App Icons Online

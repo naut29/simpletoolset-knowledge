@@ -1,12 +1,12 @@
 ---
 title: "Diff Checker - Compare Two Texts Online Free"
 description: "SimpleToolset Diff Checker is a browser-based tool to compare two text blocks to find differences. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for code review. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/text-tools/diff-checker/"
+canonical: "https://simpletoolset.com/en/text-tools/diff-checker"
 lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "diff-checker"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Diff Checker - Compare Two Texts Online Free

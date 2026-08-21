@@ -1,12 +1,12 @@
 ---
 title: "Private AI Keyword Extractor - Local SEO Keywords in Your Browser"
 description: "SimpleToolset Private AI Keyword Extractor helps you extract SEO keywords and tags locally in your browser with a private KeyBERT-style WASM workflow. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload. It is best for draft SEO cleanup. Review important outputs before relying on them."
-canonical: "https://simpletoolset.com/en/ai-local-tools/private-ai-keyword-extractor/"
+canonical: "https://simpletoolset.com/en/ai-local-tools/private-ai-keyword-extractor"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "private-ai-keyword-extractor"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Private AI Keyword Extractor - Local SEO Keywords in Your Browser

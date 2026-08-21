@@ -1,7 +1,7 @@
 ---
 title: "Prepare Product Images for Ecommerce Online"
 description: "Crop, resize, compress, and convert product photos into fast-loading ecommerce images for galleries and product pages with free browser tools."
-canonical: "https://simpletoolset.com/en/use-cases/prepare-product-images-for-ecommerce/"
+canonical: "https://simpletoolset.com/en/use-cases/prepare-product-images-for-ecommerce"
 lang: "en"
 type: "use-case"
 category: "image-tools"
@@ -9,7 +9,7 @@ cluster_id: "image-optimization"
 cluster_title: "Image optimization"
 intent: "product image preparation"
 audience: "ecommerce teams, marketplace sellers, and catalog managers"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Prepare Product Images for Ecommerce Online

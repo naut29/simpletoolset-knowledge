@@ -1,12 +1,12 @@
 ---
 title: "Crontab Generator - Create Cron Schedules Visually"
 description: "SimpleToolset Crontab Generator is a browser-based tool to A visual tool to generate Cron Job schedules. It accepts text pasted or typed into the browser and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for ETL pipelines. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/developer-tools/crontab-generator/"
+canonical: "https://simpletoolset.com/en/developer-tools/crontab-generator"
 lang: "en"
 type: "tool"
 category: "developer-tools"
 tool_slug: "crontab-generator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Crontab Generator - Create Cron Schedules Visually

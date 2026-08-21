@@ -1,10 +1,10 @@
 ---
 title: "Financial Tools"
 description: "Free financial calculators for interest, loans, savings goals, budgeting, net worth, and salary conversions. Private, client-side tools. Explore tools and guides that"
-canonical: "https://simpletoolset.com/en/financial-tools/"
+canonical: "https://simpletoolset.com/en/financial-tools"
 lang: "en"
 type: "category"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Financial Tools

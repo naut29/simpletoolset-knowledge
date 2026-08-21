@@ -1,7 +1,7 @@
 ---
 title: "Image Optimizer for Website Speed (Improve Core Web Vitals)"
 description: "Optimize images to speed up your website and improve Core Web Vitals. Use a simple checklist and free tools to compress and resize images properly."
-canonical: "https://simpletoolset.com/en/use-cases/image-optimizer-for-website-speed/"
+canonical: "https://simpletoolset.com/en/use-cases/image-optimizer-for-website-speed"
 lang: "en"
 type: "use-case"
 category: "image-tools"
@@ -9,7 +9,7 @@ cluster_id: "image-optimization"
 cluster_title: "Image optimization"
 intent: "Core Web Vitals image optimization"
 audience: "SEO teams, developers, and site owners"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Image Optimizer for Website Speed (Improve Core Web Vitals)

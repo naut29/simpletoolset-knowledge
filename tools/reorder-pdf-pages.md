@@ -1,12 +1,12 @@
 ---
 title: "Reorder PDF Pages - Rearrange PDF Online Free"
 description: "SimpleToolset Reorder PDF Pages is a browser-based tool to rearrange PDF pages into the order you want. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for merged reports. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/pdf-tools/reorder-pdf-pages/"
+canonical: "https://simpletoolset.com/en/pdf-tools/reorder-pdf-pages"
 lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "reorder-pdf-pages"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Reorder PDF Pages - Rearrange PDF Online Free

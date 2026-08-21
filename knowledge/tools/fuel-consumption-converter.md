@@ -1,12 +1,12 @@
 ---
 title: "Fuel Consumption Converter - L/100km, km/L, MPG"
 description: "SimpleToolset Fuel Consumption Converter is a browser-based tool to convert fuel economy units like L/100km. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for vehicle comparison. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/unit-converters/fuel-consumption-converter/"
+canonical: "https://simpletoolset.com/en/unit-converters/fuel-consumption-converter"
 lang: "en"
 type: "tool"
 category: "unit-converters"
 tool_slug: "fuel-consumption-converter"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Fuel Consumption Converter - L/100km, km/L, MPG

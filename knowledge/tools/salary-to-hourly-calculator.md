@@ -1,12 +1,12 @@
 ---
 title: "Salary to Hourly Calculator - Weekly & Monthly Pay"
 description: "SimpleToolset Salary to Hourly Calculator is a browser-based tool to convert salary to hourly. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for job offer comparison. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/financial-tools/salary-to-hourly-calculator/"
+canonical: "https://simpletoolset.com/en/financial-tools/salary-to-hourly-calculator"
 lang: "en"
 type: "tool"
 category: "financial-tools"
 tool_slug: "salary-to-hourly-calculator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Salary to Hourly Calculator - Weekly & Monthly Pay

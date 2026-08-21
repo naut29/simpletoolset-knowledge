@@ -1,7 +1,7 @@
 ---
 title: "Build Trackable Campaign Links Online - Free Browser Tools"
 description: "Create UTM-tagged campaign URLs, validate parameters, and generate QR codes for print, social, and offline channels with free browser tools."
-canonical: "https://simpletoolset.com/en/use-cases/build-trackable-campaign-links/"
+canonical: "https://simpletoolset.com/en/use-cases/build-trackable-campaign-links"
 lang: "en"
 type: "use-case"
 category: "social-tools"
@@ -9,7 +9,7 @@ cluster_id: "marketing-links"
 cluster_title: "Marketing links"
 intent: "campaign measurement"
 audience: "marketers, growth teams, and event coordinators"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Build Trackable Campaign Links Online - Free Browser Tools

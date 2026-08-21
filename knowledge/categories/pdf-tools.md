@@ -1,10 +1,10 @@
 ---
 title: "PDF Tools"
 description: "Free online PDF tools. Merge, split, rotate PDFs and convert between PDF and images. No software installation, works in your browser. Explore tools and guides that help"
-canonical: "https://simpletoolset.com/en/pdf-tools/"
+canonical: "https://simpletoolset.com/en/pdf-tools"
 lang: "en"
 type: "category"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # PDF Tools

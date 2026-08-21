@@ -1,12 +1,12 @@
 ---
 title: "AcFun Video Downloader - Get AcFun Video Links"
 description: "SimpleToolset AcFun Video Downloader is a browser-based tool to get download links from AcFun video posts (best-effort). It accepts GIF or animation files and size targets and returns optimized or converted animation file. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for anime clip review. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/social-tools/acfun-video-downloader/"
+canonical: "https://simpletoolset.com/en/social-tools/acfun-video-downloader"
 lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "acfun-video-downloader"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # AcFun Video Downloader - Get AcFun Video Links

@@ -1,7 +1,7 @@
 ---
 title: "Create Secure Passwords for Teams Online"
 description: "Generate strong passwords, check password strength, create IDs, and prepare safe temporary credentials for team workflows with free browser tools."
-canonical: "https://simpletoolset.com/en/use-cases/create-secure-passwords-for-teams/"
+canonical: "https://simpletoolset.com/en/use-cases/create-secure-passwords-for-teams"
 lang: "en"
 type: "use-case"
 category: "utility-tools"
@@ -9,7 +9,7 @@ cluster_id: "security-qa"
 cluster_title: "Security and QA"
 intent: "credential generation"
 audience: "IT admins, founders, and team leads"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Create Secure Passwords for Teams Online

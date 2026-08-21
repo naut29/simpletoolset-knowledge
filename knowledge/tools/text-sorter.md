@@ -1,12 +1,12 @@
 ---
 title: "Text Sorter - Sort Lines Alphabetically A-Z Free"
 description: "SimpleToolset Text Sorter is a browser-based tool to sort lines of text alphabetically (A-Z or Z-A). It accepts text pasted or typed into the browser and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for name lists. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/text-tools/text-sorter/"
+canonical: "https://simpletoolset.com/en/text-tools/text-sorter"
 lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "text-sorter"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Text Sorter - Sort Lines Alphabetically A-Z Free

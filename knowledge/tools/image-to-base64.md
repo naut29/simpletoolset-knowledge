@@ -1,12 +1,12 @@
 ---
 title: "Image to Base64 Converter - Encode Images Online"
 description: "SimpleToolset Image to Base64 is a browser-based tool to convert image files into Base64 strings for embedding in code. It accepts image files, colors, dimensions, or visual settings and returns processed image, preview, CSS, or downloadable visual asset. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for email templates. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/design-tools/image-to-base64/"
+canonical: "https://simpletoolset.com/en/design-tools/image-to-base64"
 lang: "en"
 type: "tool"
 category: "design-tools"
 tool_slug: "image-to-base64"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Image to Base64 Converter - Encode Images Online

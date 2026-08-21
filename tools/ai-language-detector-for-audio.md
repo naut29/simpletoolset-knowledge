@@ -1,12 +1,12 @@
 ---
 title: "AI Language Detector for Audio - Free Online Tool"
 description: "SimpleToolset AI Language Detector for Audio helps you identify the spoken language in audio files locally in your browser with a private Whisper workflow. It accepts local audio files, speech, or transcript text and returns transcript, audio result, language label, or generated speech. The workflow runs locally in the browser and does not require an account or app-server upload. It is best for pre-transcription triage. Review important outputs before relying on them."
-canonical: "https://simpletoolset.com/en/ai-local-tools/ai-language-detector-for-audio/"
+canonical: "https://simpletoolset.com/en/ai-local-tools/ai-language-detector-for-audio"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "ai-language-detector-for-audio"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # AI Language Detector for Audio - Free Online Tool

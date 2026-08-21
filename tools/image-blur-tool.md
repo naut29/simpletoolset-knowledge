@@ -1,12 +1,12 @@
 ---
 title: "Image Blur Tool - Blur All or Selected Areas"
 description: "SimpleToolset Image Blur Tool is a browser-based tool to blur an entire image or selected area. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for privacy protection. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/image-tools/image-blur-tool/"
+canonical: "https://simpletoolset.com/en/image-tools/image-blur-tool"
 lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "image-blur-tool"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Image Blur Tool - Blur All or Selected Areas

@@ -1,12 +1,12 @@
 ---
 title: "Discord Markdown Formatter - Format Text Easily"
 description: "SimpleToolset Discord Markdown Formatter is a browser-based tool to format text with Discord markdown styles. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for support replies. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/social-tools/discord-markdown-formatter/"
+canonical: "https://simpletoolset.com/en/social-tools/discord-markdown-formatter"
 lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "discord-markdown-formatter"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Discord Markdown Formatter - Format Text Easily

@@ -1,12 +1,12 @@
 ---
 title: "UUID Generator - Generate UUID v4 Online Free"
 description: "SimpleToolset UUID Generator is a browser-based tool to generate unique UUIDs (v4) for your applications. It accepts text, numbers, links, or settings entered in the browser and returns generated value, code, QR image, or copyable result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for database keys. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/utility-tools/uuid-generator/"
+canonical: "https://simpletoolset.com/en/utility-tools/uuid-generator"
 lang: "en"
 type: "tool"
 category: "utility-tools"
 tool_slug: "uuid-generator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # UUID Generator - Generate UUID v4 Online Free

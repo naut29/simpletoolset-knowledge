@@ -1,7 +1,7 @@
 ---
 title: "Convert Screenshots into a Single PDF Online"
 description: "Resize, crop, and combine screenshots into a clean PDF for reports, receipts, bug reports, or documentation with free browser tools. Use this guide with related tools on"
-canonical: "https://simpletoolset.com/en/use-cases/convert-screenshots-to-pdf/"
+canonical: "https://simpletoolset.com/en/use-cases/convert-screenshots-to-pdf"
 lang: "en"
 type: "use-case"
 category: "image-tools"
@@ -9,7 +9,7 @@ cluster_id: "pdf-workflows"
 cluster_title: "PDF workflows"
 intent: "screenshot packaging"
 audience: "support teams, auditors, and documentation teams"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Convert Screenshots into a Single PDF Online

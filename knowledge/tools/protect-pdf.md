@@ -1,12 +1,12 @@
 ---
 title: "Protect PDF - Add Password to PDF Files Online"
 description: "SimpleToolset Protect PDF is a browser-based tool to add a password to secure your PDF files. It accepts password rules, password text, or phrase options entered in the browser and returns generated value, code, QR image, or copyable result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for client documents. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/pdf-tools/protect-pdf/"
+canonical: "https://simpletoolset.com/en/pdf-tools/protect-pdf"
 lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "protect-pdf"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Protect PDF - Add Password to PDF Files Online

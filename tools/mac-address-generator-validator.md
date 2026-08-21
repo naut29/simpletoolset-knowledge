@@ -1,12 +1,12 @@
 ---
 title: "MAC Address Generator & Validator - Random MAC Tool"
 description: "SimpleToolset MAC Address Generator & Validator is a browser-based tool to validate and generate MAC addresses locally. It accepts URL, IP address, user-agent, DNS, or network lookup input and returns generated value, code, QR image, or copyable result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for QA labs. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/network-tools/mac-address-generator-validator/"
+canonical: "https://simpletoolset.com/en/network-tools/mac-address-generator-validator"
 lang: "en"
 type: "tool"
 category: "network-tools"
 tool_slug: "mac-address-generator-validator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # MAC Address Generator & Validator - Random MAC Tool

@@ -1,12 +1,12 @@
 ---
 title: "Image Mirror & Flip - Horizontal or Vertical"
 description: "SimpleToolset Image Mirror & Flip is a browser-based tool to flip images horizontally or vertically. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for photo corrections. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/image-tools/image-mirror-flip/"
+canonical: "https://simpletoolset.com/en/image-tools/image-mirror-flip"
 lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "image-mirror-flip"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Image Mirror & Flip - Horizontal or Vertical

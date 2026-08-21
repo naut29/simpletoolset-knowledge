@@ -1,12 +1,12 @@
 ---
 title: "DNS Record Explainer - A, AAAA, CNAME, MX, TXT, NS, SRV"
 description: "SimpleToolset DNS Record Explainer is a browser-based tool to explain common DNS record types with examples. It accepts URLs, links, IPs, user-agent strings, or network values and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for domain migrations. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/network-tools/dns-record-explainer/"
+canonical: "https://simpletoolset.com/en/network-tools/dns-record-explainer"
 lang: "en"
 type: "tool"
 category: "network-tools"
 tool_slug: "dns-record-explainer"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # DNS Record Explainer - A, AAAA, CNAME, MX, TXT, NS, SRV

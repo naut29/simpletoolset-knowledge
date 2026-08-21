@@ -9,7 +9,7 @@ It includes:
 - Canonical URLs pointing to production pages
 
 Primary site: https://simpletoolset.com
-Tools index: https://simpletoolset.com/en/
+Tools index: https://simpletoolset.com
 
 Content is intended for:
 - Search engines

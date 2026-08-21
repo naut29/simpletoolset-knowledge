@@ -1,12 +1,12 @@
 ---
 title: "Image to PDF Converter - JPG to PDF Free Online"
 description: "SimpleToolset Image to PDF Converter is a browser-based tool to convert images to PDF documents. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for scan bundles. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/pdf-tools/image-to-pdf/"
+canonical: "https://simpletoolset.com/en/pdf-tools/image-to-pdf"
 lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "image-to-pdf"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Image to PDF Converter - JPG to PDF Free Online

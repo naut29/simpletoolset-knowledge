@@ -1,12 +1,12 @@
 ---
 title: "Menopause Sleep Pattern Analyzer - Private Local Sleep Journal"
 description: "SimpleToolset Menopause Sleep Pattern Analyzer is a browser-based tool to track sleep quality. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for private menopause sleep journal. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/health-fitness/menopause-sleep-pattern-analyzer/"
+canonical: "https://simpletoolset.com/en/health-fitness/menopause-sleep-pattern-analyzer"
 lang: "en"
 type: "tool"
 category: "health-fitness"
 tool_slug: "menopause-sleep-pattern-analyzer"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Menopause Sleep Pattern Analyzer - Private Local Sleep Journal

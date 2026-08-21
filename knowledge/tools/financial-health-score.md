@@ -1,12 +1,12 @@
 ---
 title: "Financial Health Score - Lifestyle Finance Check"
 description: "SimpleToolset Financial Health Score is a browser-based tool to score lifestyle finance health from stability. It accepts colors, dimensions, ratios, or accessibility settings and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for student budget planning. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/life-tools/financial-health-score/"
+canonical: "https://simpletoolset.com/en/life-tools/financial-health-score"
 lang: "en"
 type: "tool"
 category: "life-tools"
 tool_slug: "financial-health-score"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Financial Health Score - Lifestyle Finance Check

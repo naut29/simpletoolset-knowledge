@@ -1,12 +1,12 @@
 ---
 title: "Port Number Lookup - Common Service Names"
 description: "SimpleToolset Port Number Lookup is a browser-based tool to find common service names for popular ports. It accepts text pasted or typed into the browser and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for firewall review. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/network-tools/port-number-lookup/"
+canonical: "https://simpletoolset.com/en/network-tools/port-number-lookup"
 lang: "en"
 type: "tool"
 category: "network-tools"
 tool_slug: "port-number-lookup"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Port Number Lookup - Common Service Names

@@ -1,7 +1,7 @@
 ---
 title: "Create SEO-Friendly URL Slugs Online - Free Browser Tools"
 description: "Turn titles into clean URL slugs, check keyword focus, normalize casing, and remove line breaks before publishing with free browser tools. Use this guide with related"
-canonical: "https://simpletoolset.com/en/use-cases/create-seo-friendly-url-slugs/"
+canonical: "https://simpletoolset.com/en/use-cases/create-seo-friendly-url-slugs"
 lang: "en"
 type: "use-case"
 category: "text-tools"
@@ -9,7 +9,7 @@ cluster_id: "marketing-links"
 cluster_title: "Marketing links"
 intent: "search-friendly URL preparation"
 audience: "SEO editors, publishers, and developers"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Create SEO-Friendly URL Slugs Online - Free Browser Tools

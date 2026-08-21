@@ -1,12 +1,12 @@
 ---
 title: "Split PDF - Separate PDF Pages Online Free"
 description: "SimpleToolset Split PDF is a browser-based tool to split PDF documents into separate pages or sections. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for client handoffs. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/pdf-tools/split-pdf/"
+canonical: "https://simpletoolset.com/en/pdf-tools/split-pdf"
 lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "split-pdf"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Split PDF - Separate PDF Pages Online Free

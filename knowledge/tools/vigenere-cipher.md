@@ -1,12 +1,12 @@
 ---
 title: "Vigenere Cipher - Encrypt and Decrypt Text"
 description: "SimpleToolset Vigenere Cipher Tool is a browser-based tool to encrypt and decrypt text using the classic Vigenere polyalphabetic substitution. It accepts text pasted or typed into the browser and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for classroom lessons. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/utility-tools/vigenere-cipher/"
+canonical: "https://simpletoolset.com/en/utility-tools/vigenere-cipher"
 lang: "en"
 type: "tool"
 category: "utility-tools"
 tool_slug: "vigenere-cipher"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Vigenere Cipher - Encrypt and Decrypt Text

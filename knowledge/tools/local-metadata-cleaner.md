@@ -1,12 +1,12 @@
 ---
 title: "Remove EXIF from Photos Online - Private GPS Metadata Cleaner"
 description: "SimpleToolset Local Metadata Cleaner is a browser-based tool to remove EXIF. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for travel photos. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/image-tools/local-metadata-cleaner/"
+canonical: "https://simpletoolset.com/en/image-tools/local-metadata-cleaner"
 lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "local-metadata-cleaner"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Remove EXIF from Photos Online - Private GPS Metadata Cleaner
@@ -21,7 +21,7 @@ This tool is available in multiple languages on SimpleToolset (EN, VI, ZH, KO, J
 
 ## Key features
 
-- Reads embedded EXIF tags locally with exif-js
+- Reads embedded EXIF tags locally with exifr
 - Highlights whether GPS or location data is present
 - Removes hidden metadata by re-rendering the image in canvas
 - Supports JPEG, PNG, and WebP output

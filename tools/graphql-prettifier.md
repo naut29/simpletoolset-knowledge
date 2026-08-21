@@ -1,12 +1,12 @@
 ---
 title: "GraphQL Prettifier - Format GraphQL Queries Free"
 description: "SimpleToolset GraphQL Prettifier is a browser-based tool to format and indent GraphQL queries for better readability. It accepts code, structured data, URLs, files, or developer settings and returns formatted code, converted data, parsed details, or generated configuration. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for API debugging. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/developer-tools/graphql-prettifier/"
+canonical: "https://simpletoolset.com/en/developer-tools/graphql-prettifier"
 lang: "en"
 type: "tool"
 category: "developer-tools"
 tool_slug: "graphql-prettifier"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # GraphQL Prettifier - Format GraphQL Queries Free

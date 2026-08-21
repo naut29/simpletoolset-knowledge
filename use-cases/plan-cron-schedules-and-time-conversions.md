@@ -1,7 +1,7 @@
 ---
 title: "Plan Cron Schedules and Time Conversions Online"
 description: "Generate cron expressions, convert epochs, calculate intervals, and document scheduled jobs across time zones with free browser tools. Use this guide with related tools"
-canonical: "https://simpletoolset.com/en/use-cases/plan-cron-schedules-and-time-conversions/"
+canonical: "https://simpletoolset.com/en/use-cases/plan-cron-schedules-and-time-conversions"
 lang: "en"
 type: "use-case"
 category: "developer-tools"
@@ -9,7 +9,7 @@ cluster_id: "developer-data"
 cluster_title: "Developer data"
 intent: "schedule planning"
 audience: "developers, DevOps teams, and automation builders"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Plan Cron Schedules and Time Conversions Online

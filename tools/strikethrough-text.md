@@ -1,12 +1,12 @@
 ---
 title: "Strikethrough Text Generator - Cross Out Text Free"
 description: "SimpleToolset Strikethrough Text Generator is a browser-based tool to apply a horizontal line through the center of the text. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for publishing prep. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/text-tools/strikethrough-text/"
+canonical: "https://simpletoolset.com/en/text-tools/strikethrough-text"
 lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "strikethrough-text"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Strikethrough Text Generator - Cross Out Text Free

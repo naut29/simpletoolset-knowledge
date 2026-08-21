@@ -1,7 +1,7 @@
 ---
 title: "Convert and Compress Images to WebP Online"
 description: "Convert JPG and PNG images to WebP and compress them for smaller file sizes. Learn why WebP is better for websites and how to optimize images properly."
-canonical: "https://simpletoolset.com/en/use-cases/convert-and-compress-images-to-webp/"
+canonical: "https://simpletoolset.com/en/use-cases/convert-and-compress-images-to-webp"
 lang: "en"
 type: "use-case"
 category: "image-tools"
@@ -9,7 +9,7 @@ cluster_id: "image-optimization"
 cluster_title: "Image optimization"
 intent: "modern image conversion"
 audience: "developers, content teams, and ecommerce operators"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Convert and Compress Images to WebP Online

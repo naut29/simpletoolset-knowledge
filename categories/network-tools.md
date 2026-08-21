@@ -1,10 +1,10 @@
 ---
 title: "Network Tools"
 description: "Free online network tools. Parse URLs, lookup IP addresses, and analyze network information. Simple utilities for web developers and administrators."
-canonical: "https://simpletoolset.com/en/network-tools/"
+canonical: "https://simpletoolset.com/en/network-tools"
 lang: "en"
 type: "category"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Network Tools

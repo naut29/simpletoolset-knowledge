@@ -1,12 +1,12 @@
 ---
 title: "Universal Markdown Converter - Markdown to PDF, DOCX, HTML"
 description: "SimpleToolset Universal Markdown Converter is a browser-based tool to convert Markdown to HTML. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for README packaging. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/developer-tools/universal-markdown-converter/"
+canonical: "https://simpletoolset.com/en/developer-tools/universal-markdown-converter"
 lang: "en"
 type: "tool"
 category: "developer-tools"
 tool_slug: "universal-markdown-converter"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Universal Markdown Converter - Markdown to PDF, DOCX, HTML

@@ -1,12 +1,12 @@
 ---
 title: "Markdown to HTML Converter - Free Online Tool"
 description: "SimpleToolset Markdown to HTML is a browser-based tool to convert Markdown formatting into HTML code. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for blog publishing. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/text-tools/markdown-to-html/"
+canonical: "https://simpletoolset.com/en/text-tools/markdown-to-html"
 lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "markdown-to-html"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Markdown to HTML Converter - Free Online Tool

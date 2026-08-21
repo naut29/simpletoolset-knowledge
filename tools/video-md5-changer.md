@@ -1,12 +1,12 @@
 ---
 title: "Video MD5 Changer - Change Video Hash Online"
 description: "SimpleToolset Video MD5 Changer is a browser-based tool to change video file hash without affecting playback. It accepts video files, media settings, or public media URLs and returns formatted social copy, title ideas, tags, or downloadable public media. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for storage testing. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/social-tools/video-md5-changer/"
+canonical: "https://simpletoolset.com/en/social-tools/video-md5-changer"
 lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "video-md5-changer"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Video MD5 Changer - Change Video Hash Online

@@ -1,12 +1,12 @@
 ---
 title: "Hashtag Counter - Count Hashtags in Captions"
 description: "SimpleToolset Hashtag Counter is a browser-based tool to count hashtags in a caption and highlight duplicates. It accepts text pasted or typed into the browser and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for Instagram posts. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/social-tools/hashtag-counter/"
+canonical: "https://simpletoolset.com/en/social-tools/hashtag-counter"
 lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "hashtag-counter"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Hashtag Counter - Count Hashtags in Captions

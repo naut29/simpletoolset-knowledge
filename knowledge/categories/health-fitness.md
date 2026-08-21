@@ -1,10 +1,10 @@
 ---
 title: "Health & Fitness"
 description: "Free health and fitness calculators for BMI, BMR, daily calories, body composition, hydration, heart rate zones, and more. Client-side, fast, and private."
-canonical: "https://simpletoolset.com/en/health-fitness/"
+canonical: "https://simpletoolset.com/en/health-fitness"
 lang: "en"
 type: "category"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Health & Fitness

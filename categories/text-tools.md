@@ -1,10 +1,10 @@
 ---
 title: "Text Tools"
 description: "Free online text tools for writers and developers. Word counter, case converter, text sorter, password generator, and more. No signup required."
-canonical: "https://simpletoolset.com/en/text-tools/"
+canonical: "https://simpletoolset.com/en/text-tools"
 lang: "en"
 type: "category"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Text Tools

@@ -1,7 +1,7 @@
 ---
 title: "Convert Data Formats for APIs Online - Free Browser Tools"
 description: "Convert JSON, YAML, XML, GraphQL, and CSV-shaped data while preparing payloads, examples, and API documentation with free browser tools. Use this guide with related"
-canonical: "https://simpletoolset.com/en/use-cases/convert-data-formats-for-apis/"
+canonical: "https://simpletoolset.com/en/use-cases/convert-data-formats-for-apis"
 lang: "en"
 type: "use-case"
 category: "developer-tools"
@@ -9,7 +9,7 @@ cluster_id: "developer-data"
 cluster_title: "Developer data"
 intent: "API data preparation"
 audience: "developers, QA teams, and integration specialists"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Convert Data Formats for APIs Online - Free Browser Tools

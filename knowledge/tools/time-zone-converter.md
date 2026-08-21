@@ -1,12 +1,12 @@
 ---
 title: "Time Zone Converter - Convert Between Global Time Zones"
 description: "SimpleToolset Time Zone Converter is a browser-based tool to convert dates and times between global time zones. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for global meetings. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/unit-converters/time-zone-converter/"
+canonical: "https://simpletoolset.com/en/unit-converters/time-zone-converter"
 lang: "en"
 type: "tool"
 category: "unit-converters"
 tool_slug: "time-zone-converter"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Time Zone Converter - Convert Between Global Time Zones

@@ -1,10 +1,10 @@
 ---
 title: "AI Local Tools"
 description: "Private browser AI tools that run locally with on-device models. Summarize text, transcribe audio, extract text from images, and more without app-server uploads."
-canonical: "https://simpletoolset.com/en/ai-local-tools/"
+canonical: "https://simpletoolset.com/en/ai-local-tools"
 lang: "en"
 type: "category"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # AI Local Tools

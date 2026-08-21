@@ -1,12 +1,12 @@
 ---
 title: "Offline AI Text Summarizer - Free Online Tool"
 description: "SimpleToolset Offline AI Text Summarizer is a browser-based tool to summarize long documents locally in your browser RAM with a private AI model. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for internal report condensation. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/ai-local-tools/offline-ai-text-summarizer/"
+canonical: "https://simpletoolset.com/en/ai-local-tools/offline-ai-text-summarizer"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "offline-ai-text-summarizer"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Offline AI Text Summarizer - Free Online Tool

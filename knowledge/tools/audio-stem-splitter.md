@@ -1,12 +1,12 @@
 ---
 title: "Audio Stem Splitter - Local AI Vocal Remover & Music Splitter"
 description: "SimpleToolset Audio Stem Splitter is a browser-based tool to split vocals. It accepts local audio files, speech, or transcript text and returns transcript, audio result, language label, or generated speech. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for karaoke track creation. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/social-tools/audio-stem-splitter/"
+canonical: "https://simpletoolset.com/en/social-tools/audio-stem-splitter"
 lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "audio-stem-splitter"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Audio Stem Splitter - Local AI Vocal Remover & Music Splitter

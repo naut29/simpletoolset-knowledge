@@ -1,12 +1,12 @@
 ---
 title: "AI-Powered Personal Knowledge Base - Chat With Local PDFs Privately"
 description: "SimpleToolset AI-Powered Personal Knowledge Base helps you chat with local PDFs and notes in your browser with private RAG retrieval. It accepts website URLs, local notes, PDFs, or document text and returns private chat answers, source references, or searchable local index. The workflow runs locally in the browser and does not require an account or app-server upload. It is best for private PDF research. Review important outputs before relying on them."
-canonical: "https://simpletoolset.com/en/ai-local-tools/ai-powered-personal-knowledge-base-local-rag/"
+canonical: "https://simpletoolset.com/en/ai-local-tools/ai-powered-personal-knowledge-base-local-rag"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "ai-powered-personal-knowledge-base-local-rag"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # AI-Powered Personal Knowledge Base - Chat With Local PDFs Privately

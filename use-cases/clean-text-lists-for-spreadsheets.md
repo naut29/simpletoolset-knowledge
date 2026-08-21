@@ -1,7 +1,7 @@
 ---
 title: "Clean Text Lists for Spreadsheets Online"
 description: "Prepare messy lists for Excel or Google Sheets by removing duplicates, fixing casing, sorting lines, and counting entries with free browser tools."
-canonical: "https://simpletoolset.com/en/use-cases/clean-text-lists-for-spreadsheets/"
+canonical: "https://simpletoolset.com/en/use-cases/clean-text-lists-for-spreadsheets"
 lang: "en"
 type: "use-case"
 category: "text-tools"
@@ -9,7 +9,7 @@ cluster_id: "text-cleanup"
 cluster_title: "Text cleanup"
 intent: "spreadsheet list cleanup"
 audience: "analysts, operators, and spreadsheet-heavy teams"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Clean Text Lists for Spreadsheets Online

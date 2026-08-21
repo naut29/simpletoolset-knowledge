@@ -1,12 +1,12 @@
 ---
 title: "Kuaishou Video Downloader - Get Kuaishou Video Links"
 description: "SimpleToolset Kuaishou Video Downloader is a browser-based tool to get download links from Kuaishou videos (best-effort). It accepts video files, media settings, or public media URLs and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow uses browser input with network-backed lookup where needed and does not require an account or app-server upload, which makes it useful for creator-owned backup. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/social-tools/kuaishou-video-downloader/"
+canonical: "https://simpletoolset.com/en/social-tools/kuaishou-video-downloader"
 lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "kuaishou-video-downloader"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Kuaishou Video Downloader - Get Kuaishou Video Links

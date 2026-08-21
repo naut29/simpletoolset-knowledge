@@ -1,10 +1,10 @@
 ---
 title: "Design Tools"
 description: "Free online design tools. Create CSS gradients, generate color palettes, optimize SVGs, and create favicons. Essential tools for web designers."
-canonical: "https://simpletoolset.com/en/design-tools/"
+canonical: "https://simpletoolset.com/en/design-tools"
 lang: "en"
 type: "category"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Design Tools

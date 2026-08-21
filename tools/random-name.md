@@ -1,12 +1,12 @@
 ---
 title: "Random Name Generator - Generate Names Free Online"
 description: "SimpleToolset Random Name Generator is a browser-based tool to generate random names for projects. It accepts text pasted or typed into the browser and returns generated value, code, QR image, or copyable result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for story characters. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/utility-tools/random-name/"
+canonical: "https://simpletoolset.com/en/utility-tools/random-name"
 lang: "en"
 type: "tool"
 category: "utility-tools"
 tool_slug: "random-name"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Random Name Generator - Generate Names Free Online

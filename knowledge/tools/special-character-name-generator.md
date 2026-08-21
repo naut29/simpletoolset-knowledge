@@ -1,12 +1,12 @@
 ---
 title: "Special Character Name Generator - Fancy Nicknames for Games"
 description: "SimpleToolset Special Character Name Generator is a browser-based tool to create fancy nicknames with symbols and Unicode decorations. It accepts text pasted or typed into the browser and returns generated value, code, QR image, or copyable result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for gaming nicknames. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/text-tools/special-character-name-generator/"
+canonical: "https://simpletoolset.com/en/text-tools/special-character-name-generator"
 lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "special-character-name-generator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Special Character Name Generator - Fancy Nicknames for Games

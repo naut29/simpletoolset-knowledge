@@ -1,7 +1,7 @@
 ---
 title: "Generate Test Data for QA Online - Free Browser Tools"
 description: "Create names, numbers, UUIDs, and placeholder text for QA scenarios, mock records, demos, and repeatable test cases with free browser tools."
-canonical: "https://simpletoolset.com/en/use-cases/generate-test-data-for-qa/"
+canonical: "https://simpletoolset.com/en/use-cases/generate-test-data-for-qa"
 lang: "en"
 type: "use-case"
 category: "utility-tools"
@@ -9,7 +9,7 @@ cluster_id: "security-qa"
 cluster_title: "Security and QA"
 intent: "safe test data generation"
 audience: "QA engineers, developers, and product testers"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Generate Test Data for QA Online - Free Browser Tools

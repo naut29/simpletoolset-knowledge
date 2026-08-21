@@ -1,7 +1,7 @@
 ---
 title: "Reduce Image Size Without Losing Quality"
 description: "Reduce image file size without visible quality loss. Learn the best formats and settings, then compress images in your browser with free tools."
-canonical: "https://simpletoolset.com/en/use-cases/reduce-image-size-without-losing-quality/"
+canonical: "https://simpletoolset.com/en/use-cases/reduce-image-size-without-losing-quality"
 lang: "en"
 type: "use-case"
 category: "image-tools"
@@ -9,7 +9,7 @@ cluster_id: "image-optimization"
 cluster_title: "Image optimization"
 intent: "image size reduction"
 audience: "publishers, designers, and website owners"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Reduce Image Size Without Losing Quality

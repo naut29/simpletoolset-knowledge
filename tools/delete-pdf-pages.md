@@ -1,12 +1,12 @@
 ---
 title: "Delete PDF Pages - Remove Pages Online Free"
 description: "SimpleToolset Delete PDF Pages is a browser-based tool to remove unwanted pages from a PDF document. It accepts PDF or document files selected in the browser and returns updated document, extracted content, or downloadable PDF. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for scan cleanup. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/pdf-tools/delete-pdf-pages/"
+canonical: "https://simpletoolset.com/en/pdf-tools/delete-pdf-pages"
 lang: "en"
 type: "tool"
 category: "pdf-tools"
 tool_slug: "delete-pdf-pages"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Delete PDF Pages - Remove Pages Online Free

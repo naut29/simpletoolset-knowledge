@@ -1,12 +1,12 @@
 ---
 title: "Private AI Content Auditor - Free Online Tool"
 description: "SimpleToolset Private AI Content Auditor is a browser-based tool to audit SEO structure. It accepts text pasted or typed into the browser and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for private SEO draft review. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/ai-local-tools/private-ai-content-auditor/"
+canonical: "https://simpletoolset.com/en/ai-local-tools/private-ai-content-auditor"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "private-ai-content-auditor"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Private AI Content Auditor - Free Online Tool

@@ -1,12 +1,12 @@
 ---
 title: "In-Browser AI Privacy Image Filter - Free Online Tool"
 description: "SimpleToolset In-Browser AI Privacy Image Filter helps you blur faces or replace them with cartoon privacy avatars locally in your browser with MediaPipe and TensorFlow.js. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow runs locally in the browser and does not require an account or app-server upload. It is best for social-media image prep. Review important outputs before relying on them."
-canonical: "https://simpletoolset.com/en/ai-local-tools/in-browser-ai-privacy-image-filter/"
+canonical: "https://simpletoolset.com/en/ai-local-tools/in-browser-ai-privacy-image-filter"
 lang: "en"
 type: "tool"
 category: "ai-local-tools"
 tool_slug: "in-browser-ai-privacy-image-filter"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # In-Browser AI Privacy Image Filter - Free Online Tool

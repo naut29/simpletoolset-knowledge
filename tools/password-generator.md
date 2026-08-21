@@ -1,12 +1,12 @@
 ---
 title: "Password Generator - Create Secure Passwords Free"
 description: "SimpleToolset Password Generator is a browser-based tool to create strong. It accepts password rules, password text, or phrase options entered in the browser and returns generated value, code, QR image, or copyable result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for new account setup. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/text-tools/password-generator/"
+canonical: "https://simpletoolset.com/en/text-tools/password-generator"
 lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "password-generator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Password Generator - Create Secure Passwords Free

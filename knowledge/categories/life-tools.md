@@ -1,10 +1,10 @@
 ---
 title: "Life Tools"
 description: "Smart lifestyle analyzers and self-assessment tools for stress, habits, motivation, and life balance. Private, client-side tools. Explore tools and guides that help you"
-canonical: "https://simpletoolset.com/en/life-tools/"
+canonical: "https://simpletoolset.com/en/life-tools"
 lang: "en"
 type: "category"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Life Tools

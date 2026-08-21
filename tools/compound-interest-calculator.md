@@ -1,12 +1,12 @@
 ---
 title: "Compound Interest Calculator - Contributions & EAR"
 description: "SimpleToolset Compound Interest Calculator is a browser-based tool to calculate compound growth with contributions and effective rate. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for emergency fund growth. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/financial-tools/compound-interest-calculator/"
+canonical: "https://simpletoolset.com/en/financial-tools/compound-interest-calculator"
 lang: "en"
 type: "tool"
 category: "financial-tools"
 tool_slug: "compound-interest-calculator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Compound Interest Calculator - Contributions & EAR

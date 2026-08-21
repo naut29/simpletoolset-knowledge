@@ -1,7 +1,7 @@
 ---
 title: "Compare Document Versions Online - Free Browser Tools"
 description: "Compare drafts, clean copied text, sort sections, and count changes before accepting edits or publishing a document with free browser tools."
-canonical: "https://simpletoolset.com/en/use-cases/compare-document-versions/"
+canonical: "https://simpletoolset.com/en/use-cases/compare-document-versions"
 lang: "en"
 type: "use-case"
 category: "text-tools"
@@ -9,7 +9,7 @@ cluster_id: "text-cleanup"
 cluster_title: "Text cleanup"
 intent: "document review"
 audience: "editors, reviewers, and content teams"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Compare Document Versions Online - Free Browser Tools

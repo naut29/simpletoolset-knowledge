@@ -1,12 +1,12 @@
 ---
 title: "Twitter/X Thread Splitter - Split Long Posts"
 description: "SimpleToolset Twitter/X Thread Splitter is a browser-based tool to split long text into thread-ready parts within a limit. It accepts text pasted or typed into the browser and returns cleaned, generated, counted, or reformatted text. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for how to threads. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/social-tools/twitter-x-thread-splitter/"
+canonical: "https://simpletoolset.com/en/social-tools/twitter-x-thread-splitter"
 lang: "en"
 type: "tool"
 category: "social-tools"
 tool_slug: "twitter-x-thread-splitter"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Twitter/X Thread Splitter - Split Long Posts

@@ -1,12 +1,12 @@
 ---
 title: "Vaginal Comfort & Intimacy Log - Private Local Comfort Tracker"
 description: "SimpleToolset Vaginal Comfort & Intimacy Log is a browser-based tool to track vaginal dryness. It accepts code, markup, structured data, or developer text and returns formatted code, converted data, parsed details, or downloadable export. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for private menopause dryness journal. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/health-fitness/vaginal-comfort-intimacy-log/"
+canonical: "https://simpletoolset.com/en/health-fitness/vaginal-comfort-intimacy-log"
 lang: "en"
 type: "tool"
 category: "health-fitness"
 tool_slug: "vaginal-comfort-intimacy-log"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Vaginal Comfort & Intimacy Log - Private Local Comfort Tracker

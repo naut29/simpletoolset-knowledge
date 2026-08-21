@@ -1,12 +1,12 @@
 ---
 title: "Keyword Frequency Analyzer - Free Word Density Tool"
 description: "SimpleToolset Keyword Frequency Analyzer is a browser-based tool to analyze and count the density of words within a text. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for SEO optimization. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/text-tools/keyword-frequency/"
+canonical: "https://simpletoolset.com/en/text-tools/keyword-frequency"
 lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "keyword-frequency"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Keyword Frequency Analyzer - Free Word Density Tool

@@ -1,12 +1,12 @@
 ---
 title: "BMR Calculator - Mifflin-St Jeor Equation"
 description: "SimpleToolset BMR Calculator is a browser-based tool to estimate basal metabolic rate with Mifflin-St Jeor. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for fitness planning. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/health-fitness/bmr-calculator/"
+canonical: "https://simpletoolset.com/en/health-fitness/bmr-calculator"
 lang: "en"
 type: "tool"
 category: "health-fitness"
 tool_slug: "bmr-calculator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # BMR Calculator - Mifflin-St Jeor Equation

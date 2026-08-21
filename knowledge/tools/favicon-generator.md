@@ -1,12 +1,12 @@
 ---
 title: "Favicon Generator - Create Website Icons Free"
 description: "SimpleToolset Favicon Generator is a browser-based tool to create website favicons from uploaded images. It accepts website URLs, local notes, PDFs, or document text and returns private chat answers, source references, or searchable local index. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for brand launch. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/design-tools/favicon-generator/"
+canonical: "https://simpletoolset.com/en/design-tools/favicon-generator"
 lang: "en"
 type: "tool"
 category: "design-tools"
 tool_slug: "favicon-generator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Favicon Generator - Create Website Icons Free

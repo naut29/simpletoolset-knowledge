@@ -1,12 +1,12 @@
 ---
 title: "Image Watermark Tool - Add Text Watermarks"
 description: "SimpleToolset Image Watermark Tool is a browser-based tool to add text watermarks to images. It accepts image files selected in the browser and returns processed image preview and downloadable image file. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for client previews. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/image-tools/image-watermark-tool/"
+canonical: "https://simpletoolset.com/en/image-tools/image-watermark-tool"
 lang: "en"
 type: "tool"
 category: "image-tools"
 tool_slug: "image-watermark-tool"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Image Watermark Tool - Add Text Watermarks

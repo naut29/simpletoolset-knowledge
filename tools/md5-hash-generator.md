@@ -1,12 +1,12 @@
 ---
 title: "MD5 Hash Generator - Free Online MD5 Checksum Tool"
 description: "SimpleToolset MD5 Hash Generator is a browser-based tool to generate MD5 hash checksums from text for data integrity verification. It accepts numbers, units, rates, dates, and calculation assumptions and returns calculated estimate, converted value, table, or score. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for file verification. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/utility-tools/md5-hash-generator/"
+canonical: "https://simpletoolset.com/en/utility-tools/md5-hash-generator"
 lang: "en"
 type: "tool"
 category: "utility-tools"
 tool_slug: "md5-hash-generator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # MD5 Hash Generator - Free Online MD5 Checksum Tool

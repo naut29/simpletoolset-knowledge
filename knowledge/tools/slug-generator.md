@@ -1,12 +1,12 @@
 ---
 title: "Slug Generator - Create SEO-Friendly URLs Free"
 description: "SimpleToolset Slug Generator is a browser-based tool to create SEO-friendly URL slugs from titles. It accepts URLs, links, IPs, user-agent strings, or network values and returns parsed URL parts, diagnostics, tracking link, or lookup result. The workflow runs locally in the browser and does not require an account or app-server upload, which makes it useful for blog publishing. Use it for quick checks and exports; review important results before relying on them."
-canonical: "https://simpletoolset.com/en/text-tools/slug-generator/"
+canonical: "https://simpletoolset.com/en/text-tools/slug-generator"
 lang: "en"
 type: "tool"
 category: "text-tools"
 tool_slug: "slug-generator"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Slug Generator - Create SEO-Friendly URLs Free

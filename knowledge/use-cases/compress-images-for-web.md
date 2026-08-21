@@ -1,7 +1,7 @@
 ---
 title: "Compress Images for Web Performance"
 description: "Reduce image size without noticeable quality loss. Learn when to compress, which formats to use, and try free tools for faster page loads. Use this guide with related"
-canonical: "https://simpletoolset.com/en/use-cases/compress-images-for-web/"
+canonical: "https://simpletoolset.com/en/use-cases/compress-images-for-web"
 lang: "en"
 type: "use-case"
 category: "image-tools"
@@ -9,7 +9,7 @@ cluster_id: "image-optimization"
 cluster_title: "Image optimization"
 intent: "website image compression"
 audience: "site owners, bloggers, and web teams"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Compress Images for Web Performance

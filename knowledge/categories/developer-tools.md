@@ -1,10 +1,10 @@
 ---
 title: "Developer Tools"
 description: "Free online developer tools. Format XML, JSON, SQL, test regex, decode JWT tokens, and generate cron expressions. Essential tools for programmers."
-canonical: "https://simpletoolset.com/en/developer-tools/"
+canonical: "https://simpletoolset.com/en/developer-tools"
 lang: "en"
 type: "category"
-date_generated: "2026-08-12T09:07:37.917Z"
+date_generated: "2026-08-21T07:29:12.443Z"
 ---
 
 # Developer Tools
